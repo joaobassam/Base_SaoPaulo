@@ -267,7 +267,7 @@ def main():
             rank_ano = "-"
             rank_pos = "-"
 
-            # Rank geral (já vem em ranking_full)
+            # Rank geral
             linha_geral = ranking_full[ranking_full["ID"] == jogador_id_escolhido]
             if not linha_geral.empty:
                 rank_geral = int(linha_geral.iloc[0]["Rank"])
@@ -347,7 +347,7 @@ def main():
 
             st.markdown("---")
 
-            # Filtrar jogos do jogador
+            # Filtrar jogos do jogador (base)
             jogos_jogador = games[games["ID"] == jogador_id_escolhido].copy()
 
             # --- Pontuação total do jogador ---
@@ -367,12 +367,15 @@ def main():
                 "Você pode adicionar novas linhas para incluir novas competições."
             )
 
+            # ----- IMPORTANTÍSSIMO: resetar índice para evitar None -----
+            jogos_jogador_display = jogos_jogador.reset_index(drop=True)
+
             # Placeholder para o totalizador acima da tabela
             tot_placeholder = st.empty()
 
             # Editor de dados
             edited_df = st.data_editor(
-                jogos_jogador,
+                jogos_jogador_display,
                 num_rows="dynamic",
                 use_container_width=True,
                 key="editor_jogador",
@@ -404,6 +407,26 @@ def main():
                     "Salvar alterações do jogador e jogos",
                     type="primary",
                 ):
+                    # ---- Remover linhas totalmente vazias (sem competição) ----
+                    if "Competição" in edited_df.columns:
+                        edited_df["Competição"] = edited_df["Competição"].astype(str)
+                        edited_df = edited_df[
+                            edited_df["Competição"].str.strip() != ""
+                        ]
+
+                    # ---- Preencher automaticamente Jogador e ID nas novas linhas ----
+                    if "Jogador" in edited_df.columns:
+                        edited_df["Jogador"] = edited_df["Jogador"].replace("", np.nan)
+                        edited_df["Jogador"] = edited_df["Jogador"].fillna(jogador_nome)
+                    else:
+                        edited_df["Jogador"] = jogador_nome
+
+                    if "ID" in edited_df.columns:
+                        edited_df["ID"] = edited_df["ID"].replace("", np.nan)
+                        edited_df["ID"] = edited_df["ID"].fillna(jogador_id_escolhido)
+                    else:
+                        edited_df["ID"] = jogador_id_escolhido
+
                     # ---- Atualizar STATUS do jogador ----
                     players_df = st.session_state["players"]
                     mask_jog = players_df["ID"] == jogador_id_escolhido
@@ -413,7 +436,7 @@ def main():
                     # ---- Atualizar jogos do jogador ----
                     df_all = st.session_state["games"]
 
-                    # Remover todas as linhas do jogador atual
+                    # Remover todas as linhas do jogador atual na base
                     df_all_sem_jogador = df_all[df_all["ID"] != jogador_id_escolhido]
 
                     # Garantir colunas numéricas
@@ -571,3 +594,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
