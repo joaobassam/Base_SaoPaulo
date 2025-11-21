@@ -227,14 +227,17 @@ def main():
     with tab_jogador:
         st.subheader("👤 Ficha do Jogador")
 
+        # Ranking completo (para calcular ranks individuais)
+        ranking_full = build_ranking_df(games, players, comp)
+
         # Filtro de ano para jogadores
         anos_disponiveis = sorted(players["Ano"].dropna().unique().tolist())
         anos_labels = ["Todos"] + [str(int(a)) for a in anos_disponiveis]
         ano_ficha = st.selectbox("Filtrar jogadores por ano (Ano do cadastro):", anos_labels)
 
         if ano_ficha != "Todos":
-            ano_val = int(ano_ficha)
-            players_filtered = players[players["Ano"] == ano_val].copy()
+            ano_val_ficha = int(ano_ficha)
+            players_filtered = players[players["Ano"] == ano_val_ficha].copy()
         else:
             players_filtered = players.copy()
 
@@ -255,16 +258,51 @@ def main():
             # Dados do jogador no cadastro (com base no DF completo)
             dados_jogador = players[players["ID"] == jogador_id_escolhido].iloc[0]
 
-            col_info1, col_info2, col_info3 = st.columns([2, 1.5, 1.5])
+            jogador_nome = dados_jogador["Jogador"]
+            jogador_pos = dados_jogador["Posição"]
+            jogador_ano = dados_jogador["Ano"]
+
+            # ---------- Cálculo dos RANKS ----------
+            rank_geral = "-"
+            rank_ano = "-"
+            rank_pos = "-"
+
+            # Rank geral (já vem em ranking_full)
+            linha_geral = ranking_full[ranking_full["ID"] == jogador_id_escolhido]
+            if not linha_geral.empty:
+                rank_geral = int(linha_geral.iloc[0]["Rank"])
+
+            # Rank no ano (entre jogadores com mesmo ano)
+            if not pd.isna(jogador_ano):
+                ranking_ano = ranking_full[ranking_full["Ano"] == jogador_ano].copy()
+                if not ranking_ano.empty:
+                    ranking_ano = ranking_ano.sort_values("Pontuacao_Total", ascending=False)
+                    ranking_ano["Rank_Ano"] = range(1, len(ranking_ano) + 1)
+                    linha_ano = ranking_ano[ranking_ano["ID"] == jogador_id_escolhido]
+                    if not linha_ano.empty:
+                        rank_ano = int(linha_ano.iloc[0]["Rank_Ano"])
+
+            # Rank na posição (entre jogadores da mesma posição em todos os anos)
+            if isinstance(jogador_pos, str) and jogador_pos.strip():
+                ranking_pos = ranking_full[ranking_full["Posição"] == jogador_pos].copy()
+                if not ranking_pos.empty:
+                    ranking_pos = ranking_pos.sort_values("Pontuacao_Total", ascending=False)
+                    ranking_pos["Rank_Pos"] = range(1, len(ranking_pos) + 1)
+                    linha_pos = ranking_pos[ranking_pos["ID"] == jogador_id_escolhido]
+                    if not linha_pos.empty:
+                        rank_pos = int(linha_pos.iloc[0]["Rank_Pos"])
+
+            # ---------- Cabeçalho da ficha ----------
+            col_info1, col_info2, col_info3 = st.columns([2, 1.8, 1.8])
             with col_info1:
-                st.markdown(f"**Nome:** {dados_jogador['Jogador']}")
+                st.markdown(f"**Nome:** {jogador_nome}")
                 st.markdown(f"**ID:** {dados_jogador['ID']}")
-                st.markdown(f"**Posição:** {dados_jogador['Posição']}")
+                st.markdown(f"**Posição:** {jogador_pos}")
 
             with col_info2:
                 ano_str = (
-                    str(int(dados_jogador["Ano"]))
-                    if not pd.isna(dados_jogador["Ano"])
+                    str(int(jogador_ano))
+                    if not pd.isna(jogador_ano)
                     else "-"
                 )
                 st.markdown(f"**Ano:** {ano_str}")
@@ -297,24 +335,34 @@ def main():
                 else:
                     st.markdown("**Última atualização nesta sessão:** Nunca atualizada.")
 
+            # Linha com os RANKS
+            st.markdown("---")
+            col_r1, col_r2, col_r3 = st.columns(3)
+            with col_r1:
+                st.markdown(f"**🏅 Rank Geral:** {rank_geral}")
+            with col_r2:
+                st.markdown(f"**📆 Rank no Ano ({ano_str}):** {rank_ano}")
+            with col_r3:
+                st.markdown(f"**🎯 Rank na Posição ({jogador_pos}):** {rank_pos}")
+
             st.markdown("---")
 
             # Filtrar jogos do jogador
             jogos_jogador = games[games["ID"] == jogador_id_escolhido].copy()
 
             # --- Pontuação total do jogador ---
-               if not jogos_jogador.empty:
-               jogos_scored_individual = compute_scores(jogos_jogador, comp)
-               pont_total = int(jogos_scored_individual["Score"].sum())
+            if not jogos_jogador.empty:
+                jogos_scored_individual = compute_scores(jogos_jogador, comp)
+                pont_total = int(jogos_scored_individual["Score"].sum())
             else:
-               pont_total = 0
+                pont_total = 0
 
             st.markdown(f"""
-            ### 🏅 Pontuação Total do Jogador: **{pont_total}**
-            """)
+### 🏅 Pontuação Total do Jogador: **{pont_total}**
+""")
 
             st.markdown("### 📋 Lista de Competições / Jogos do Jogador")
-
+            st.markdown(
                 "Edite os valores diretamente na tabela abaixo. "
                 "Você pode adicionar novas linhas para incluir novas competições."
             )
