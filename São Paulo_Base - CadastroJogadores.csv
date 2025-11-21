@@ -1,0 +1,525 @@
+Jogador,ID,Posição,Link,Ano,Status
+Richard,123999,Goleiro,https://www.ogol.com.br/jogador/richard-/123999/competicoes,1991,Ativo
+Cleiton,215759,Lateral Esquerdo,https://www.ogol.com.br/jogador/cleiton/215759/competicoes,1992,Retirado
+Régis,137651,Meia,https://www.ogol.com.br/jogador/regis/137651/competicoes,1992,Ativo
+Alfredo,134257,Atacante,https://www.ogol.com.br/jogador/alfredo/134257/competicoes,1992,Ativo
+Marcelo Augusto,137352,Zagueiro,https://www.ogol.com.br/jogador/marcelo-augusto/137352/competicoes,1993,Ativo
+João Schmidt,137350,Volante,https://www.ogol.com.br/jogador/joao-schmidt/137350/competicoes,1993,Ativo
+Luiz Paulo,137647,Zagueiro,https://www.ogol.com.br/jogador/luiz-paulo/137647/competicoes,1992,Retirado
+Bruno Cantanhede,204556,Atacante,https://www.ogol.com.br/jogador/bruno-cantanhede/204556/competicoes,1993,Ativo
+Marcel,137648,Volante,https://www.ogol.com.br/jogador/marcel/137648/competicoes,1992,Retirado
+Lucas Mendes,137646,Lateral Direito,https://www.ogol.com.br/jogador/lucas-mendes/137646/competicoes,1992,Ativo
+Gabriel Modesto,137346,Lateral Direito,https://www.ogol.com.br/jogador/gabriel/137346/competicoes,1993,Retirado
+Dener,137355,Meia,https://www.ogol.com.br/jogador/dener/137355/competicoes,1992,Ativo
+Léo Navacchio,134255,Goleiro,https://www.ogol.com.br/jogador/leo-navacchio/134255/competicoes,1992,Ativo
+Hugo Rodrigues,215760,Meia,https://www.ogol.com.br/jogador/hugo-rodrigues/215760/competicoes,1993,Retirado
+Gabriel Xavier,137347,Meia,https://www.ogol.com.br/jogador/gabriel-xavier/137347/competicoes,1993,Ativo
+Fabiano dos Santos,548196,Zagueiro,https://www.ogol.com.br/jogador/fabiano-dos-santos/548196/competicoes,1991,Retirado
+Felipe Passoni,137344,Goleiro,https://www.ogol.com.br/jogador/felipe-passoni/137344/competicoes,1993,Retirado
+Paulinho,137650,Meia,https://www.ogol.com.br/jogador/paulinho/137650/competicoes,1992,Retirado
+Patrick Cruz,215761,Atacante,https://www.ogol.com.br/jogador/patrick-cruz/215761/competicoes,1993,Ativo
+Felipe Barros,215762,Zagueiro,https://www.ogol.com.br/jogador/felipe-barros/215762/competicoes,1994,Retirado
+Pedrinho,215772,Meia,https://www.ogol.com.br/jogador/pedrinho/215772/competicoes,1994,Retirado
+Bruno Anjos,137653,Atacante,https://www.ogol.com.br/jogador/bruno-anjos/137653/competicoes,1991,Retirado
+Danilo,137354,Lateral Direito,https://www.ogol.com.br/jogador/danilo/137354/competicoes,1992,Retirado
+Danilo Mohamed,238269,Lateral Direito,https://www.ogol.com.br/jogador/danilo-mohamed/238269/competicoes,1994,Retirado
+Allan,187761,Volante,https://www.ogol.com.br/jogador/allan/187761/competicoes,1994,Ativo
+Ademilson,201328,Atacante,https://www.ogol.com.br/jogador/ademilson/201328/competicoes,1994,Ativo
+Mauricio Antonio,137649,Zagueiro,https://www.ogol.com.br/jogador/mauricio-antonio/137649/competicoes,1992,Ativo
+Pablo,215758,Goleiro,https://www.ogol.com.br/jogador/pablo/215758/competicoes,1992,Ativo
+Guilherme Correia,137348,Atacante,https://www.ogol.com.br/jogador/guilherme-correia/137348/competicoes,1993,Retirado
+Lucas Douglas,238270,Atacante,https://www.ogol.com.br/jogador/lucas-douglas/238270/competicoes,1994,Ativo
+Natan,414888,Meia,https://www.ogol.com.br/jogador/natan/414888/competicoes,1993,Retirado
+Stanley,504558,Atacante,https://www.ogol.com.br/jogador/stanley/504558/competicoes,1993,Retirado
+Leonardo Boni,216135,Zagueiro,https://www.ogol.com.br/jogador/leonardo-boni/216135/competicoes,1995,Retirado
+Roni,64778,Atacante,https://www.ogol.com.br/jogador/roni/64778/competicoes,1991,Retirado
+Henrique Miranda,137353,Lateral Esquerdo,https://www.ogol.com.br/jogador/henrique-miranda/137353/competicoes,1993,Retirado
+Luiz Eduardo,137351,Zagueiro,https://www.ogol.com.br/jogador/luiz-eduardo/137351/competicoes,1993,Ativo
+Rodrigo Caio,134256,Zagueiro,https://www.ogol.com.br/jogador/rodrigo-caio/134256/competicoes,1993,Retirado
+Caio Barbosa,280652,Meia,https://www.ogol.com.br/jogador/caio-barbosa/280652/competicoes,1992,Retirado
+Bruno Uvini,132377,Zagueiro,https://www.ogol.com.br/jogador/bruno-uvini/132377/competicoes,1991,Ativo
+Casemiro,95621,Volante,https://www.ogol.com.br/jogador/casemiro/95621/competicoes,1992,Ativo
+Felipe Emanuel,137356,Lateral Esquerdo,https://www.ogol.com.br/jogador/felipe-emanuel/137356/competicoes,1992,Retirado
+Zé Vitor,134254,Volante,https://www.ogol.com.br/jogador/ze-vitor/134254/competicoes,1991,Retirado
+Jeferson Paulista,134253,Meia,https://www.ogol.com.br/jogador/jeferson-paulista/134253/competicoes,1992,Retirado
+Lucas Moura,132213,Atacante,https://www.ogol.com.br/jogador/lucas-moura/132213/competicoes,1992,Ativo
+Lucas Gaúcho,132212,Atacante,https://www.ogol.com.br/jogador/lucas-gaucho/132212/competicoes,1991,Ativo
+Willian Arão,137652,Volante,https://www.ogol.com.br/jogador/willian-arao/137652/competicoes,1992,Ativo
+Rafinha,137662,Meia,https://www.ogol.com.br/jogador/rafinha/137662/competicoes,1990,Retirado
+Juninho Frizzi,192751,Atacante,https://www.ogol.com.br/jogador/juninho-frizzi/192751/competicoes,1990,Retirado
+Acácio,393072,Lateral Direito,https://www.ogol.com.br/jogador/acacio/393072/competicoes,1992,Retirado
+Nelsinho,215771,Meia,https://www.ogol.com.br/jogador/nelsinho/215771/competicoes,1994,Ativo
+Fabio Lima,198659,Meia,https://www.ogol.com.br/jogador/fabio-lima/198659/competicoes,1993,Ativo
+Lucas Farias,132439,Lateral Direito,https://www.ogol.com.br/jogador/lucas-farias/132439/competicoes,1994,Retirado
+Matheus Reis,395702,Lateral Esquerdo,https://www.ogol.com.br/jogador/matheus-reis/395702/competicoes,1995,Ativo
+Mirrai,215770,Meia,https://www.ogol.com.br/jogador/mirrai/215770/competicoes,1994,Retirado
+Carlos Chabá,215766,Zagueiro,https://www.ogol.com.br/jogador/carlos-chaba/215766/competicoes,1994,Ativo
+Joelton,289196,Atacante,https://www.ogol.com.br/jogador/joelton/289196/competicoes,1993,Retirado
+Lucas Possignolo,238340,Zagueiro,https://www.ogol.com.br/jogador/lucas-possignolo/238340/competicoes,1994,Ativo
+Arthur Henrique,215765,Lateral Esquerdo,https://www.ogol.com.br/jogador/arthur-henrique/215765/competicoes,1994,Ativo
+Ailton,215763,Atacante,https://www.ogol.com.br/jogador/ailton/215763/competicoes,1994,Retirado
+Santly Santos,258980,Atacante,https://www.ogol.com.br/jogador/stanly-santos/258980/competicoes,1994,Retirado
+Paulo Marcelo,216149,Atacante,https://www.ogol.com.br/jogador/paulo-marcelo/216149/competicoes,1995,Ativo
+PK,258981,Lateral Esquerdo,https://www.ogol.com.br/jogador/pk/258981/competicoes,1994,Ativo
+Tiago Moura,289197,Atacante,https://www.ogol.com.br/jogador/tiago-moura/289197/competicoes,1993,Ativo
+Hugo Gomes,216127,Zagueiro,https://www.ogol.com.br/jogador/hugo-gomes/216127/competicoes,1995,Ativo
+Gabriel Miotti,215769,Goleiro,https://www.ogol.com.br/jogador/gabriel-miotti/215769/competicoes,1994,Retirado
+Vitor Mattioli,216161,Zagueiro,https://www.ogol.com.br/jogador/vitor/216161/competicoes,1995,Retirado
+Kalil,258983,Volante,https://www.ogol.com.br/jogador/kalil/258983/competicoes,1995,Retirado
+Polidoro Junior,456284,Zagueiro,https://www.ogol.com.br/jogador/polidoro-junior/456284/competicoes,1996,Retirado
+Tom,561077,Zagueiro,https://www.ogol.com.br/jogador/tom/561077/competicoes,1996,Retirado
+Léo Coca,500027,Meia,https://www.ogol.com.br/jogador/leo-coca/500027/competicoes,1996,Ativo
+Léo Felix,647940,Lateral Direito,https://www.ogol.com.br/jogador/leo-felix/647940/competicoes,1995,Retirado
+Matheus Barreto,216140,Volante,https://www.ogol.com.br/jogador/matheus-barreto/216140/competicoes,1995,Retirado
+Gustavo Zumpano,216126,Meia,https://www.ogol.com.br/jogador/gustavo-zumpano/216126/competicoes,1995,Retirado
+Pedro Leão,216151,Meia,https://www.ogol.com.br/jogador/pedro-leao/216151/competicoes,1995,Retirado
+Lucão,364319,Zagueiro,https://www.ogol.com.br/jogador/lucao/364319/competicoes,1996,Ativo
+Juliano Levak,519436,Atacante,https://www.ogol.com.br/jogador/juliano-levak/519436/competicoes,1996,Retirado
+João Paulo,446901,Atacante,https://www.ogol.com.br/jogador/joao-paulo/446901/competicoes,1996,Ativo
+Ty Sandows,216160,Atacante,https://www.ogol.com.br/jogador/ty-sandows/216160/competicoes,1995,Ativo
+Diego Carlos,197035,Zagueiro,https://www.ogol.com.br/jogador/diego-carlos/197035/competicoes,1993,Ativo
+Gladestony,197038,Volante,https://www.ogol.com.br/jogador/gladestony/197038/competicoes,1993,Ativo
+Lucas Evangelista,197138,Meia,https://www.ogol.com.br/jogador/lucas-evangelista/197138/competicoes,1995,Ativo
+Bismarck,228421,Meia,https://www.ogol.com.br/jogador/bismark/228421/competicoes,1993,Ativo
+Robinson,730314,Atacante,https://www.ogol.com.br/jogador/robinson/730314/competicoes,1997,Retirado
+Danilo Oliveira,266563,Atacante,https://www.ogol.com.br/jogador/danilo-oliveira/266563/competicoes,1995,Ativo
+Leonardo Kalil,435000,Atacante,https://www.ogol.com.br/jogador/leonardo-kalil/435000/competicoes,1996,Ativo
+Vitor Tormena,446900,Zagueiro,https://www.ogol.com.br/jogador/vitor-tormena/446900/competicoes,1996,Ativo
+Eduardo Henrique,201758,Volante,https://www.ogol.com.br/jogador/eduardo-henrique/201758/competicoes,1995,Ativo
+Jairo,136127,Goleiro,https://www.ogol.com.br/jogador/jairo/136127/competicoes,1994,Retirado
+Andinho,289198,Atacante,https://www.ogol.com.br/jogador/andinho/289198/competicoes,1994,Retirado
+Foguete,320704,Lateral Direito,https://www.ogol.com.br/jogador/foguete/320704/competicoes,1996,Ativo
+Michael,216147,Goleiro,https://www.ogol.com.br/jogador/michael/216147/competicoes,1995,Ativo
+Lucas Fernandes,458728,Meia,https://www.ogol.com.br/jogador/lucas-fernandes/458728/competicoes,1997,Ativo
+Ewandro,368185,Atacante,https://www.ogol.com.br/jogador/ewandro/368185/competicoes,1996,Ativo
+Luiz Araújo,312250,Atacante,https://www.ogol.com.br/jogador/luiz-araujo/312250/competicoes,1996,Ativo
+Adelino,201768,Atacante,https://www.ogol.com.br/jogador/adelino/201768/competicoes,1994,Retirado
+Victor Juffo,289195,Meia,https://www.ogol.com.br/jogador/victor-juffo/289195/competicoes,1993,Retirado
+Daniel Chula,262788,Lateral Direito,https://www.ogol.com.br/jogador/daniel-chula/262788/competicoes,1993,Retirado
+Léo Paoli,238268,Atacante,https://www.ogol.com.br/jogador/leo-paoli/238268/competicoes,1995,Retirado
+Wele Dener,258984,Meia,https://www.ogol.com.br/jogador/wele-dener/258984/competicoes,1995,Retirado
+Rafael Frarão,216154,Lateral Esquerdo,https://www.ogol.com.br/jogador/rafael-frarao/216154/competicoes,1995,Retirado
+Marquinhos Nunes,216138,Meia,https://www.ogol.com.br/jogador/marquinhos/216138/competicoes,1995,Retirado
+Thiago Franceschi,289192,Goleiro,https://www.ogol.com.br/jogador/thiago/289192/competicoes,1995,Retirado
+Denner,216074,Atacante,https://www.ogol.com.br/jogador/denner/216074/competicoes,1995,Retirado
+Lucão Giraldeli,262785,Goleiro,https://www.ogol.com.br/jogador/lucao/262785/competicoes,1995,Retirado
+Aguilar,197147,Atacante,https://www.ogol.com.br/jogador/aguilar/197147/competicoes,1995,Retirado
+Yago,308935,Meia,https://www.ogol.com.br/jogador/yago/308935/competicoes,1995,Retirado
+Gabriel Novais,216088,Zagueiro,https://www.ogol.com.br/jogador/gabriel-novais/216088/competicoes,1995,Retirado
+Allan Machado,395229,Meia,https://www.ogol.com.br/jogador/allan-machado/395229/competicoes,1994,Ativo
+Valença,450108,Zagueiro,https://www.ogol.com.br/jogador/valenca/450108/competicoes,1996,Retirado
+Joanderson,368187,Atacante,https://www.ogol.com.br/jogador/joanderson/368187/competicoes,1996,Ativo
+Matheus Queiroz,446905,Volante,https://www.ogol.com.br/jogador/matheus-queiroz/446905/competicoes,1996,Retirado
+Inácio Santos,446902,Lateral Esquerdo,https://www.ogol.com.br/jogador/inacio-santos/446902/competicoes,1996,Ativo
+Gustavo Hebling,375081,Volante,https://www.ogol.com.br/jogador/gustavo-hebling/375081/competicoes,1996,Ativo
+Lucas Kal,494091,Zagueiro,https://www.ogol.com.br/jogador/lucas-kal/494091/competicoes,1996,Ativo
+Felipe Araruna,368184,Volante,https://www.ogol.com.br/jogador/felipe-araruna/368184/competicoes,1996,Retirado
+Leonardo Prado,446904,Meia,https://www.ogol.com.br/jogador/leonardo-prado/446904/competicoes,1996,Retirado
+Pedro Bortoluzo,456283,Atacante,https://www.ogol.com.br/jogador/pedro-bortoluzo/456283/competicoes,1996,Ativo
+Lucas Perri,359890,Goleiro,https://www.ogol.com.br/jogador/lucas-perri/359890/competicoes,1997,Ativo
+Bruno,439899,Atacante,https://www.ogol.com.br/jogador/bruno/439899/competicoes,1996,Retirado
+Gabriel Boschilia,201597,Meia,https://www.ogol.com.br/jogador/boschilia/201597/competicoes,1996,Ativo
+Gabriel Machado,456200,Lateral Esquerdo,https://www.ogol.com.br/jogador/gabriel-machado/456200/competicoes,1996,Retirado
+Gabriel Braga,492262,Lateral Esquerdo,https://www.ogol.com.br/jogador/gabriel-braga/492262/competicoes,1997,Retirado
+Auro,375079,Lateral Direito,https://www.ogol.com.br/jogador/auro/375079/competicoes,1996,Ativo
+Rony Fernandes,492264,Zagueiro,https://www.ogol.com.br/jogador/rony-fernandes/492264/competicoes,1997,Ativo
+Guilherme Truyts,547454,Zagueiro,https://www.ogol.com.br/jogador/guilherme-truyts/547454/competicoes,1997,Ativo
+Éder Militão,484829,Zagueiro,https://www.ogol.com.br/jogador/eder-militao/484829/competicoes,1998,Ativo
+Danilo Belão,531849,Lateral Direito,https://www.ogol.com.br/jogador/danilo-belao/531849/competicoes,1997,Ativo
+Robertinho,544323,Volante,https://www.ogol.com.br/jogador/robertinho/544323/competicoes,1996,Ativo
+Silas,494701,Zagueiro,https://www.ogol.com.br/jogador/silas/494701/competicoes,1995,Retirado
+Lucas Maticoli,497238,Goleiro,https://www.ogol.com.br/jogador/lucas-maticoli/497238/competicoes,1997,Ativo
+Leonardo Vencato,561814,Zagueiro,https://www.ogol.com.br/jogador/leonardo-vencato/561814/competicoes,1996,Retirado
+Gabriel Pereira,499616,Meia,https://www.ogol.com.br/jogador/gabriel-pereira/499616/competicoes,1996,Retirado
+Mateusinho,547063,Atacante,https://www.ogol.com.br/jogador/mateusinho/547063/competicoes,1997,Retirado
+Vitinho Prado,682154,Volante,https://www.ogol.com.br/jogador/vitinho/682154/competicoes,1997,Retirado
+Rafael Leder,886915,Goleiro,https://www.ogol.com.br/jogador/rafael-leder/886915/competicoes,1995,Retirado
+David Neres,458729,Atacante,https://www.ogol.com.br/jogador/david-neres/458729/competicoes,1997,Ativo
+Banguelê,492263,Volante,https://www.ogol.com.br/jogador/banguele/492263/competicoes,1996,Ativo
+Shaylon,486095,Meia,https://www.ogol.com.br/jogador/shaylon/486095/competicoes,1997,Ativo
+Artur,494672,Volante,https://www.ogol.com.br/jogador/artur/494672/competicoes,1996,Ativo
+Everton Galdino,437268,Atacante,https://www.ogol.com.br/jogador/everton-galdino/437268/competicoes,1997,Ativo
+Murilo,478077,Atacante,https://www.ogol.com.br/jogador/murilo/478077/competicoes,1997,Ativo
+Vinicius Garcia,497243,Meia,https://www.ogol.com.br/jogador/vinicius-garcia/497243/competicoes,1997,Ativo
+Lucas Paes,497235,Goleiro,https://www.ogol.com.br/jogador/lucas-paes/497235/competicoes,1997,Ativo
+Paulo Henrique,497240,Meia,https://www.ogol.com.br/jogador/paulo-henrique/497240/competicoes,1997,Ativo
+Marlon Martins,549272,Atacante,https://www.ogol.com.br/jogador/marlon-martins/549272/competicoes,1997,Ativo
+Pedro Augusto,544684,Volante,https://www.ogol.com.br/jogador/pedro-augusto/544684/competicoes,1997,Ativo
+Pedro Fonseca,944399,Meia,https://www.ogol.com.br/jogador/pedro-fonseca/944399/competicoes,1993,Retirado
+Filipe Aguaí,137655,Lateral Direito,https://www.ogol.com.br/jogador/filipe-aguai/137655/competicoes,1991,Retirado
+Filipe Augusto,137345,Meia,https://www.ogol.com.br/jogador/filipe-augusto/137345/competicoes,1993,Retirado
+Felipe Alves,215768,Lateral Direito,https://www.ogol.com.br/jogador/felipe-alves/215768/competicoes,1994,Retirado
+Daniel Guedes,406067,Lateral Direito,https://www.ogol.com.br/jogador/daniel-guedes/406067/competicoes,1994,Ativo
+Felype Hebert,446903,Atacante,https://www.ogol.com.br/jogador/felype-hebert/446903/competicoes,1997,Ativo
+Jean Patric,550019,Atacante,https://www.ogol.com.br/jogador/jean-patric/550019/competicoes,1997,Ativo
+Jeferson Lima,476560,Volante,https://www.ogol.com.br/jogador/jeferson-lima-/476560/competicoes,1997,Ativo
+Lyanco,447709,Zagueiro,https://www.ogol.com.br/jogador/lyanco/447709/competicoes,1997,Ativo
+Iago Maidana,421711,Zagueiro,https://www.ogol.com.br/jogador/iago-maidana/421711/competicoes,1996,Ativo
+Cadu Padilha,497780,Meia,https://www.ogol.com.br/jogador/cadu/497780/competicoes,1996,Ativo
+Matheus Lú,544686,Atacante,https://www.ogol.com.br/jogador/matheus-lu/544686/competicoes,1997,Ativo
+Bremer,478428,Zagueiro,https://www.ogol.com.br/jogador/bremer/478428/competicoes,1997,Ativo
+Matheus Damião,617559,Meia,https://www.ogol.com.br/jogador/matheus-damiao/617559/competicoes,1997,Ativo
+Caíque,383545,Lateral Esquerdo,https://www.ogol.com.br/jogador/caique/383545/competicoes,1998,Ativo
+Liziero,484825,Volante,https://www.ogol.com.br/jogador/liziero/484825/competicoes,1998,Ativo
+Júnior Tavares,424686,Lateral Esquerdo,https://www.ogol.com.br/jogador/junior-tavares/424686/competicoes,1996,Ativo
+Geovane,484831,Atacante,https://www.ogol.com.br/jogador/geovane/484831/competicoes,1998,Ativo
+Matheus Frizzo,547320,Meia,https://www.ogol.com.br/jogador/matheus-frizzo-/547320/competicoes,1998,Ativo
+Bissoli,547867,Atacante,https://www.ogol.com.br/jogador/bissoli/547867/competicoes,1998,Ativo
+Léo Natel,440498,Atacante,https://www.ogol.com.br/jogador/leo-natel/440498/competicoes,1997,Ativo
+Pedro Oliveira,547869,Meia,https://www.ogol.com.br/jogador/pedro-oliveira/547869/competicoes,1998,Ativo
+Ruan Café,441071,Atacante,https://www.ogol.com.br/jogador/ruan-cafe/441071/competicoes,1997,Ativo
+Heron,547321,Atacante,https://www.ogol.com.br/jogador/heron-/547321/competicoes,1997,Retirado
+Gabriel Rodrigues,505292,Atacante,https://www.ogol.com.br/jogador/gabriel-bigode/505292/competicoes,1996,Ativo
+Tom Furtado,547595,Lateral Esquerdo,https://www.ogol.com.br/jogador/tom-furtado/547595/competicoes,1997,Retirado
+Felipe Saraiva,531927,Atacante,https://www.ogol.com.br/jogador/felipe-saraiva/531927/competicoes,1998,Ativo
+Luizão,547866,Volante,https://www.ogol.com.br/jogador/luizao/547866/competicoes,1998,Ativo
+Paulinho Bóia,544690,Atacante,https://www.ogol.com.br/jogador/paulinho-boia/544690/competicoes,1998,Ativo
+Dênis Junior,531846,Goleiro,https://www.ogol.com.br/jogador/denis-junior/531846/competicoes,1998,Ativo
+Netto,619761,Atacante,https://www.ogol.com.br/jogador/netto/619761/competicoes,1998,Ativo
+Rodrigo Freitas,531912,Zagueiro,https://www.ogol.com.br/jogador/rodrigo-freitas/531912/competicoes,1998,Ativo
+Gabriel Novaes,531929,Atacante,https://www.ogol.com.br/jogador/gabriel-novaes/531929/competicoes,1999,Ativo
+Luan,547868,Volante,https://www.ogol.com.br/jogador/luan/547868/competicoes,1999,Ativo
+Marquinhos Cipriano,405027,Atacante,https://www.ogol.com.br/jogador/marquinhos-cipriano/405027/competicoes,1999,Ativo
+Igor Morais,584129,Zagueiro,https://www.ogol.com.br/jogador/igor-morais/584129/competicoes,1998,Ativo
+Igor Gomes,544688,Meia,https://www.ogol.com.br/jogador/igor-gomes/544688/competicoes,1999,Ativo
+Mykaell,511526,Volante,https://www.ogol.com.br/jogador/mykaell/511526/competicoes,1997,Ativo
+Viveiros,614903,Lateral Direito,https://www.ogol.com.br/jogador/viveiros/614903/competicoes,1998,Retirado
+Igor Neves,500625,Zagueiro,https://www.ogol.com.br/jogador/igor-neves/500625/competicoes,1998,Retirado
+Válber,682097,Meia,https://www.ogol.com.br/jogador/valber/682097/competicoes,1998,Retirado
+Walce,569635,Zagueiro,https://www.ogol.com.br/jogador/walce-/569635/competicoes,1999,Ativo
+Gabriel Sara,584242,Meia,https://www.ogol.com.br/jogador/gabriel-sara/584242/competicoes,1999,Ativo
+Jonas Toró,548810,Atacante,https://www.ogol.com.br/jogador/jonas-toro/548810/competicoes,1999,Ativo
+Caio Felipe,582806,Lateral Direito,https://www.ogol.com.br/jogador/caio-felipe/582806/competicoes,1999,Ativo
+Cassio Júnior,584240,Volante,https://www.ogol.com.br/jogador/cassio-junior/584240/competicoes,1999,Ativo
+Rafael Vinicius,584239,Volante,https://www.ogol.com.br/jogador/rafael-vinicius/584239/competicoes,1999,Ativo
+Diego Costa,591171,Zagueiro,https://www.ogol.com.br/jogador/diego-costa/591171/competicoes,1999,Ativo
+Tuta,584241,Zagueiro,https://www.ogol.com.br/jogador/tuta/584241/competicoes,1999,Ativo
+David Ribeiro,496983,Atacante,https://www.ogol.com.br/jogador/david-ribeiro/496983/competicoes,1998,Ativo
+Antony,619622,Atacante,https://www.ogol.com.br/jogador/antony/619622/competicoes,2000,Ativo
+Fabinho,591172,Atacante,https://www.ogol.com.br/jogador/fabinho/591172/competicoes,1999,Ativo
+Bruno Dip,593424,Lateral Esquerdo,https://www.ogol.com.br/jogador/bruno-dip/593424/competicoes,1998,Ativo
+Danilo Gomes,589658,Atacante,https://www.ogol.com.br/jogador/danilo-gomes/589658/competicoes,1999,Ativo
+Alisson,596165,Volante,https://www.ogol.com.br/jogador/alisson/596165/competicoes,1999,Ativo
+Rodrigo Martins,511310,Atacante,https://www.ogol.com.br/jogador/rodrigo-martins/511310/competicoes,1998,Retirado
+Marcos Júnior,593412,Volante,https://www.ogol.com.br/jogador/marcos-junior/593412/competicoes,2000,Ativo
+Miguel Alcantara,586097,Zagueiro,https://www.ogol.com.br/jogador/miguel-alcantara/586097/competicoes,2000,Ativo
+Thiago Couto,593413,Goleiro,https://www.ogol.com.br/jogador/thiago-couto/593413/competicoes,1999,Ativo
+Hiago,649653,Zagueiro,https://www.ogol.com.br/jogador/hiago/649653/competicoes,2000,Ativo
+Rodrigo Nestor,554443,Meia,https://www.ogol.com.br/jogador/rodrigo-nestor/554443/competicoes,2000,Ativo
+Welington,648274,Lateral Esquerdo,https://www.ogol.com.br/jogador/welington/648274/competicoes,2001,Ativo
+Helinho,600459,Atacante,https://www.ogol.com.br/jogador/helinho/600459/competicoes,2000,Ativo
+Weverson Costa,555425,Lateral Esquerdo,https://www.ogol.com.br/jogador/weverson-costa/555425/competicoes,2000,Ativo
+Thiaguinho,682155,Atacante,https://www.ogol.com.br/jogador/thiaguinho/682155/competicoes,2000,Ativo
+Vinicius Mingotti,619356,Atacante,https://www.ogol.com.br/jogador/vinicius-mingotti/619356/competicoes,2000,Ativo
+Lima,499968,Meia,https://www.ogol.com.br/jogador/lima/499968/competicoes,1999,Ativo
+Felipe Camargo,550050,Zagueiro,https://www.ogol.com.br/jogador/felipe-camargo/550050/competicoes,1999,Ativo
+Vitinho,682142,Atacante,https://www.ogol.com.br/jogador/vitinho/682142/competicoes,2001,Ativo
+Lucas Fasson,542568,Zagueiro,https://www.ogol.com.br/jogador/lucas-fasson/542568/competicoes,2001,Ativo
+Eduardo,648276,Goleiro,https://www.ogol.com.br/jogador/eduardo/648276/competicoes,2000,Retirado
+Paulinho,682145,Atacante,https://www.ogol.com.br/jogador/paulinho/682145/competicoes,2001,Ativo
+Morato,681311,Zagueiro,https://www.ogol.com.br/jogador/morato/681311/competicoes,2001,Ativo
+Carlinhos,505879,Lateral Direito,https://www.ogol.com.br/jogador/carlinhos/505879/competicoes,1999,Retirado
+Kauê,682151,Meia,https://www.ogol.com.br/jogador/kaue/682151/competicoes,2000,Ativo
+Ricardinho,682146,Atacante,https://www.ogol.com.br/jogador/ricardinho/682146/competicoes,2001,Ativo
+Gilson,593415,Lateral Direito,https://www.ogol.com.br/jogador/gilson/593415/competicoes,2000,Retirado
+Ed Carlos,670664,Meia,https://www.ogol.com.br/jogador/ed-carlos/670664/competicoes,2001,Ativo
+JP Iseppe,682128,Volante,https://www.ogol.com.br/jogador/jp-iseppe/682128/competicoes,2001,Ativo
+Calebe,593414,Meia,https://www.ogol.com.br/jogador/calebe/593414/competicoes,2000,Ativo
+Arthur Gazze,554437,Goleiro,https://www.ogol.com.br/jogador/arthur-gazze/554437/competicoes,2000,Ativo
+Antonio Galeano,523303,Atacante,https://www.ogol.com.br/jogador/antonio-galeano/523303/competicoes,2000,Ativo
+Antonio Falcão,682135,Meia,https://www.ogol.com.br/jogador/falcao/682135/competicoes,2001,Ativo
+Matheus Vieira,681323,Zagueiro,https://www.ogol.com.br/jogador/matheus-vieira/681323/competicoes,2001,Retirado
+Gabriel Falcão,682127,Volante,https://www.ogol.com.br/jogador/gabriel-falcao/682127/competicoes,2001,Ativo
+Kevin,682137,Meia,https://www.ogol.com.br/jogador/kevin/682137/competicoes,2001,Ativo
+Rodolfo Moisés,681312,Zagueiro,https://www.ogol.com.br/jogador/rodolfo-moises/681312/competicoes,2001,Ativo
+Gustavo Maia,682141,Atacante,https://www.ogol.com.br/jogador/gustavo-maia/682141/competicoes,2001,Ativo
+Taylor,682136,Atacante,https://www.ogol.com.br/jogador/taylor/682136/competicoes,2001,Retirado
+Facundo Constantini,745257,Zagueiro,https://www.ogol.com.br/jogador/facundo-costantini/745257/competicoes,2000,Ativo
+Lucas Sena,679829,Lateral Direito,https://www.ogol.com.br/jogador/lucas-sena/679829/competicoes,2001,Ativo
+Matheus Cunha,542569,Goleiro,https://www.ogol.com.br/jogador/matheus-cunha/542569/competicoes,2001,Ativo
+Raul,682129,Zagueiro,https://www.ogol.com.br/jogador/raul/682129/competicoes,2001,Ativo
+Edgar,720520,Atacante,https://www.ogol.com.br/jogador/edgar/720520/competicoes,2000,Retirado
+Juan Santos,704623,Atacante,https://www.ogol.com.br/jogador/juan-santos/704623/competicoes,2002,Ativo
+Anilson,679830,Lateral Direito,https://www.ogol.com.br/jogador/anilson/679830/competicoes,2001,Ativo
+Danilo Mendes,682138,Meia,https://www.ogol.com.br/jogador/danilo-mendes/682138/competicoes,2001,Retirado
+Miguel Augusto,682148,Atacante,https://www.ogol.com.br/jogador/miguel-augusto/682148/competicoes,2002,Ativo
+Victor Hugo,682096,Meia,https://www.ogol.com.br/jogador/victor-hugo/682096/competicoes,2001,Retirado
+Luizão,681320,Zagueiro,https://www.ogol.com.br/jogador/luizao/681320/competicoes,2002,Ativo
+Talles Costa,609282,Meia,https://www.ogol.com.br/jogador/talles-costa/609282/competicoes,2002,Ativo
+Young,680183,Goleiro,https://www.ogol.com.br/jogador/young/680183/competicoes,2002,Ativo
+Pablo Maia,682140,Volante,https://www.ogol.com.br/jogador/pablo-maia/682140/competicoes,2002,Ativo
+Pedro Lucas,609289,Zagueiro,https://www.ogol.com.br/jogador/pedro-lucas/609289/competicoes,2002,Ativo
+Pedro Vilhena,682139,Meia,https://www.ogol.com.br/jogador/pedro-vilhena/682139/competicoes,2002,Ativo
+Guilherme Cachoeira,682147,Atacante,https://www.ogol.com.br/jogador/guilherme-cachoeira/682147/competicoes,2002,Ativo
+Nathan Mendes,713981,Lateral Direito,https://www.ogol.com.br/jogador/nathan-mendes/713981/competicoes,2002,Ativo
+Guilherme Matheus,713982,Zagueiro,https://www.ogol.com.br/jogador/guilherme-matheus/713982/competicoes,2002,Ativo
+Pagé,682143,Meia,https://www.ogol.com.br/jogador/page/682143/competicoes,2002,Ativo
+Patryck,704617,Lateral Esquerdo,https://www.ogol.com.br/jogador/patryck/704617/competicoes,2003,Ativo
+Vitinho Albanez,743310,Meia,https://www.ogol.com.br/jogador/vitinho-albanez/743310/competicoes,2004,Ativo
+Vinicius,712870,Lateral Direito,https://www.ogol.com.br/jogador/vinicius/712870/competicoes,2002,Ativo
+Bruno Tatavitto,685897,Volante,https://www.ogol.com.br/jogador/bruno-tatavitto/685897/competicoes,2001,Ativo
+Gabriel,682125,Lateral Esquerdo,https://www.ogol.com.br/jogador/gabriel/682125/competicoes,2002,Ativo
+Cauê Caruzo,693959,Atacante,https://www.ogol.com.br/jogador/caue-caruzo/693959/competicoes,2002,Ativo
+Lucas Beraldo,728321,Zagueiro,https://www.ogol.com.br/jogador/lucas-beraldo/728321/competicoes,2003,Ativo
+Marquinhos,704625,Atacante,https://www.ogol.com.br/jogador/marquinhos/704625/competicoes,2003,Ativo
+João Gabriel,743756,Atacante,https://www.ogol.com.br/jogador/joao-gabriel/743756/competicoes,2004,Ativo
+Yago Alves,687133,Zagueiro,https://www.ogol.com.br/jogador/yago-alves/687133/competicoes,2001,Ativo
+Mateus Manso,743749,Atacante,https://www.ogol.com.br/jogador/mateus-manso/743749/competicoes,2004,Ativo
+Tubarão,723844,Meia,https://www.ogol.com.br/jogador/tubarao/723844/competicoes,2004,Ativo
+Cauã Lucca,743828,Volante,https://www.ogol.com.br/jogador/caua-lucca/743828/competicoes,2004,Ativo
+João Douglas,743824,Lateral Esquerdo,https://www.ogol.com.br/jogador/joao-douglas/743824/competicoes,2004,Ativo
+Lucca Drummond,743825,Atacante,https://www.ogol.com.br/jogador/lucca-drummond/743825/competicoes,2004,Ativo
+Kauê Oliveira,743816,Volante,https://www.ogol.com.br/jogador/kaue-oliveira/743816/competicoes,2004,Ativo
+Felipe Carneiro,714325,Goleiro,https://www.ogol.com.br/jogador/felipe-carneiro/714325/competicoes,2003,Ativo
+Léo Silva,712872,Volante,https://www.ogol.com.br/jogador/leo-silva/712872/competicoes,2003,Ativo
+Facundo Milán,556085,Atacante,https://www.ogol.com.br/jogador/facundo-milan-/556085/competicoes,2001,Ativo
+Matheus Belém,712871,Zagueiro,https://www.ogol.com.br/jogador/matheus-belem/712871/competicoes,2003,Ativo
+João Adriano,712874,Atacante,https://www.ogol.com.br/jogador/joao-adriano/712874/competicoes,2003,Ativo
+Thiago Dombroski,716466,Zagueiro,https://www.ogol.com.br/jogador/thiago-dombroski-/716466/competicoes,2002,Ativo
+João Moreira,743735,Lateral Direito,https://www.ogol.com.br/jogador/joao-moreira/743735/competicoes,2004,Ativo
+Samuel Siedschlag,690457,Meia,https://www.ogol.com.br/jogador/samuel/690457/competicoes,2002,Ativo
+Carrijo,777138,Volante,https://www.ogol.com.br/jogador/carrijo/777138/competicoes,2002,Ativo
+Levy,688087,Goleiro,https://www.ogol.com.br/jogador/levy-/688087/competicoes,2001,Ativo
+Palmberg,713983,Meia,https://www.ogol.com.br/jogador/palmberg/713983/competicoes,2003,Ativo
+Gabriel Maioli,713984,Atacante,https://www.ogol.com.br/jogador/gabriel-maioli/713984/competicoes,2003,Ativo
+Brian Carvalho,714327,Volante,https://www.ogol.com.br/jogador/brian-carvalho/714327/competicoes,2003,Ativo
+Petterson,743290,Atacante,https://www.ogol.com.br/jogador/petterson/743290/competicoes,2003,Ativo
+Caio Matheus,743743,Atacante,https://www.ogol.com.br/jogador/caio-matheus/743743/competicoes,2004,Ativo
+Stevanato,717245,Meia,https://www.ogol.com.br/jogador/stevanato/717245/competicoes,2003,Ativo
+Felipe Negrucci,743313,Volante,https://www.ogol.com.br/jogador/felipe-negrucci/743313/competicoes,2004,Ativo
+David Miller,899587,Zagueiro,https://www.ogol.com.br/jogador/david-miller/899587/competicoes,2003,Ativo
+Talles Wander,722794,Atacante,https://www.ogol.com.br/jogador/talles-wander/722794/competicoes,2003,Ativo
+Roberto Teixeira,833242,Goleiro,https://www.ogol.com.br/jogador/roberto-teixeira/833242/competicoes,2004,Ativo
+Denzel,790396,Atacante,https://www.ogol.com.br/jogador/denzel/790396/competicoes,2003,Ativo
+Kayque,829317,Lateral Direito,https://www.ogol.com.br/jogador/kayque/829317/competicoes,2004,Ativo
+Carlos Iury,694075,Atacante,https://www.ogol.com.br/jogador/carlos-iury/694075/competicoes,2001,Ativo
+Théo Henrique,682132,Meia,https://www.ogol.com.br/jogador/theo-henrique/682132/competicoes,2002,Ativo
+Leandro Mathias,743733,Goleiro,https://www.ogol.com.br/jogador/leandro-mathias/743733/competicoes,2004,Ativo
+Luiz Henrique,743320,Meia,https://www.ogol.com.br/jogador/luiz-henrique/743320/competicoes,2004,Ativo
+Lorenzo Pigatto,717224,Goleiro,https://www.ogol.com.br/jogador/lorenzo-pigatto/717224/competicoes,2003,Ativo
+Rokenedy,684066,Goleiro,https://www.ogol.com.br/jogador/rokenedy/684066/competicoes,2002,Ativo
+Ythallo,743404,Zagueiro,https://www.ogol.com.br/jogador/ythallo/743404/competicoes,2004,Ativo
+André Jr,743268,Volante,https://www.ogol.com.br/jogador/andre-jr/743268/competicoes,2004,Ativo
+Lucas Inácio,864262,Zagueiro,https://www.ogol.com.br/jogador/lucas-inacio/864262/competicoes,2004,Ativo
+Pedro Andrade,743823,Zagueiro,https://www.ogol.com.br/jogador/pedro-andrade/743823/competicoes,2005,Ativo
+Maik,764931,Lateral Direito,https://www.ogol.com.br/jogador/maik/764931/competicoes,2005,Ativo
+Mateus Petri,724352,Lateral Esquerdo,https://www.ogol.com.br/jogador/mateus-petri/724352/competicoes,2002,Ativo
+Luis Felipe,829516,Atacante,https://www.ogol.com.br/jogador/luis-felipe/829516/competicoes,2004,Ativo
+Mateus Amaral,743741,Meia,https://www.ogol.com.br/jogador/mateus-amaral/743741/competicoes,2004,Ativo
+Eduardo Brito,876311,Atacante,https://www.ogol.com.br/jogador/eduardo-brito-/876311/competicoes,2004,Ativo
+Miguel,865106,Zagueiro,https://www.ogol.com.br/jogador/miguel/865106/competicoes,2004,Ativo
+Kaiky,682149,Lateral Direito,https://www.ogol.com.br/jogador/kaiky/682149/competicoes,2004,Ativo
+Matheus Zanella,891968,Lateral Esquerdo,https://www.ogol.com.br/jogador/matheus-zanella/891968/competicoes,2004,Ativo
+Rodriguinho,743295,Meia,https://www.ogol.com.br/jogador/rodriguinho/743295/competicoes,2004,Ativo
+Ryan Couto,977123,Zagueiro,https://www.ogol.com.br/jogador/ryan-couto/977123/competicoes,2005,Ativo
+Deivid Santos,809854,Atacante,https://www.ogol.com.br/jogador/deivid-santos/809854/competicoes,2004,Ativo
+Arthur Doria,841034,Goleiro,https://www.ogol.com.br/jogador/arthur-doria/841034/competicoes,2004,Ativo
+Kayky Alves,841402,Meia,https://www.ogol.com.br/jogador/kayky-alves/841402/competicoes,2003,Ativo
+Rafael Costa,942969,Atacante,https://www.ogol.com.br/jogador/rafael-costa/942969/competicoes,2003,Ativo
+Rafinha Rech,714802,Meia,https://www.ogol.com.br/jogador/rafinha-rech/714802/competicoes,2002,Ativo
+Lucas Minhoca,842422,Zagueiro,https://www.ogol.com.br/jogador/lucas-silva/842422/competicoes,2003,Ativo
+Newerton,684220,Atacante,https://www.ogol.com.br/jogador/newerton/684220/competicoes,2005,Ativo
+Azeez Balogun,957852,Atacante,https://www.ogol.com.br/jogador/azeez-balogun/957852/competicoes,2003,Retirado
+César Augusto,724923,Zagueiro,https://www.ogol.com.br/jogador/cesar-augusto/724923/competicoes,2003,Ativo
+Caio Lima,765001,Meia,https://www.ogol.com.br/jogador/caio/765001/competicoes,2006,Ativo
+Iba Ly,1179110,Volante,https://www.ogol.com.br/jogador/iba-ly/1179110/competicoes,2003,Ativo
+Felipe Preis,1009440,Goleiro,https://www.ogol.com.br/jogador/felipe-preis/1009440/competicoes,2005,Ativo
+Enzo Boer,764929,Meia,https://www.ogol.com.br/jogador/enzo-boer/764929/competicoes,2005,Ativo
+Arthur Yan,743831,Zagueiro,https://www.ogol.com.br/jogador/arthur-yan/743831/competicoes,2005,Ativo
+Raphael,764946,Lateral Direiro,https://www.ogol.com.br/jogador/raphael/764946/competicoes,2005,Ativo
+Clauvis Etienne,1179784,Volante,https://www.ogol.com.br/jogador/clauvis-etienne/1179784/competicoes,2003,Ativo
+Juan Macías,958808,Meia,https://www.ogol.com.br/jogador/juan-macias/958808/competicoes,2005,Ativo
+William Gomes,890221,Atacante,https://www.ogol.com.br/jogador/william-gomes/890221/competicoes,2006,Ativo
+Kauã Rocha,829491,Lateral Esquerdo,https://www.ogol.com.br/jogador/kaua-rocha/829491/competicoes,2005,Ativo
+King Faisal,1175912,Atacante,https://www.ogol.com.br/jogador/king-faisal/1175912/competicoes,2004,Ativo
+Igor Felisberto,772880,Lateral Direito,https://www.ogol.com.br/jogador/igor-felisberto/772880/competicoes,2007,Ativo
+João Miranda,906014,Lateral Esquerdo,https://www.ogol.com.br/jogador/joao-miranda/906014/competicoes,2005,Ativo
+Felipe Rissani,899806,Lateral Direito,https://www.ogol.com.br/jogador/felipe-rissani/899806/competicoes,2004,Ativo
+Paulinho,764935,Atacante,https://www.ogol.com.br/jogador/paulo-sergio/764935/competicoes,2005,Ativo
+Rafael Luiz,650732,Lateral Direito,https://www.ogol.com.br/jogador/rafael-luiz/650732/competicoes,2002,Ativo
+Yuri Kevem,764928,Volante,https://www.ogol.com.br/jogador/yuri-kevem/764928/competicoes,2005,Ativo
+Guilherme Reis,973323,Lateral Esquerdo,https://www.ogol.com.br/jogador/guilherme-reis/973323/competicoes,2006,Ativo
+Lucas Ferreira,892613,Atacante,https://www.ogol.com.br/jogador/lucas-ferreira/892613/competicoes,2006,Ativo
+Lucas Loss,890217,Zagueiro,https://www.ogol.com.br/jogador/lucas-loss/890217/competicoes,2006,Ativo
+Henrique Carmo,890220,Atacante,https://www.ogol.com.br/jogador/henrique-carmo/890220/competicoes,2006,Ativo
+Matheus Alves,764943,Meia,https://www.ogol.com.br/jogador/matheus-alves/764943/competicoes,2005,Ativo
+Pedro Gustavo,998848,Atacante,https://www.ogol.com.br/jogador/pedro-gustavo/998848/competicoes,2005,Ativo
+Kauê Alves,1181322,Zagueiro,https://www.ogol.com.br/jogador/kaue-alves/1181322/competicoes,2006,Ativo
+Ryan Francisco,986884,Atacante,https://www.ogol.com.br/jogador/ryan-francisco-/986884/competicoes,2006,Ativo
+Pedro Afonso,868854,Atacante,https://www.ogol.com.br/jogador/pedro-afonso/868854/competicoes,2004,Ativo
+Enzo Perroni,744392,Atacante,https://www.ogol.com.br/jogador/enzo-perroni/744392/competicoes,2005,Ativo
+Oscar,64777,Meia,https://www.ogol.com.br/jogador/oscar/64777/competicoes,1991,Ativo
+João Nazari,890216,Goleiro,https://www.ogol.com.br/jogador/joao-nazari-/890216/competicoes,2007,Ativo
+Eric,1003254,Goleiro,https://www.ogol.com.br/jogador/eric/1003254/competicoes,2006,Ativo
+Luciano,905964,Goleiro,https://www.ogol.com.br/jogador/luciano/905964/competicoes,2006,Ativo
+João Pedro,905964,Goleiro,https://www.ogol.com.br/jogador/luciano/905964/competicoes,2006,Ativo
+Basile,1005764,Lateral Direito,https://www.ogol.com.br/jogador/basile/1005764/competicoes,2006,Ativo
+Igão,768899,Zagueiro,https://www.ogol.com.br/jogador/igao/768899/competicoes,2007,Ativo
+Luis Osorio,974342,Zagueiro,https://www.ogol.com.br/jogador/luis-osorio/974342/competicoes,2006,Ativo
+Thiago Ribeiro,968076,Zagueiro,https://www.ogol.com.br/jogador/thiago-ribeiro/968076/competicoes,2005,Ativo
+Marques Rickelme,1005763,Lateral Esquerdo,https://www.ogol.com.br/jogador/marques-rickelme/1005763/competicoes,2006,Ativo
+Cauã Lucas,966443,Meia,https://www.ogol.com.br/jogador/caua-lucas/966443/competicoes,2005,Ativo
+Guilherme Batista,765050,Meia,https://www.ogol.com.br/jogador/guilherme-batista/765050/competicoes,2006,Ativo
+Nicolas Borges,944170,Meia,https://www.ogol.com.br/jogador/nicolas-borges/944170/competicoes,2006,Ativo
+Pedro Ferreira,768915,Meia,https://www.ogol.com.br/jogador/pedro-ferreira-/768915/competicoes,2007,Ativo
+Samuel,1031991,Meia,https://www.ogol.com.br/jogador/samuel/1031991/competicoes,2006,Ativo
+Hugo Leonardo,870035,Volante,https://www.ogol.com.br/jogador/hugo-leonardo/870035/competicoes,2004,Ativo
+Pedro Bezerra,768910,Volante,https://www.ogol.com.br/jogador/pedro-bezerra/768910/competicoes,2007,Ativo
+Bernardo,1183681,Volante,https://www.ogol.com.br/jogador/bernardo/1183681/competicoes,2006,Ativo
+Felipe Oliveira,765057,Lateral Esquerdo,https://www.ogol.com.br/jogador/felipe-oliveira/765057/competicoes,2006,Ativo
+Franco,970997,Meia,https://www.ogol.com.br/jogador/franco/970997/competicoes,2005,Ativo
+Arnold Cotito,1815463,Atacante,https://www.ogol.com.br/jogador/arnold-cotito/1815463/competicoes,2006,Ativo
+Ganael,1176443,Atacante,https://www.ogol.com.br/jogador/ganael/1176443/competicoes,2005,Ativo
+Lucca Marques,768903,Atacante,https://www.ogol.com.br/jogador/lucca-marques/768903/competicoes,2007,Ativo
+Marcelo,978500,Atacante,https://www.ogol.com.br/jogador/marcelo/978500/competicoes,2005,Ativo
+Ryan Felipe,974297,Atacante,https://www.ogol.com.br/jogador/ryan-felipe/974297/competicoes,2006,Ativo
+Hugo Martins,981371,Zagueiro,https://www.ogol.com.br/jogador/hugo-martins/981371/competicoes,2007,Ativo
+Gustavo Miranda,981373,Atacante,https://www.ogol.com.br/jogador/gustavo-miranda/981373/competicoes,2007,Ativo
+Tetê,768911,Atacante,https://www.ogol.com.br/jogador/tete/768911/competicoes,2007,Ativo
+Brenner,555437,Atacante,https://www.ogol.com.br/jogador/brenner/555437/competicoes,2000,Ativo
+Tiago Fernandes,55650,Atacante,https://www.ogol.com.br/jogador/tiago-fernandes/55650/competicoes,1988,Retirado
+Sérgio Mota,46210,Meia,https://www.ogol.com.br/jogador/sergio-mota/46210/competicoes,1989,Retirado
+Eric Leandro,96061,Atacante,https://www.ogol.com.br/jogador/eric/96061/competicoes,1989,Retirado
+Léo Gonçalves,133488,Meia,https://www.ogol.com.br/jogador/leo-goncalves/133488/competicoes,1989,Retirado
+Flavio Paulino,189202,Volante,https://www.ogol.com.br/jogador/flavio-paulino/189202/competicoes,1989,Retirado
+Bruno Cesar,87580,Meia,https://www.ogol.com.br/jogador/bruno-cesar/87580/competicoes,1988,Retirado
+Julio Cesar,64779,Atacante,https://www.ogol.com.br/jogador/julio-cesar/64779/competicoes,1990,Retirado
+Serginho Paulista,127146,Volante,https://www.ogol.com.br/jogador/serginho-paulista/127146/competicoes,1988,Ativo
+Mazola,113453,Atacante,https://www.ogol.com.br/jogador/mazola/113453/competicoes,1989,Ativo
+Wellington,64774,Volante,https://www.ogol.com.br/jogador/wellington/64774/competicoes,1991,Ativo
+Henrique Almeida,89450,Atacante,https://www.ogol.com.br/jogador/henrique-almeida/89450/competicoes,1991,Ativo
+Bruno Formigoni,64775,Volante,https://www.ogol.com.br/jogador/bruno-formigoni/64775/competicoes,1990,Retirado
+Jackson Souza,137661,Zagueiro,https://www.ogol.com.br/jogador/jackson/137661/competicoes,1990,Ativo
+Juninho Souza,239310,Meia,https://www.ogol.com.br/jogador/juninho-souza/239310/competicoes,1989,Retirado
+Felipe Pazian,941169,Lateral Direito,https://www.ogol.com.br/jogador/felipe-pazian/941169/competicoes,1989,Retirado
+Raphael Luz,86304,Meia,https://www.ogol.com.br/jogador/raphael-luz/86304/competicoes,1989,Ativo
+Tiago Azulão,5597,Atacante,https://www.ogol.com.br/jogador/tiago-azulao/5597/competicoes,1988,Ativo
+Aislan,64773,Zagueiro,https://www.ogol.com.br/jogador/aislan/64773/competicoes,1988,Retirado
+Alex Cazumba,46209,Lateral Esquerdo,https://www.ogol.com.br/jogador/cazumba/46209/competicoes,1988,Ativo
+Cris,448678,Volante,https://www.ogol.com.br/jogador/cris/448678/competicoes,1989,Retirado
+Diogo Silvestre,85316,Lateral Esquerdo,https://www.ogol.com.br/jogador/diogo-silvestre/85316/competicoes,1989,Retirado
+Henrique,220095,Zagueiro,https://www.ogol.com.br/jogador/henrique/220095/competicoes,1989,Retirado
+Jackson,46157,Lateral Direito,https://www.ogol.com.br/jogador/jackson/46157/competicoes,1988,Retirado
+Leonardo,97297,Zagueiro,https://www.ogol.com.br/jogador/leonardo/97297/competicoes,1988,Retirado
+Juninho,127383,Volante,https://www.ogol.com.br/jogador/juninho/127383/competicoes,1989,Retirado
+Bruno Silva,64776,Volante,https://www.ogol.com.br/jogador/bruno-silva/64776/competicoes,1988,Ativo
+Luan Scapolan,136658,Volante,https://www.ogol.com.br/jogador/luan/136658/competicoes,1988,Retirado
+Jorge Miguel,31401,Goleiro,https://www.ogol.com.br/jogador/jorge-miguel/31401/competicoes,1988,Retirado
+Léo Vieira,53979,Goleiro,https://www.ogol.com.br/jogador/leo-vieira/53979/competicoes,1990,Ativo
+Éwerton Pascoa,186834,Zagueiro,https://www.ogol.com.br/jogador/ewerton-pascoa/186834/competicoes,1989,Ativo
+Thomas,910620,Zagueiro,https://www.ogol.com.br/jogador/thomas/910620/competicoes,1989,Retirado
+Rainer,166915,Goleiro,https://www.ogol.com.br/jogador/rainer/166915/competicoes,1989,Retirado
+Paulo Vinicius,155495,Zagueiro,https://www.ogol.com.br/jogador/paulo-vinicius/155495/competicoes,1990,Ativo
+Vinicius Zenon,250864,Meia,https://www.ogol.com.br/jogador/zenon/250864/competicoes,1990,Retirado
+Esquerdinha,137660,Lateral Esquerdo,https://www.ogol.com.br/jogador/esquerdinha/137660/competicoes,1990,Retirado
+Éverson,141464,Goleiro,https://www.ogol.com.br/jogador/everson/141464/competicoes,1990,Ativo
+Rafael Tavares,126188,Meia,https://www.ogol.com.br/jogador/rafael-tavares/126188/competicoes,1990,Ativo
+Maycon,450118,Lateral Direito,https://www.ogol.com.br/jogador/maycon/450118/competicoes,1990,Retirado
+Bruno Gomes,863470,Meia,https://www.ogol.com.br/jogador/bruno-gomes/863470/competicoes,1990,Retirado
+Juninho,137357,Goleiro,https://www.ogol.com.br/jogador/juninho/137357/competicoes,1992,Retirado
+Vitor Gava,418713,Meia,https://www.ogol.com.br/jogador/vitor-gava/418713/competicoes,1991,Retirado
+Almir Gullit,215764,Zagueiro,https://www.ogol.com.br/jogador/almir-gullit/215764/competicoes,1994,Retirado
+Weverson,455821,Goleiro,https://www.ogol.com.br/jogador/weverson/455821/competicoes,1987,Falecido
+Lucas,2779842,Lateral Direito,https://www.ogol.com.br/jogador/lucas/2779842/competicoes,1989,Retirado
+Carlos Rincón,29293,Zagueiro,https://www.ogol.com.br/jogador/carlos-rincon/29293/competicoes,1987,Retirado
+Rafael Lopes,64772,Lateral Direito,https://www.ogol.com.br/jogador/rafael-lopes/64772/competicoes,1986,Retirado
+Fabrício,33265,Lateral Esquerdo,https://www.ogol.com.br/jogador/fabricio/33265/competicoes,1987,Retirado
+Cazão,39152,Zagueiro,https://www.ogol.com.br/jogador/cazao/39152/competicoes,1987,Retirado
+Jeff Silva,126967,Lateral Esquerdo,https://www.ogol.com.br/jogador/jeff-silva/126967/competicoes,1986,Ativo
+Carlinhos,53896,Zagueiro,https://www.ogol.com.br/jogador/carlinhos/53896/competicoes,1986,Retirado
+Alex Silva,5702,Zagueiro,https://www.ogol.com.br/jogador/alex-silva/5702/competicoes,1985,Retirado
+David Oliveira,125916,Meia,https://www.ogol.com.br/jogador/david-oliveira/125916/competicoes,1986,Retirado
+Bruno Moreno,96892,Volante,https://www.ogol.com.br/jogador/bruno-moreno/96892/competicoes,1986,Retirado
+Thyago Correa,132198,Atacante,https://www.ogol.com.br/jogador/thyago-correa/132198/competicoes,1986,Retirado
+Chumbinho,62128,Meia,https://www.ogol.com.br/jogador/chumbinho/62128/competicoes,1986,Retirado
+Arthur,104435,Volante,https://www.ogol.com.br/jogador/arthur/104435/competicoes,1986,Retirado
+Jean,55649,Volante,https://www.ogol.com.br/jogador/jean/55649/competicoes,1986,Ativo
+Pablo,64780,Atacante,https://www.ogol.com.br/jogador/pablo/64780/competicoes,1987,Retirado
+Tadeu,32356,Atacante,https://www.ogol.com.br/jogador/tadeu/32356/competicoes,1986,Retirado
+Robert Mendes,98398,Atacante,https://www.ogol.com.br/jogador/robert-mendes/98398/competicoes,1985,Retirado
+Arlon,37081,Atacante,https://www.ogol.com.br/jogador/arlon/37081/competicoes,1988,Falecido
+Bruno Landgraf,31400,Goleiro,https://www.ogol.com.br/jogador/bruno/31400/competicoes,1986,Retirado
+Alex Graciani,195937,Goleiro,https://www.ogol.com.br/jogador/alex/195937/competicoes,1988,Retirado
+Mateus,5666,Goleiro,https://www.ogol.com.br/jogador/mateus/5666/competicoes,1983,Retirado
+Rodrigo Barros,126187,Zagueiro,https://www.ogol.com.br/jogador/rodrigo-barros/126187/competicoes,1987,Retirado
+Michel,273896,Zagueiro,https://www.ogol.com.br/jogador/michel/273896/competicoes,1986,Retirado
+Zé Adriano,97226,Zagueiro,https://www.ogol.com.br/jogador/ze-adriano/97226/competicoes,1985,Retirado
+Carlos Santos,43949,Zagueiro,https://www.ogol.com.br/jogador/carlos-santos/43949/competicoes,1985,Retirado
+Daniel Venancio,1008213,Zagueiro,https://www.ogol.com.br/jogador/daniel-venancio/1008213/competicoes,1988,Retirado
+Flávio Donizete,274594,Zagueiro,https://www.ogol.com.br/jogador/flavio-donizete/274594/competicoes,1984,Retirado
+Leandro Dias,125885,Zagueiro,https://www.ogol.com.br/jogador/leandro-dias/125885/competicoes,1985,Retirado
+Luis Fernando,2779851,Meia,https://www.ogol.com.br/jogador/luis-fernando/2779851/competicoes,1988,Retirado
+Antônio Carlos,2779853,Volante,https://www.ogol.com.br/jogador/antonio-carlos/2779853/competicoes,1985,Retirado
+Thompson,2779860,Volante,https://www.ogol.com.br/jogador/thompson/2779860/competicoes,1986,Retirado
+Fabio Prates,846503,Lateral Direito,https://www.ogol.com.br/jogador/fabio-prates/846503/competicoes,1985,Retirado
+Filipe Oliveira,97854,Meia,https://www.ogol.com.br/jogador/filipe-oliveira/97854/competicoes,1987,Retirado
+Camargo,84860,Lateral Direito,https://www.ogol.com.br/jogador/camargo/84860/competicoes,1987,Retirado
+Tiago Souza,84477,Lateral Direito,https://www.ogol.com.br/jogador/tiago-souza/84477/competicoes,1983,Retirado
+Daniel Rossi,41810,Volante,https://www.ogol.com.br/jogador/daniel-rossi/41810/competicoes,1981,Retirado
+Denilson,23303,Volante,https://www.ogol.com.br/jogador/denilson/23303/competicoes,1988,Retirado
+Filipe Queiroz,86930,Meia,https://www.ogol.com.br/jogador/filipe/86930/competicoes,1987,Retirado
+Hernanes,32975,Meia,https://www.ogol.com.br/jogador/hernanes/32975/competicoes,1985,Retirado
+Pablo Calfany,1000024,Volante,https://www.ogol.com.br/jogador/pablo/1000024/competicoes,1985,Retirado
+Thiagão,102986,Meia,https://www.ogol.com.br/jogador/thiagao/102986/competicoes,1986,Retirado
+Tiago Limeira,999809,Meia,https://www.ogol.com.br/jogador/tiago-limeira/999809/competicoes,1987,Retirado
+Paulo Krauss,125231,Atacante,https://www.ogol.com.br/jogador/paulo-krauss/125231/competicoes,1984,Retirado
+André Moraes,2739171,Atacante,https://www.ogol.com.br/jogador/andre/2739171/competicoes,1987,Retirado
+Diego Morais,302783,Atacante,https://www.ogol.com.br/jogador/diego-morais/302783/competicoes,1987,Retirado
+Paulo Matos,116435,Atacante,https://www.ogol.com.br/jogador/paulo-matos/116435/competicoes,1985,Retirado
+Vandinho,32543,Atacante,https://www.ogol.com.br/jogador/vandinho/32543/competicoes,1986,Retirado
+Renan Boin,165731,Goleiro,https://www.ogol.com.br/jogador/renan/165731/competicoes,1984,Retirado
+Fabiano Ferreira,355624,Lateral Esquerdo,https://www.ogol.com.br/jogador/fabiano-ferreira/355624/competicoes,1985,Retirado
+Edcarlos,5668,Zagueiro,https://www.ogol.com.br/jogador/edcarlos/5668/competicoes,1985,Retirado
+Alexandre Black,140253,Zagueiro,https://www.ogol.com.br/jogador/alexandre-black/140253/competicoes,1986,Retirado
+David Mateo,20031,Zagueiro,https://www.ogol.com.br/jogador/david-mateo/20031/competicoes,1987,Retirado
+Andrezinho,90127,Lateral Esquerdo,https://www.ogol.com.br/jogador/andrezinho/90127/competicoes,1985,Retirado
+Fábio Santos,5673,Lateral Esquerdo,https://www.ogol.com.br/jogador/fabio-santos/5673/competicoes,1985,Retirado
+Raone,2779836,Volante,https://www.ogol.com.br/jogador/raone/2779836/competicoes,1985,Retirado
+Ailton,91390,Meia,https://www.ogol.com.br/jogador/ailton/91390/competicoes,1984,Retirado
+Doda,874791,Meia,https://www.ogol.com.br/jogador/doda/874791/competicoes,1984,Retirado
+David,88885,Meia,https://www.ogol.com.br/jogador/david/88885/competicoes,1985,Retirado
+Marcelinho,125279,Atacante,https://www.ogol.com.br/jogador/marcelinho/125279/competicoes,1984,Retirado
+Renan Teixeira,23304,Volante,https://www.ogol.com.br/jogador/renan-teixeira/23304/competicoes,1985,Retirado
+Dieguinho,1007978,Atacante,https://www.ogol.com.br/jogador/dieguinho/1007978/competicoes,1986,Retirado
+Rafael Mota,1103818,Atacante,https://www.ogol.com.br/jogador/rafael-mota/1103818/competicoes,1983,Retirado
+Diego Tardelli,5683,Atacante,https://www.ogol.com.br/jogador/diego-tardelli/5683/competicoes,1985,Retirado
+Capi,2779803,Lateral Direito,https://www.ogol.com.br/jogador/capi/2779803/competicoes,1985,Retirado
+Nilmar,2779826,Zagueiro,https://www.ogol.com.br/jogador/nilmar/2779826/competicoes,1984,Retirado
+Digão,15004,Zagueiro,https://www.ogol.com.br/jogador/digao/15004/competicoes,1985,Retirado
+Douglas Lopes,1010785,Lateral Direito,https://www.ogol.com.br/jogador/douglas-lopes/1010785/competicoes,1985,Retirado
+Gabriel,5674,Lateral Direito,https://www.ogol.com.br/jogador/gabriel/5674/competicoes,1981,Retirado
+Wellington,1007975,Zagueiro,https://www.ogol.com.br/jogador/wellington/1007975/competicoes,1986,Retirado
+Carlos Cesar,32468,Volante,https://www.ogol.com.br/jogador/carlinhos/32468/competicoes,1984,Retirado
+Edgard,2779832,Volante,https://www.ogol.com.br/jogador/edgard/2779832/competicoes,1983,Retirado
+Alê,53897,Volante,https://www.ogol.com.br/jogador/ale/53897/competicoes,1986,Ativo
+Guarú,84999,Meia,https://www.ogol.com.br/jogador/guaru/84999/competicoes,1981,Retirado
+Harison,9895,Meia,https://www.ogol.com.br/jogador/harison/9895/competicoes,1980,Retirado
+Marco Antonio,60441,Meia,https://www.ogol.com.br/jogador/marco-antonio/60441/competicoes,1984,Retirado
+Moreno,1007985,Meia,https://www.ogol.com.br/jogador/moreno/1007985/competicoes,1985,Retirado
+Araújo,127143,Atacante,https://www.ogol.com.br/jogador/araujo/127143/competicoes,1984,Retirado
+Tan,1818884,Atacante,https://www.ogol.com.br/jogador/tan/1818884/competicoes,1984,Retirado
+Marcelo Saragoça,35291,Volante,https://www.ogol.com.br/jogador/marcelo-saragosa/35291/competicoes,1982,Retirado
+Renato Medeiros,167141,Meia,https://www.ogol.com.br/jogador/renato-medeiros/167141/competicoes,1982,Retirado
+Márcio Luiz,16714,Meia,https://www.ogol.com.br/jogador/marcio-luiz/16714/competicoes,1981,Retirado
+Renatinho,167954,Atacante,https://www.ogol.com.br/jogador/renatinho/167954/competicoes,1981,Retirado
+Jailson,5622,Lateral Esquerdo,https://www.ogol.com.br/jogador/jailson/5622/competicoes,1984,Retirado
+Wilton Figueiredo,95903,Atacante,https://www.ogol.com.br/jogador/wilton-figueiredo/95903/competicoes,1982,Retirado
+Kléber Gladiador,9189,Atacante,https://www.ogol.com.br/jogador/kleber-gladiador/9189/competicoes,1983,Retirado
+Márcio Aguiar,84502,Goleiro,https://www.ogol.com.br/jogador/marcio-aguiar/84502/competicoes,1981,Retirado
+Juan,5252,Lateral Esquerdo,https://www.ogol.com.br/jogador/juan/5252/competicoes,1982,Retirado
+Márcio Saraiva,336628,Zagueiro,https://www.ogol.com.br/jogador/marcio-saraiva/336628/competicoes,1981,Retirado
+Júlio Santos,6404,Zagueiro,https://www.ogol.com.br/jogador/julio-santos/6404/competicoes,1981,Retirado
+Robson Rebouças,183770,Volante,https://www.ogol.com.br/jogador/robinho/183770/competicoes,1981,Retirado
+Xandão,243689,Zagueiro,https://www.ogol.com.br/jogador/xandao/243689/competicoes,1980,Retirado
+Pepe,861957,Meia,https://www.ogol.com.br/jogador/pepe/861957/competicoes,1980,Retirado
+Alemão,91320,Lateral Esquerdo,https://www.ogol.com.br/jogador/alemao/91320/competicoes,1981,Retirado
+Kaká,1963,Meia,https://www.ogol.com.br/jogador/kaka/competicoes,1982,Retirado
+Hugo,7518,Meia,https://www.ogol.com.br/jogador/hugo/7518/competicoes,1980,Retirado
+Oliveira,92491,Atacante,https://www.ogol.com.br/jogador/thiago-oliveira/92491/competicoes,1981,Retirado
+Dinei,31984,Atacante,https://www.ogol.com.br/jogador/dinei/31984/competicoes,1981,Retirado
+Júlio Baptista,1058,Meia,https://www.ogol.com.br/jogador/julio-baptista/1058/competicoes,1981,Retirado
+Andrey,131465,Lateral Direito,https://www.ogol.com.br/jogador/andrey/131465/competicoes,1980,Retirado
+Jean,60736,Zagueiro,https://www.ogol.com.br/jogador/jean/60736/competicoes,1979,Retirado
+Fábio Simplício,5682,Volante,https://www.ogol.com.br/jogador/fabio-simplicio/5682/competicoes,1979,Retirado
+Hilton Mineiro,265762,Lateral Esquerdo,https://www.ogol.com.br/jogador/hilton-mineiro/265762/competicoes,1980,Retirado
+Leandro Alves,137094,Atacante,https://www.ogol.com.br/jogador/leandro-alves/137094/competicoes,1982,Retirado
