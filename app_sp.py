@@ -302,8 +302,19 @@ def main():
             # Filtrar jogos do jogador
             jogos_jogador = games[games["ID"] == jogador_id_escolhido].copy()
 
+            # --- Pontuação total do jogador ---
+               if not jogos_jogador.empty:
+               jogos_scored_individual = compute_scores(jogos_jogador, comp)
+               pont_total = int(jogos_scored_individual["Score"].sum())
+            else:
+               pont_total = 0
+
+            st.markdown(f"""
+            ### 🏅 Pontuação Total do Jogador: **{pont_total}**
+            """)
+
             st.markdown("### 📋 Lista de Competições / Jogos do Jogador")
-            st.markdown(
+
                 "Edite os valores diretamente na tabela abaixo. "
                 "Você pode adicionar novas linhas para incluir novas competições."
             )
