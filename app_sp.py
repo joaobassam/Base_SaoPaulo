@@ -81,8 +81,9 @@ def compute_scores(games_df: pd.DataFrame, comp_df: pd.DataFrame) -> pd.DataFram
         / (df.loc[mask_jogos_pos, "Jogos"] * 3)
     ) * df.loc[mask_jogos_pos, "A"]
 
+    # Score final da linha
     df["Score"] = df["A"] + df["B"] + df["C"]
-
+    # Pontuação do jogador deve ser inteira
     df["Score"] = df["Score"].round().astype(int)
 
     return df
@@ -114,9 +115,8 @@ def build_ranking_df(games_df: pd.DataFrame, players_df: pd.DataFrame, comp_df: 
     ranking = ranking.sort_values("Pontuacao_Total", ascending=False, na_position="last")
     ranking["Rank"] = range(1, len(ranking) + 1)
 
-    # Arredondar pontuação com 0 casas decimais
+    # Garantir pontuação inteira
     ranking["Pontuacao_Total"] = ranking["Pontuacao_Total"].round().astype(int)
-
 
     ranking = ranking[
         [
@@ -308,12 +308,33 @@ def main():
                 "Você pode adicionar novas linhas para incluir novas competições."
             )
 
+            # Placeholder para o totalizador acima da tabela
+            tot_placeholder = st.empty()
+
+            # Editor de dados
             edited_df = st.data_editor(
                 jogos_jogador,
                 num_rows="dynamic",
                 use_container_width=True,
                 key="editor_jogador",
             )
+
+            # --- Totalizador da tabela ---
+            cols_somar = ["Participações", "Títulos", "Jogos", "Vitórias", "Empates", "Derrotas"]
+            cols_existentes = [c for c in cols_somar if c in edited_df.columns]
+
+            if not edited_df.empty and cols_existentes:
+                total_row = edited_df[cols_existentes].sum().to_frame().T
+                total_row.insert(0, "Competição", "TOTAL GERAL")
+                mostrar_cols = ["Competição"] + cols_existentes
+
+                tot_placeholder.dataframe(
+                    total_row[mostrar_cols],
+                    use_container_width=True,
+                    hide_index=True,
+                )
+            else:
+                tot_placeholder.info("Nenhum registro para totalizar nesta tabela.")
 
             st.markdown("### 💾 Salvar alterações")
 
@@ -411,9 +432,8 @@ def main():
                     .sort_values("Pontuacao", ascending=False)
                 )
 
-                # 0 casas decimais
+                # Pontuação inteira
                 resumo_comp["Pontuacao"] = resumo_comp["Pontuacao"].round().astype(int)
-
 
                 st.dataframe(
                     resumo_comp,
