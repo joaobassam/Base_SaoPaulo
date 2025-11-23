@@ -367,7 +367,7 @@ def main():
                 "Você pode adicionar novas linhas para incluir novas competições."
             )
 
-            # ----- IMPORTANTÍSSIMO: resetar índice para evitar None -----
+            # Resetar índice para evitar linha com índice None
             jogos_jogador_display = jogos_jogador.reset_index(drop=True)
 
             # Placeholder para o totalizador acima da tabela
@@ -475,6 +475,9 @@ def main():
                             "Se estiver rodando na nuvem, faça o download dos CSVs atualizados abaixo."
                         )
                         st.text(f"Detalhe técnico: {e}")
+
+                    # 🔄 Recalcula tudo imediatamente (pontuação, ranking, etc.)
+                    st.rerun()
 
             with col_save2:
                 csv_games = st.session_state["games"].to_csv(index=False).encode("utf-8-sig")
@@ -594,4 +597,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
