@@ -1,4 +1,4 @@
-Jogador,ID,Posição,Link,Ano,Status
+﻿Jogador,ID,Posição,Link,Ano,Status
 Richard,123999,Goleiro,https://www.ogol.com.br/jogador/richard-/123999/competicoes,1991,Ativo
 Cleiton,215759,Lateral Esquerdo,https://www.ogol.com.br/jogador/cleiton/215759/competicoes,1992,Retirado
 Régis,137651,Meia,https://www.ogol.com.br/jogador/regis/137651/competicoes,1992,Ativo
@@ -66,7 +66,7 @@ Hugo Gomes,216127,Zagueiro,https://www.ogol.com.br/jogador/hugo-gomes/216127/com
 Gabriel Miotti,215769,Goleiro,https://www.ogol.com.br/jogador/gabriel-miotti/215769/competicoes,1994,Retirado
 Vitor Mattioli,216161,Zagueiro,https://www.ogol.com.br/jogador/vitor/216161/competicoes,1995,Retirado
 Kalil,258983,Volante,https://www.ogol.com.br/jogador/kalil/258983/competicoes,1995,Retirado
-Polidoro Junior,456284,Zagueiro,https://www.ogol.com.br/jogador/polidoro-junior/456284/competicoes,1996,Retirado
+Polidoro Junior,456284,Zagueiro,https://www.ogol.com.br/jogador/polidoro-junior/456284/competicoes,1996,Ativo
 Tom,561077,Zagueiro,https://www.ogol.com.br/jogador/tom/561077/competicoes,1996,Retirado
 Léo Coca,500027,Meia,https://www.ogol.com.br/jogador/leo-coca/500027/competicoes,1996,Ativo
 Léo Felix,647940,Lateral Direito,https://www.ogol.com.br/jogador/leo-felix/647940/competicoes,1995,Retirado
