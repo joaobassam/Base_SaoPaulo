@@ -1,4 +1,4 @@
-﻿Jogador,ID,Posição,Link,Ano,Status
+Jogador,ID,Posição,Link,Ano,Status
 Richard,123999,Goleiro,https://www.ogol.com.br/jogador/richard-/123999/competicoes,1991,Ativo
 Cleiton,215759,Lateral Esquerdo,https://www.ogol.com.br/jogador/cleiton/215759/competicoes,1992,Retirado
 Régis,137651,Meia,https://www.ogol.com.br/jogador/regis/137651/competicoes,1992,Ativo
@@ -66,7 +66,7 @@ Hugo Gomes,216127,Zagueiro,https://www.ogol.com.br/jogador/hugo-gomes/216127/com
 Gabriel Miotti,215769,Goleiro,https://www.ogol.com.br/jogador/gabriel-miotti/215769/competicoes,1994,Retirado
 Vitor Mattioli,216161,Zagueiro,https://www.ogol.com.br/jogador/vitor/216161/competicoes,1995,Retirado
 Kalil,258983,Volante,https://www.ogol.com.br/jogador/kalil/258983/competicoes,1995,Retirado
-Polidoro Junior,456284,Zagueiro,https://www.ogol.com.br/jogador/polidoro-junior/456284/competicoes,1996,Ativo
+Polidoro Junior,456284,Zagueiro,https://www.ogol.com.br/jogador/polidoro-junior/456284/competicoes,1996,Retirado
 Tom,561077,Zagueiro,https://www.ogol.com.br/jogador/tom/561077/competicoes,1996,Retirado
 Léo Coca,500027,Meia,https://www.ogol.com.br/jogador/leo-coca/500027/competicoes,1996,Ativo
 Léo Felix,647940,Lateral Direito,https://www.ogol.com.br/jogador/leo-felix/647940/competicoes,1995,Retirado
@@ -352,7 +352,7 @@ Oscar,64777,Meia,https://www.ogol.com.br/jogador/oscar/64777/competicoes,1991,At
 João Nazari,890216,Goleiro,https://www.ogol.com.br/jogador/joao-nazari-/890216/competicoes,2007,Ativo
 Eric,1003254,Goleiro,https://www.ogol.com.br/jogador/eric/1003254/competicoes,2006,Ativo
 Luciano,905964,Goleiro,https://www.ogol.com.br/jogador/luciano/905964/competicoes,2006,Ativo
-João Pedro,905964,Goleiro,https://www.ogol.com.br/jogador/luciano/905964/competicoes,2006,Ativo
+João Pedro,907054,Goleiro,https://www.ogol.com.br/jogador/joao-pedro/907054/competicoes,2006,Ativo
 Basile,1005764,Lateral Direito,https://www.ogol.com.br/jogador/basile/1005764/competicoes,2006,Ativo
 Igão,768899,Zagueiro,https://www.ogol.com.br/jogador/igao/768899/competicoes,2007,Ativo
 Luis Osorio,974342,Zagueiro,https://www.ogol.com.br/jogador/luis-osorio/974342/competicoes,2006,Ativo
@@ -523,3 +523,25 @@ Jean,60736,Zagueiro,https://www.ogol.com.br/jogador/jean/60736/competicoes,1979,
 Fábio Simplício,5682,Volante,https://www.ogol.com.br/jogador/fabio-simplicio/5682/competicoes,1979,Retirado
 Hilton Mineiro,265762,Lateral Esquerdo,https://www.ogol.com.br/jogador/hilton-mineiro/265762/competicoes,1980,Retirado
 Leandro Alves,137094,Atacante,https://www.ogol.com.br/jogador/leandro-alves/137094/competicoes,1982,Retirado
+Djhordney,1183767,Volante,https://www.ogol.com.br/jogador/djhordney/1183767/competicoes,2007,Ativo
+Isac Silva,975401,Zagueiro,https://www.ogol.com.br/jogador/isac-silva/975401/competicoes,2006,Ativo
+Matheus Ferreira,966417,Volante,https://www.ogol.com.br/jogador/matheus-ferreira/966417/competicoes,2006,Ativo
+Gustavo Santana,865392,Atacante,https://www.ogol.com.br/jogador/gustavo-santana/865392/competicoes,2005,Ativo
+Nicolas Bosshardt,768895,Lateral Esquerdo,https://www.ogol.com.br/jogador/nicolas-bosshardt/768895/competicoes,2007,Ativo
+Abner,2823466,Goleiro,https://www.ogol.com.br/jogador/abner/2823466/competicoes,1980,Retirado
+Matheus Menezes,1217479,Atacante,https://www.ogol.com.br/jogador/matheus-menezes/1217479/competicoes,2007,Ativo
+Juan Potes,1522179,Atacante,https://www.ogol.com.br/jogador/juan-potes/1522179/competicoes,2006,Ativo
+Enzo Juan,970320,Meia,https://www.ogol.com.br/jogador/enzo-juan/970320/competicoes,2007,Ativo
+Felipe Carneiro,770014,Atacante,https://www.ogol.com.br/jogador/felipe-carneiro/770014/competicoes,2007,Ativo
+Lucyan,969568,Lateral Direito,https://www.ogol.com.br/jogador/lucyan/969568/competicoes,2006,Ativo
+Otávio Polin,768918,Volante,https://www.ogol.com.br/jogador/otavio-polin/768918/competicoes,2007,Ativo
+Samuel Monteiro,905965,Volante,https://www.ogol.com.br/jogador/samuel-monteiro-/905965/competicoes,2007,Ativo
+Angelo,772923,Lateral Direito,https://www.ogol.com.br/jogador/angelo/772923/competicoes,2008,Ativo
+Henrique Bell,970312,Zagueiro,https://www.ogol.com.br/jogador/henrique-bell/970312/competicoes,2007,Ativo
+Caique Takada,770012,Atacante,https://www.ogol.com.br/jogador/caique-takada/770012/competicoes,2007,Ativo
+Kaio Santos,1065657,Volante,https://www.ogol.com.br/jogador/kaio-santos/1065657/competicoes,2006,Ativo
+Thierry Henry,765055,Atacante,https://www.ogol.com.br/jogador/thierry-henry/765055/competicoes,2007,Ativo
+Welber,768894,Lateral Direito,https://www.ogol.com.br/jogador/welber/768894/competicoes,2007,Ativo
+Samuel Lucas,1181595,Zagueiro,https://www.ogol.com.br/jogador/samuel-lucas/1181595/competicoes,2007,Ativo
+Cassinho,768914,Atacante,https://www.ogol.com.br/jogador/cassinho/768914/competicoes,2007,Ativo
+Renan,772925,Meia,https://www.ogol.com.br/jogador/renan/772925/competicoes,2008,Ativo
