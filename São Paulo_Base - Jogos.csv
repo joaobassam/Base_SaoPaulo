@@ -1,19 +1,4 @@
 ﻿Jogador,ID,Competição,Participações,Títulos,Jogos,Vitórias,Empates,Derrotas
-Richard,123999,Primeira Liga,1,0,2,0,1,1
-Richard,123999,Copa do Nordeste,5,2,36,21,9,6
-Richard,123999,Campeonato Paulista,3,0,35,9,8,18
-Richard,123999,Campeonato Brasileiro,5,0,63,15,20,28
-Richard,123999,Copa do Brasil,4,0,9,2,3,4
-Richard,123999,Brasileiro Série B,3,0,71,32,15,24
-Richard,123999,Copa Sul-Americana,2,0,7,4,2,1
-Richard,123999,Campeonato Paranaense,1,0,6,4,2,0
-Richard,123999,Campeonato Paulista Sub-20,1,1,8,4,3,1
-Richard,123999,Campeonato Cearense,4,1,19,8,8,3
-Richard,123999,Paulista A2,3,0,26,13,6,7
-Richard,123999,Copinha,1,1,8,7,1,0
-Richard,123999,Copa Paulista,3,0,41,12,15,14
-Richard,123999,Campeonato Brasileiro de Aspirantes,1,1,1,1,0,0
-Richard,123999,Brasileiro Série D,1,0,5,2,1,2
 Cleiton,215759,Campeonato Baiano,1,0,3,0,0,3
 Cleiton,215759,Campeonato Mineiro,1,0,1,0,1,0
 Cleiton,215759,Campeonato Paulista,1,0,6,0,4,2
@@ -86,18 +71,6 @@ Danilo Mohamed,238269,Campeonato Sul-Mato-Grossense,1,0,2,1,1,0
 Danilo Mohamed,238269,Paranaense 2ª Divisão,1,1,2,1,1,0
 Danilo Mohamed,238269,Paulista A3,1,0,4,1,1,2
 Danilo Mohamed,238269,Paulista Segunda Divisão,4,0,42,17,8,17
-Pablo,215758,Campeonato Mineiro,1,0,2,0,2,0
-Pablo,215758,Campeonato Paulista,1,0,5,2,2,1
-Pablo,215758,Brasileiro Série D,3,0,15,5,6,4
-Pablo,215758,Campeonato Paulista Sub-20,1,1,1,1,0,0
-Pablo,215758,Paranaense 2ª Divisão,1,0,16,7,1,8
-Pablo,215758,Paulista A2,3,0,21,8,6,7
-Pablo,215758,Campeonato Mineiro Módulo II,1,0,15,3,6,6
-Pablo,215758,Paulista A3,3,1,59,32,16,11
-Pablo,215758,Paranaense 3ª Divisão,2,0,18,8,7,3
-Pablo,215758,Paulista Segunda Divisão,3,0,46,15,18,13
-Pablo,215758,Copa Paulista,3,0,22,7,5,10
-Pablo,215758,Copa Espírito Santo,1,1,4,2,1,1
 Guilherme Correia,137348,Campeonato de Portugal,1,0,4,1,2,1
 Guilherme Correia,137348,Campeonato Paulista Sub-20,1,1,2,2,0,0
 Guilherme Correia,137348,Paulista A3,1,0,12,3,3,6
@@ -1068,83 +1041,6 @@ Tiago Fernandes,55650,Copa Paulista,2,0,18,7,3,8
 Tiago Fernandes,55650,Paulista Sub-23 Segunda Divisão,1,0,2,0,0,2
 Tiago Fernandes,55650,Copinha,1,0,1,0,1,0
 Tiago Fernandes,55650,Brasileirão Série D,1,0,2,0,2,0
-Flavio Paulino,189202,Campeonato Paulista,1,0,17,5,5,7
-Flavio Paulino,189202,Campeonato Mineiro,1,0,5,1,1,3
-Flavio Paulino,189202,Campeonato Baiano,1,0,3,1,0,2
-Flavio Paulino,189202,Copa do Brasil,1,0,1,0,0,1
-Flavio Paulino,189202,Taça da Liga,2,0,2,1,0,1
-Flavio Paulino,189202,Brasileiro Série B,1,0,1,1,0,0
-Flavio Paulino,189202,II Liga Portuguesa,2,0,22,12,7,3
-Flavio Paulino,189202,Brasileiro Série C,1,0,5,1,2,2
-Flavio Paulino,189202,Campeonato Catarinense,2,0,13,2,3,8
-Flavio Paulino,189202,Campeonato Gaúcho Divisão de Acesso,1,1,14,5,5,4
-Flavio Paulino,189202,Campeonato Catarinense Série B,3,1,30,16,11,3
-Flavio Paulino,189202,Paulista A2,1,0,12,3,4,5
-Flavio Paulino,189202,Liga Búlgara,1,0,5,3,0,2
-Flavio Paulino,189202,Brasileirão Série D,1,0,6,1,1,4
-Bruno Cesar,87580,Campeonato Paulista,4,0,59,29,12,18
-Bruno Cesar,87580,Campeonato Carioca,2,0,16,9,3,4
-Bruno Cesar,87580,Campeonato Gaúcho,1,0,6,2,3,1
-Bruno Cesar,87580,Paulista A2,2,0,15,3,5,7
-Bruno Cesar,87580,Liga Saudita,3,0,26,13,10,3
-Bruno Cesar,87580,Brasileirão,5,0,60,23,16,21
-Bruno Cesar,87580,Campeonato Português,6,0,111,77,21,13
-Bruno Cesar,87580,Taça de Portugal,7,1,17,14,0,3
-Bruno Cesar,87580,Copa do Brasil,4,0,12,7,2,3
-Bruno Cesar,87580,Taça da Liga,5,2,11,8,2,1
-Bruno Cesar,87580,II Liga Portuguesa,3,0,40,14,10,16
-Bruno Cesar,87580,Copa Libertadores,1,0,1,0,1,0
-Bruno Cesar,87580,Liga dos Campeões,4,0,26,8,6,12
-Bruno Cesar,87580,AFC Champions League Elite,2,0,16,9,5,2
-Bruno Cesar,87580,Liga Europa,2,0,2,1,0,1
-Bruno Cesar,87580,Liga dos Campeões (Qualificação),2,0,3,2,1,0
-Bruno Cesar,87580,Jogos Amistosos Clubes,2,0,4,3,1,0
-Bruno Cesar,87580,Amistosos Seleções,1,0,2,2,0,0
-Serginho Paulista,127146,Copa do Nordeste,1,0,7,1,2,4
-Serginho Paulista,127146,Brasileirão,1,1,1,0,0,1
-Serginho Paulista,127146,Copa do Brasil,2,0,8,3,2,3
-Serginho Paulista,127146,Brasileirão Série B,2,0,22,8,6,8
-Serginho Paulista,127146,Campeonato Candango,1,0,9,3,2,4
-Serginho Paulista,127146,Campeonato Paranaense,7,0,87,43,19,25
-Serginho Paulista,127146,Campeonato Goiano,1,0,11,3,1,7
-Serginho Paulista,127146,Campeonato Paulista,1,0,6,3,0,3
-Serginho Paulista,127146,Campeonato Paraibano,1,1,4,3,1,0
-Serginho Paulista,127146,Campeonato Pernambucano,1,0,10,4,3,3
-Serginho Paulista,127146,Campeonato Sergipano,1,0,11,8,1,2
-Serginho Paulista,127146,Campeonato Catarinense,1,0,6,0,2,4
-Serginho Paulista,127146,Campeonato Sul-Mato-Grossense,1,0,3,1,1,1
-Serginho Paulista,127146,Goiano 2ª Divisão,1,0,10,3,2,5
-Serginho Paulista,127146,Campeonato Catarinense Série B,1,0,12,7,1,4
-Serginho Paulista,127146,Paranaense 2ª Divisão,5,1,41,20,9,12
-Serginho Paulista,127146,Brasileirão Série C,3,1,17,5,7,5
-Serginho Paulista,127146,Brasileirão Série D,7,1,49,22,10,17
-Serginho Paulista,127146,Jogos Amistosos Clubes,1,0,1,0,0,1
-Juninho Souza,239310,Brasileirão,1,0,4,0,0,4
-Juninho Souza,239310,Copa do Brasil,1,0,1,0,0,1
-Juninho Souza,239310,Brasileirão Série B,1,0,1,0,1,0
-Juninho Souza,239310,Eliminatórias Copa do Mundo (AFC),1,0,7,2,2,3
-Juninho Souza,239310,Campeonato Amazonense,1,0,4,1,1,2
-Juninho Souza,239310,Copa Federação Gaúcha de Futebol,1,1,1,1,0,0
-Juninho Souza,239310,Liga Malásia,1,0,9,2,4,3
-Juninho Souza,239310,Taça Asiática (Q),1,0,2,0,0,2
-Juninho Souza,239310,Amistosos Seleções,1,0,1,0,0,1
-Tiago Azulão,5597,Liga Cipriota,1,0,12,2,6,4
-Tiago Azulão,5597,Copa do Brasil,2,0,3,0,2,1
-Tiago Azulão,5597,Brasileirão Série B,1,0,5,1,1,3
-Tiago Azulão,5597,African Football League,1,0,2,0,1,1
-Tiago Azulão,5597,Campeonato Mineiro,6,0,52,20,13,19
-Tiago Azulão,5597,Campeonato Mineiro Módulo II,1,0,15,9,3,3
-Tiago Azulão,5597,Taça Minas Gerais,1,1,1,0,1,0
-Tiago Azulão,5597,Copa Rio,1,0,1,0,1,0
-Tiago Azulão,5597,Copa Paulista,1,0,20,9,7,4
-Tiago Azulão,5597,Liga Angolana,9,4,197,132,43,22
-Tiago Azulão,5597,Taça de Angola,7,5,23,18,2,3
-Tiago Azulão,5597,Supertaça Angolana,3,1,3,1,2,0
-Tiago Azulão,5597,Taça do Chipre,1,0,1,0,1,0
-Tiago Azulão,5597,Brasileirão Série C,3,0,30,9,13,8
-Tiago Azulão,5597,Brasileirão Série D,2,0,13,3,4,6
-Tiago Azulão,5597,CAF Champions League,4,0,44,18,15,11
-Tiago Azulão,5597,Taça da Confederação CAF,2,0,16,8,4,4
 Aislan,64773,Campeonato Paulista,2,0,3,1,1,1
 Aislan,64773,Liga Suiça,2,0,19,7,4,8
 Aislan,64773,Brasileirão,3,1,20,6,4,10
@@ -1159,11 +1055,6 @@ Aislan,64773,Copa Rio,1,0,6,4,0,2
 Aislan,64773,Schweizer Cup,1,0,1,1,0,0
 Aislan,64773,Brasileirão Série C,1,0,18,7,4,7
 Aislan,64773,Brasileirão Série D,1,0,5,0,2,3
-Cris,448678,Campeonato Gaúcho Divisão de Acesso,3,0,23,11,8,4
-Cris,448678,Paulista A2,1,0,4,1,1,2
-Cris,448678,Paulista A3,5,0,56,19,15,22
-Cris,448678,Copa Paulista,1,0,8,2,2,4
-Cris,448678,Paulista Sub-23 Segunda Divisão,2,0,17,6,5,6
 Henrique,220095,Paulista Sub-23 Segunda Divisão,1,0,3,0,0,3
 Henrique,220095,Copa Paulista,1,1,4,2,1,1
 Jackson,46157,Campeonato Paulista,3,0,18,6,4,8
@@ -1176,46 +1067,6 @@ Jackson,46157,Campeonato Mineiro,1,0,1,0,0,1
 Jackson,46157,North American Soccer League [new],1,1,24,11,8,5
 Jackson,46157,USL Championship,1,0,20,11,4,5
 Jackson,46157,Jogos Amistosos Clubes,1,0,1,0,0,1
-Luan Scapolan,136658,Primeira Liga,1,0,2,0,1,1
-Luan Scapolan,136658,Campeonato Paulista,2,0,12,6,2,4
-Luan Scapolan,136658,Campeonato Turco,1,0,8,2,3,3
-Luan Scapolan,136658,Campeonato Português,2,0,31,7,8,16
-Luan Scapolan,136658,Brasileirão,1,0,13,4,4,5
-Luan Scapolan,136658,Copa do Brasil,3,0,6,3,2,1
-Luan Scapolan,136658,Taça da Liga,2,0,8,2,3,3
-Luan Scapolan,136658,Brasileirão Série B,4,0,50,20,13,17
-Luan Scapolan,136658,Campeonato Paranaense,1,0,8,1,1,6
-Luan Scapolan,136658,Campeonato Catarinense,2,0,24,11,5,8
-Luan Scapolan,136658,Campeonato Alagoano,1,0,1,1,0,0
-Luan Scapolan,136658,Paulista A2,2,0,32,22,4,6
-Luan Scapolan,136658,Copa Paulista,2,0,32,15,9,8
-Luan Scapolan,136658,Paulista Sub-23 Segunda Divisão,1,0,26,11,10,5
-Luan Scapolan,136658,Taça de Portugal,2,0,4,2,1,1
-Luan Scapolan,136658,Brasileirão Série C,2,0,5,3,1,1
-Luan Scapolan,136658,Brasileirão Série D,1,0,7,2,2,3
-Luan Scapolan,136658,Jogos Amistosos Clubes,1,0,1,0,0,1
-Jorge Miguel,31401,Brasileirão Série B,1,0,11,6,1,4
-Jorge Miguel,31401,Campeonato Candango,1,0,3,1,1,1
-Jorge Miguel,31401,Campeonato Alagoano,1,1,6,2,3,1
-Jorge Miguel,31401,Paulista A2,2,0,17,7,5,5
-Jorge Miguel,31401,Brasileirão Série C,1,0,2,2,0,0
-Éwerton Pascoa,186834,Copa do Nordeste,5,1,31,14,7,10
-Éwerton Pascoa,186834,Campeonato Paulista,3,0,23,6,6,11
-Éwerton Pascoa,186834,Brasileirão,4,0,53,21,15,17
-Éwerton Pascoa,186834,Copa do Brasil,8,0,21,8,6,7
-Éwerton Pascoa,186834,Brasileirão Série B,7,0,116,47,31,38
-Éwerton Pascoa,186834,Copa Sul-Americana,2,0,2,0,0,2
-Éwerton Pascoa,186834,Recopa Sul-Americana,1,1,1,1,0,0
-Éwerton Pascoa,186834,Campeonato Mineiro,2,0,7,1,1,5
-Éwerton Pascoa,186834,Campeonato Baiano,1,0,4,1,2,1
-Éwerton Pascoa,186834,Campeonato Pernambucano,3,1,31,19,7,5
-Éwerton Pascoa,186834,Copa do Nordeste Classificatória,2,0,5,3,1,1
-Éwerton Pascoa,186834,Campeonato Catarinense,2,1,20,8,7,5
-Éwerton Pascoa,186834,Campeonato Alagoano,2,1,13,6,4,3
-Éwerton Pascoa,186834,Paulista A2,2,0,14,4,5,5
-Éwerton Pascoa,186834,Paulista Sub-23 Segunda Divisão,2,1,29,21,1,7
-Éwerton Pascoa,186834,Copa Paulista,3,0,27,10,11,6
-Éwerton Pascoa,186834,Brasileirão Série C,1,0,7,3,1,3
 Rainer,166915,Campeonato Amazonense,1,0,2,2,0,0
 Rainer,166915,Copa Paulista,2,0,9,1,1,7
 Vinicius Zenon,250864,Paulista A3,2,0,7,2,1,4
@@ -1225,7 +1076,6 @@ Esquerdinha,137660,Campeonato Alagoano,1,0,1,1,0,0
 Esquerdinha,137660,Paulista A2,1,0,10,5,4,1
 Esquerdinha,137660,Paulista Sub-23 Segunda Divisão,2,0,13,6,2,5
 Esquerdinha,137660,Copa Paulista,1,0,3,0,1,2
-Maycon,450118,Campeonato Baiano,2,0,6,1,0,5
 Bruno Gomes,863470,Campeonato Baiano,1,0,3,1,0,2
 Bruno Gomes,863470,Copa Paulista,1,0,4,1,0,3
 Bruno Gomes,863470,Paulista Sub-23 Segunda Divisão,1,0,21,14,1,6
@@ -1245,7 +1095,6 @@ Almir Gullit,215764,Paulista Sub-17,1,0,9,5,2,2
 Almir Gullit,215764,Campeonato Mineiro Módulo II,1,0,7,3,1,3
 Almir Gullit,215764,Campeonato Catarinense Série B,1,0,1,0,1,0
 Almir Gullit,215764,Paulista Sub-23 Segunda Divisão,3,0,10,2,5,3
-Weverson,455821,Copinha,1,0,3,1,0,2
 Lucas,2779842,Copa Paulista,1,0,1,0,0,1
 Carlos Rincón,29293,Campeonato Francês,2,0,27,6,6,15
 Carlos Rincón,29293,Liga Europa,1,0,2,1,0,1
@@ -1264,31 +1113,6 @@ Rafael Lopes,64772,Copa do Brasil,1,0,1,0,0,1
 Rafael Lopes,64772,Copa Sul-Americana,1,0,1,0,1,0
 Rafael Lopes,64772,Campeonato Alagoano,1,0,2,2,0,0
 Rafael Lopes,64772,Brasileirão Série C,2,0,7,2,3,2
-Fabrício,33265,Copa do Nordeste,1,0,4,0,3,1
-Fabrício,33265,Primeira Liga,2,0,5,2,2,1
-Fabrício,33265,Brasileirão,9,1,171,75,46,50
-Fabrício,33265,Copa do Brasil,7,1,22,9,6,7
-Fabrício,33265,Brasileirão Série B,3,0,49,25,8,16
-Fabrício,33265,Recopa Sul-Americana,1,1,1,0,0,1
-Fabrício,33265,Copa Sul-Americana,2,0,2,0,1,1
-Fabrício,33265,Copa Libertadores,4,0,11,3,5,3
-Fabrício,33265,Campeonato Baiano,1,0,1,0,0,1
-Fabrício,33265,Campeonato Rondoniense,1,0,9,4,4,1
-Fabrício,33265,Campeonato Paulista,5,0,39,16,12,11
-Fabrício,33265,Campeonato Mineiro,3,0,16,9,6,1
-Fabrício,33265,Campeonato Carioca,1,0,8,5,0,3
-Fabrício,33265,Campeonato Gaúcho,4,4,48,34,12,2
-Fabrício,33265,Paulista A2,3,1,32,19,9,4
-Fabrício,33265,Copa Paulista,1,0,1,0,0,1
-Fabrício,33265,Jogos Amistosos Clubes,1,0,1,1,0,0
-Cazão,39152,Copa do Brasil,1,0,2,0,1,1
-Cazão,39152,Campeonato Goiano,1,0,9,1,2,6
-Cazão,39152,Campeonato Mineiro Módulo II,1,0,14,6,3,5
-Cazão,39152,Paulista A2,3,0,34,12,7,15
-Cazão,39152,Paulista A3,2,0,18,7,5,6
-Cazão,39152,Paulista Sub-23 Segunda Divisão,1,0,3,0,1,2
-Cazão,39152,Copa Paulista,2,0,12,3,3,6
-Cazão,39152,Brasileirão Série D,1,0,5,0,3,2
 Carlinhos,53896,Brasileirão,1,1,2,1,1,0
 Carlinhos,53896,Campeonato Paranaense,1,0,3,0,1,2
 Carlinhos,53896,Campeonato Paulista,2,0,6,1,2,3
@@ -1352,18 +1176,6 @@ Alex Graciani,195937,Campeonato Amazonense,1,0,16,5,4,7
 Alex Graciani,195937,Paulista A3,2,0,25,11,6,8
 Alex Graciani,195937,Paulista Sub-23 Segunda Divisão,2,0,17,7,2,8
 Alex Graciani,195937,Copa Paulista,2,0,13,5,1,7
-Rodrigo Barros,126187,Copa Verde,1,0,4,1,3,0
-Rodrigo Barros,126187,Copa do Brasil,1,0,1,0,0,1
-Rodrigo Barros,126187,Campeonato Candango,4,1,28,12,12,4
-Rodrigo Barros,126187,Campeonato Paulista,2,0,8,2,1,5
-Rodrigo Barros,126187,Paulista A2,1,0,2,0,0,2
-Rodrigo Barros,126187,Copa Paulista,4,0,27,15,6,6
-Rodrigo Barros,126187,Brasileirão Série C,1,0,5,1,2,2
-Rodrigo Barros,126187,Brasileirão Série D,3,0,14,3,8,3
-Daniel Venancio,1008213,Paulista A2,1,0,8,2,4,2
-Daniel Venancio,1008213,Paulista A3,1,0,3,1,0,2
-Daniel Venancio,1008213,Copa Paulista,1,0,1,0,0,1
-Daniel Venancio,1008213,Paulista Sub-23 Segunda Divisão,1,0,6,0,1,5
 Flávio Donizete,274594,Brasileirão,2,0,15,6,2,7
 Flávio Donizete,274594,Copa Libertadores,1,1,1,0,1,0
 Flávio Donizete,274594,Campeonato Paulista,2,1,2,1,0,1
@@ -1371,10 +1183,6 @@ Flávio Donizete,274594,Copa Paulista,3,0,30,8,5,17
 Flávio Donizete,274594,Brasileirão Série B,1,0,2,1,1,0
 Luis Fernando,2779851,Copa Paulista,1,0,2,0,0,2
 Antônio Carlos,2779853,Copa Paulista,1,0,2,0,0,2
-Filipe Oliveira,97854,Brasileirão Série B,1,0,3,2,0,1
-Filipe Oliveira,97854,Paulista A3,1,0,7,1,3,3
-Filipe Oliveira,97854,Copa Paulista,1,0,3,2,0,1
-Filipe Oliveira,97854,Paulista Sub-23 Segunda Divisão,1,0,2,1,1,0
 Filipe Queiroz,86930,Campeonato Baiano,2,0,18,8,5,5
 Filipe Queiroz,86930,Campeonato Carioca,1,0,1,0,1,0
 Filipe Queiroz,86930,Paulista A2,1,0,7,3,1,3
@@ -1388,7 +1196,6 @@ Tiago Limeira,999809,Paulista A2,1,0,2,0,0,2
 Tiago Limeira,999809,Paulista A3,1,0,1,0,0,1
 Tiago Limeira,999809,Copa Paulista,1,0,2,0,0,2
 Tiago Limeira,999809,Paulista Sub-23 Segunda Divisão,1,0,17,9,4,4
-André Moraes,2739171,Copa Paulista,1,0,3,0,0,3
 Diego Morais,302783,Campeonato Baiano,1,0,5,0,2,3
 Diego Morais,302783,Paulista A2,1,0,13,5,1,7
 Diego Morais,302783,Copa Paulista,2,0,16,6,0,10
@@ -1804,61 +1611,6 @@ Digão,15004,Serie B Italiana,3,1,21,10,7,4
 Douglas Lopes,1010785,Paulista A2,1,0,12,0,1,11
 Douglas Lopes,1010785,Copa Paulista,2,0,12,4,4,4
 Douglas Lopes,1010785,Paulista Sub-23 Segunda Divisão,1,0,6,1,1,4
-Camargo,84860,Major League Soccer,3,0,47,21,14,12
-Camargo,84860,Copa do Brasil,3,0,8,2,4,2
-Camargo,84860,Liga dos Campeões CONCACAF,1,0,4,2,2,0
-Camargo,84860,Campeonato Paranaense,6,0,72,29,14,29
-Camargo,84860,Campeonato Paulista,1,0,17,5,3,9
-Camargo,84860,Campeonato Sul-Mato-Grossense,1,0,4,2,0,2
-Camargo,84860,Paulista A2,2,0,27,11,6,10
-Camargo,84860,Paranaense 2ª Divisão,3,0,28,9,8,11
-Camargo,84860,Paranaense 3ª Divisão,1,0,7,4,3,0
-Camargo,84860,Copa Paulista,2,0,12,3,1,8
-Camargo,84860,Brasileirão Série B,3,0,47,22,11,14
-Camargo,84860,USL Championship,1,0,2,0,0,2
-Camargo,84860,Jogos Amistosos Clubes,1,0,2,2,0,0
-Camargo,84860,Paulista Sub-23 Segunda Divisão,1,0,18,6,7,5
-Alex Cazumba,46209,Copa do Nordeste,2,0,10,2,4,4
-Alex Cazumba,46209,Campeonato Paulista,4,0,22,7,5,10
-Alex Cazumba,46209,Liga Grega,1,0,7,2,2,3
-Alex Cazumba,46209,Major League Soccer,1,0,19,10,2,7
-Alex Cazumba,46209,Brasileirão,2,2,18,6,5,7
-Alex Cazumba,46209,Copa do Brasil,6,0,8,1,2,5
-Alex Cazumba,46209,Copa Sul-Americana,1,0,2,0,2,0
-Alex Cazumba,46209,Liga dos Campeões CONCACAF,1,0,2,1,0,1
-Alex Cazumba,46209,Campeonato Paraibano,1,1,8,4,3,1
-Alex Cazumba,46209,Campeonato Potiguar,1,0,14,6,3,5
-Alex Cazumba,46209,Campeonato Baiano,9,0,81,30,27,24
-Alex Cazumba,46209,Campeonato Paranaense,1,0,16,4,7,5
-Alex Cazumba,46209,Campeonato Amazonense,1,0,10,7,1,2
-Alex Cazumba,46209,Campeonato Maranhense,1,0,1,0,1,0
-Alex Cazumba,46209,Campeonato Gaúcho,1,0,1,1,0,0
-Alex Cazumba,46209,Paulista A2,1,0,10,5,1,4
-Alex Cazumba,46209,Baiano 2ª Divisão,1,1,13,8,4,1
-Alex Cazumba,46209,Campeonato Paraense 2ª Divisão,1,0,7,2,2,3
-Alex Cazumba,46209,Paulista A3,1,0,2,0,1,1
-Alex Cazumba,46209,Copa Paulista,3,0,15,3,5,7
-Alex Cazumba,46209,Brasileirão Série C,3,0,38,11,13,14
-Alex Cazumba,46209,Brasileirão Série D,8,0,84,32,25,27
-Alex Cazumba,46209,Jogos Amistosos Clubes,1,0,1,0,1,0
-Bruno Silva,64776,Copa do Nordeste,1,0,9,7,1,1
-Bruno Silva,64776,Campeonato Paulista,6,0,71,21,25,25
-Bruno Silva,64776,Brasileirão,3,1,15,3,6,6
-Bruno Silva,64776,Copa do Brasil,2,0,3,1,1,1
-Bruno Silva,64776,Brasileirão Série B,6,0,123,39,44,40
-Bruno Silva,64776,Copa Sul-Americana,1,0,2,0,2,0
-Bruno Silva,64776,Copa Libertadores,1,0,4,1,1,2
-Bruno Silva,64776,Campeonato Pernambucano,1,0,11,4,4,3
-Bruno Silva,64776,Campeonato Gaúcho,1,0,4,2,1,1
-Bruno Silva,64776,Campeonato Carioca,1,0,6,4,1,1
-Bruno Silva,64776,Campeonato Catarinense,2,0,16,6,5,5
-Bruno Silva,64776,Paulista A2,3,1,42,19,13,10
-Bruno Silva,64776,Copa Paulista,2,0,3,0,2,1
-Bruno Silva,64776,Brasileirão Série C,1,0,14,4,4,6
-Bruno Silva,64776,Brasileirão Série D,1,0,12,5,4,3
-Bruno Silva,64776,Jogos Amistosos Clubes,1,0,1,1,0,0
-Bruno Silva,64776,Copinha,1,0,1,1,0,0
-Bruno Silva,64776,Premyer Liqasi,1,0,8,3,0,5
 Denilson,23303,Campeonato Paulista,6,0,53,32,9,12
 Denilson,23303,Copa Paulista,1,0,2,0,1,1
 Denilson,23303,Liga Inglesa,5,0,96,56,24,16
@@ -1907,8 +1659,6 @@ Eric Leandro,96061,Paulista Sub-23 Segunda Divisão,1,0,8,1,4,3
 Eric Leandro,96061,Copa Paulista,2,0,5,3,0,2
 Eric Leandro,96061,Brasileirão Série D,1,0,1,0,0,1
 Eric Leandro,96061,Copinha,1,0,1,1,0,0
-Felipe Pazian,941169,Paulista A3,1,0,5,1,1,3
-Felipe Pazian,941169,Copinha,1,0,1,1,0,0
 Juninho,127383,Liga Mexicana Apertura,1,0,6,3,0,3
 Juninho,127383,Major League Soccer,8,3,231,117,50,64
 Juninho,127383,Liga dos Campeões CONCACAF,3,0,18,8,3,7
@@ -1932,45 +1682,6 @@ Léo Gonçalves,133488,Paulista A3,4,0,50,18,18,14
 Léo Gonçalves,133488,Copa Paulista,2,0,6,2,1,3
 Léo Gonçalves,133488,Brasileirão Série D,3,0,15,3,3,9
 Léo Gonçalves,133488,Copinha,1,0,1,1,0,0
-Mazola,113453,Copa do Nordeste,1,0,1,0,1,0
-Mazola,113453,Campeonato Paulista,3,0,21,6,5,10
-Mazola,113453,Liga Japonesa,1,0,21,4,7,10
-Mazola,113453,Brasileirão,3,0,43,10,12,21
-Mazola,113453,Copa do Brasil,3,0,6,3,1,2
-Mazola,113453,Segunda Liga Portuguesa,1,0,7,2,3,2
-Mazola,113453,Brasileirão Série B,2,0,35,13,11,11
-Mazola,113453,Copa Sul-Americana,1,0,2,0,2,0
-Mazola,113453,Campeonato Gaúcho,3,0,16,6,4,6
-Mazola,113453,Campeonato Catarinense,1,1,17,9,6,2
-Mazola,113453,Paulista A2,1,0,7,4,2,1
-Mazola,113453,Paulista A3,1,0,13,6,2,5
-Mazola,113453,Copa Federação Gaúcha de Futebol,1,0,9,6,0,3
-Mazola,113453,Copa Paulista,1,0,5,0,2,3
-Mazola,113453,Campeonato Chinês,2,0,42,13,13,16
-Mazola,113453,J.League Yamazaki Nabisco Cup,1,0,3,3,0,0
-Mazola,113453,Brasileirão Série C,2,0,19,8,4,7
-Mazola,113453,Brasileirão Série D,1,0,2,1,0,1
-Mazola,113453,Copinha,1,0,1,1,0,0
-Raphael Luz,86304,Copa do Nordeste,2,0,11,6,2,3
-Raphael Luz,86304,Copa Verde,3,2,17,11,4,2
-Raphael Luz,86304,Copa do Brasil,8,0,19,4,6,9
-Raphael Luz,86304,Brasileirão Série B,5,0,57,13,23,21
-Raphael Luz,86304,Campeonato Paraibano,1,1,7,6,0,1
-Raphael Luz,86304,Campeonato Mineiro,1,0,3,2,1,0
-Raphael Luz,86304,Campeonato Paraense,1,1,7,5,2,0
-Raphael Luz,86304,Campeonato Goiano,5,0,52,21,15,16
-Raphael Luz,86304,Campeonato Potiguar,1,0,7,7,0,0
-Raphael Luz,86304,Campeonato Baiano,1,0,7,5,2,0
-Raphael Luz,86304,Campeonato Rondoniense,1,1,14,10,2,2
-Raphael Luz,86304,Campeonato Gaúcho,1,0,3,1,1,1
-Raphael Luz,86304,Paulista A2,5,0,77,31,26,20
-Raphael Luz,86304,Paranaense 2ª Divisão,1,0,4,1,2,1
-Raphael Luz,86304,Copa Governador Mato Grosso,1,0,6,2,2,2
-Raphael Luz,86304,Campeonato Goiano 3ª Divisão,2,0,7,1,0,6
-Raphael Luz,86304,Copa Paulista,4,1,21,12,5,4
-Raphael Luz,86304,Brasileirão Série C,6,0,55,11,19,25
-Raphael Luz,86304,Brasileirão Série D,6,0,49,16,18,15
-Raphael Luz,86304,Jogos Amistosos Clubes,1,0,1,0,0,1
 Sérgio Mota,46210,Copa do Nordeste,1,0,5,2,2,1
 Sérgio Mota,46210,Campeonato Paulista,5,0,26,10,5,11
 Sérgio Mota,46210,Copa Verde,1,0,2,0,0,2
@@ -1987,8 +1698,6 @@ Sérgio Mota,46210,US Open Cup,1,0,2,1,0,1
 Sérgio Mota,46210,Segunda Liga Chinesa,3,0,58,27,10,21
 Sérgio Mota,46210,Brasileirão Série D,3,0,19,6,8,5
 Sérgio Mota,46210,Copinha,1,0,1,1,0,0
-Thomas,910620,Paulista Sub-23 Segunda Divisão,1,0,13,5,4,4
-Thomas,910620,Copinha,1,0,1,1,0,0
 Bruno Formigoni,64775,Campeonato Mineiro,1,0,11,3,1,7
 Bruno Formigoni,64775,Campeonato Paulista,4,0,27,9,2,16
 Bruno Formigoni,64775,Copa do Brasil,3,0,4,1,0,3
@@ -1999,24 +1708,6 @@ Bruno Formigoni,64775,Copa Paulista,7,1,69,24,22,23
 Bruno Formigoni,64775,Brasileirão Série D,3,0,17,7,4,6
 Bruno Formigoni,64775,Copinha,1,0,5,4,1,0
 Bruno Formigoni,64775,2ª Divisão Japão,1,0,1,0,0,1
-Jackson Souza,137661,Copa do Nordeste,3,1,12,7,4,1
-Jackson Souza,137661,Primeira Liga,1,0,2,1,1,0
-Jackson Souza,137661,Campeonato Paulista,2,0,23,8,5,10
-Jackson Souza,137661,Campeonato Baiano,2,1,4,2,2,0
-Jackson Souza,137661,Brasileirão,8,0,114,36,30,48
-Jackson Souza,137661,Copa do Brasil,8,1,24,12,8,4
-Jackson Souza,137661,Brasileirão Série B,3,0,48,21,10,17
-Jackson Souza,137661,Brasileirão Série C,2,1,34,21,6,7
-Jackson Souza,137661,Copa Sul-Americana,4,0,9,3,1,5
-Jackson Souza,137661,Campeonato Goiano,1,0,7,3,3,1
-Jackson Souza,137661,Campeonato Cearense,1,1,5,4,0,1
-Jackson Souza,137661,Campeonato Gaúcho,2,2,8,4,2,2
-Jackson Souza,137661,Paulista A2,2,0,17,5,8,4
-Jackson Souza,137661,Copa Paulista,1,0,10,2,2,6
-Jackson Souza,137661,Liga Malásia,1,0,16,8,3,5
-Jackson Souza,137661,Campeonato Brasileiro de Aspirantes,1,0,3,1,0,2
-Jackson Souza,137661,Jogos Amistosos Clubes,1,0,2,0,1,1
-Jackson Souza,137661,Copinha,1,0,5,3,1,1
 Julio Cesar,64779,Copa do Brasil,1,0,1,0,0,1
 Julio Cesar,64779,Brasileirão Série D,1,0,3,0,1,2
 Julio Cesar,64779,Campeonato Capixaba,2,0,6,1,1,4
@@ -2026,52 +1717,6 @@ Julio Cesar,64779,Copa Paulista,1,0,3,1,1,1
 Julio Cesar,64779,Paulista Sub-23 Segunda Divisão,3,0,25,13,6,6
 Julio Cesar,64779,Copa Espírito Santo,1,0,2,0,0,2
 Julio Cesar,64779,Copinha,1,0,3,2,1,0
-Léo Vieira,53979,Primeira Liga,1,0,2,1,1,0
-Léo Vieira,53979,Campeonato Paulista,2,0,14,3,3,8
-Léo Vieira,53979,Brasileirão,2,0,8,2,4,2
-Léo Vieira,53979,Copa do Brasil,1,0,8,3,4,1
-Léo Vieira,53979,Taça da Liga,1,0,2,0,1,1
-Léo Vieira,53979,Brasileirão Série B,5,0,50,19,14,17
-Léo Vieira,53979,Campeonato Paranaense,4,3,28,17,6,5
-Léo Vieira,53979,Campeonato Catarinense,2,0,12,3,5,4
-Léo Vieira,53979,Copa Federação Gaúcha de Futebol,1,0,1,1,0,0
-Léo Vieira,53979,Taça de Portugal,2,0,6,4,1,1
-Léo Vieira,53979,Jogos Amistosos Clubes,1,0,1,1,0,0
-Léo Vieira,53979,Copinha,2,0,7,5,1,1
-Paulo Vinicius,155495,Liga Grega,1,0,22,3,9,10
-Paulo Vinicius,155495,Liga Cipriota,2,0,36,18,9,9
-Paulo Vinicius,155495,Copa Sul-Americana,1,0,1,1,0,0
-Paulo Vinicius,155495,Copa Libertadores,1,0,3,2,0,1
-Paulo Vinicius,155495,Liga Europa,2,0,12,4,1,7
-Paulo Vinicius,155495,Liga Europa (Qualificação),5,0,19,6,8,5
-Paulo Vinicius,155495,Liga dos Campeões (Qualificação),2,0,12,3,7,2
-Paulo Vinicius,155495,Liga das Nações,1,0,1,1,0,0
-Paulo Vinicius,155495,Eliminatórias Copa do Mundo (UEFA),1,0,2,0,0,2
-Paulo Vinicius,155495,Liga Uruguaia,3,1,39,19,8,12
-Paulo Vinicius,155495,Liga Húngara,9,2,199,125,40,34
-Paulo Vinicius,155495,Taça Hungria,6,1,14,8,3,3
-Paulo Vinicius,155495,Taça do Chipre,2,0,7,3,1,3
-Paulo Vinicius,155495,Supertaça Hungria,1,0,1,0,0,1
-Paulo Vinicius,155495,Taça da Liga Húngara,3,1,12,8,2,2
-Paulo Vinicius,155495,Segunda Divisão Húngara,3,0,62,18,20,24
-Paulo Vinicius,155495,Jogos Amistosos Clubes,2,0,2,1,0,1
-Paulo Vinicius,155495,Amistosos Seleções,2,0,4,1,1,2
-Paulo Vinicius,155495,Copinha,1,0,1,1,0,0
-Rafael Tavares,126188,Campeonato Paulista,2,0,10,5,3,2
-Rafael Tavares,126188,Copa Verde,3,0,9,3,2,4
-Rafael Tavares,126188,Copa do Brasil,9,0,24,9,6,9
-Rafael Tavares,126188,Brasileirão Série B,4,0,77,24,24,29
-Rafael Tavares,126188,Brasileirão Série C,10,1,132,48,37,47
-Rafael Tavares,126188,Campeonato Paranaense,1,0,12,2,2,8
-Rafael Tavares,126188,Campeonato Goiano,1,0,9,2,4,3
-Rafael Tavares,126188,Campeonato Amazonense,3,2,31,17,8,6
-Rafael Tavares,126188,Campeonato Gaúcho,3,0,31,12,6,13
-Rafael Tavares,126188,Paulista A2,2,0,19,7,6,6
-Rafael Tavares,126188,Copa Federação Gaúcha de Futebol,2,0,13,7,4,2
-Rafael Tavares,126188,Copa Paulista,3,0,31,10,15,6
-Rafael Tavares,126188,Brasileirão Série D,3,1,41,23,11,7
-Rafael Tavares,126188,Jogos Amistosos Clubes,1,0,2,2,0,0
-Rafael Tavares,126188,Copinha,1,0,5,4,1,0
 Rafinha,137662,Copa do Nordeste,1,0,7,4,2,1
 Rafinha,137662,Campeonato Paulista,1,0,3,1,1,1
 Rafinha,137662,Liga Cipriota,1,0,8,1,4,3
@@ -2089,48 +1734,12 @@ Rafinha,137662,Taça de Portugal,1,0,1,0,0,1
 Rafinha,137662,Taça México Apertura,1,0,4,0,3,1
 Rafinha,137662,Liga Mexicana Ascenso Apertura,1,0,7,1,2,4
 Rafinha,137662,Campeonato Paulista Sub-20,1,0,5,0,3,2
-Éverson,141464,Copa do Nordeste,3,0,23,9,7,7
-Éverson,141464,Primeira Liga,1,0,3,0,3,0
-Éverson,141464,Campeonato Mineiro,5,5,50,35,8,7
-Éverson,141464,Campeonato Paulista,3,0,13,4,5,4
-Éverson,141464,Brasileirão,8,1,267,118,76,73
-Éverson,141464,Copa do Brasil,10,1,53,28,10,15
-Éverson,141464,Brasileirão Série B,6,0,92,39,23,30
-Éverson,141464,Brasileirão Série C,1,0,9,3,3,3
-Éverson,141464,Copa Sul-Americana,1,0,15,7,6,2
-Éverson,141464,Copa Libertadores,5,0,48,25,16,7
-Éverson,141464,Campeonato Sergipano,1,1,1,1,0,0
-Éverson,141464,Campeonato Cearense,3,2,41,31,6,4
-Éverson,141464,Paulista A2,2,0,2,0,1,1
-Éverson,141464,Supercopa do Brasil,1,1,1,0,1,0
-Éverson,141464,Brasileirão Série D,1,0,13,7,5,1
-Éverson,141464,Jogos Amistosos Clubes,2,0,3,0,3,0
 Bruno Anjos,137653,Campeonato Paulista Sub-20,1,1,7,3,2,2
 Bruno Anjos,137653,Paulista A2,1,0,3,2,1,0
 Bruno Anjos,137653,Paulista A3,1,0,14,5,4,5
 Bruno Anjos,137653,Copa Paulista,1,0,8,2,4,2
 Bruno Anjos,137653,Copinha,2,1,5,5,0,0
 Bruno Anjos,137653,Premyer Liqasi,1,0,3,1,1,1
-Bruno Uvini,132377,Campeonato Brasileiro,5,0,45,21,5,19
-Bruno Uvini,132377,Campeonato Holandês,1,0,33,12,7,14
-Bruno Uvini,132377,Liga Japonesa,1,0,2,0,0,2
-Bruno Uvini,132377,Campeonato Italiano,1,0,1,1,0,0
-Bruno Uvini,132377,Emperor´s Cup All-Japan Tournament,1,0,1,0,0,1
-Bruno Uvini,132377,Copa do Brasil,4,0,12,4,5,3
-Bruno Uvini,132377,Europa League,1,0,1,0,0,1
-Bruno Uvini,132377,Olimpíadas,1,0,1,1,0,0
-Bruno Uvini,132377,Mundial Sub-20,1,1,7,5,2,0
-Bruno Uvini,132377,Campeonato Gaúcho,2,2,9,6,3,0
-Bruno Uvini,132377,Recopa Gaúcha,1,1,1,0,0,1
-Bruno Uvini,132377,Liga Arábia Saudita,5,1,86,46,20,20
-Bruno Uvini,132377,Liga Catar,1,0,12,4,3,5
-Bruno Uvini,132377,J.League Yamazaki Nabisco Cup,1,0,5,1,2,2
-Bruno Uvini,132377,KNVB Beker,1,0,1,0,0,1
-Bruno Uvini,132377,King´s Cup of Champions,2,0,4,3,0,1
-Bruno Uvini,132377,Taça da União das Associações de Futebol Árabe,2,0,2,1,0,1
-Bruno Uvini,132377,Sul-Americano Sub-20,1,1,6,4,1,1
-Bruno Uvini,132377,Copinha,2,1,13,10,2,1
-Bruno Uvini,132377,Amistosos Seleções,1,0,3,1,0,2
 Fabiano dos Santos,548196,Campeonato Baiano,2,0,17,5,5,7
 Fabiano dos Santos,548196,Campeonato de Portugal,1,0,18,8,2,8
 Fabiano dos Santos,548196,Campeonato Paulista Sub-20,2,1,25,13,7,5
@@ -2139,80 +1748,6 @@ Fabiano dos Santos,548196,Copa Paulista,1,0,3,1,0,2
 Fabiano dos Santos,548196,Paulista Segunda Divisão,2,0,23,10,5,8
 Fabiano dos Santos,548196,Copinha,2,1,8,7,1,0
 Filipe Aguaí,137655,Copa São Paulo de Futebol Júnior,2,1,8,7,1,0
-Henrique Almeida,89450,Primeira Liga,1,0,1,0,1,0
-Henrique Almeida,89450,Campeonato Paulista,4,0,23,11,7,5
-Henrique Almeida,89450,Campeonato Mineiro,2,0,13,6,3,4
-Henrique Almeida,89450,Copa Verde,1,0,6,2,1,3
-Henrique Almeida,89450,Campeonato Espanhol,1,0,6,1,0,5
-Henrique Almeida,89450,Campeonato Português,1,0,15,5,5,5
-Henrique Almeida,89450,Brasileirão,13,0,208,55,55,98
-Henrique Almeida,89450,Copa do Brasil,8,1,19,9,7,3
-Henrique Almeida,89450,Taça da Liga,1,0,3,0,0,3
-Henrique Almeida,89450,Brasileirão Série B,4,1,77,25,20,32
-Henrique Almeida,89450,Copa Sul-Americana,2,0,4,2,1,1
-Henrique Almeida,89450,Copa Libertadores,3,0,14,5,3,6
-Henrique Almeida,89450,Mundial Sub-20,1,1,7,5,2,0
-Henrique Almeida,89450,Campeonato Goiano,2,0,14,7,4,3
-Henrique Almeida,89450,Campeonato Paranaense,1,1,13,7,3,3
-Henrique Almeida,89450,Campeonato Amazonense,1,1,4,1,0,3
-Henrique Almeida,89450,Campeonato Gaúcho,1,0,10,6,1,3
-Henrique Almeida,89450,Campeonato Carioca,3,1,20,10,5,5
-Henrique Almeida,89450,Taça de Portugal,1,0,1,0,0,1
-Henrique Almeida,89450,Copa da Turquia,1,0,2,0,0,2
-Henrique Almeida,89450,Segunda Divisão Turca,1,0,12,4,1,7
-Henrique Almeida,89450,Jogos Amistosos Clubes,1,0,1,0,0,1
-Henrique Almeida,89450,Sul-Americano Sub-20,1,1,6,5,1,0
-Henrique Almeida,89450,Jogos Pan-Americanos,1,0,3,0,2,1
-Henrique Almeida,89450,Copinha,1,0,7,5,1,1
-Lucas Gaúcho,132212,Campeonato Paulista,1,0,5,2,0,3
-Lucas Gaúcho,132212,Campeonato Brasileiro,1,0,5,2,2,1
-Lucas Gaúcho,132212,Emperor´s Cup All-Japan Tournament,1,0,1,1,0,0
-Lucas Gaúcho,132212,Copa da Liga Boliviana,1,0,3,0,1,2
-Lucas Gaúcho,132212,Brasileiro Série B,2,1,13,8,5,0
-Lucas Gaúcho,132212,Copa Sul-Americana,1,0,2,0,2,0
-Lucas Gaúcho,132212,Copa Libertadores,2,0,8,2,3,3
-Lucas Gaúcho,132212,Europa Conference League [Qualificação],1,0,1,0,1,0
-Lucas Gaúcho,132212,Liga dos Campeões [Qualificação],1,0,2,0,1,1
-Lucas Gaúcho,132212,Campeonato Gaúcho,2,0,23,5,8,10
-Lucas Gaúcho,132212,Liga Gibraltar,2,0,31,27,2,2
-Lucas Gaúcho,132212,Liga Israelita,1,0,10,3,1,6
-Lucas Gaúcho,132212,Liga Lituana,2,2,11,10,0,1
-Lucas Gaúcho,132212,Liga Boliviana,3,1,57,30,9,18
-Lucas Gaúcho,132212,Taça Gibraltar,2,0,4,3,0,1
-Lucas Gaúcho,132212,Copa del Rey,1,0,2,1,0,1
-Lucas Gaúcho,132212,2ª Divisão Japão,1,0,1,0,0,1
-Lucas Gaúcho,132212,Primera División RFEF,1,0,20,7,3,10
-Lucas Gaúcho,132212,Segunda División RFEF,1,0,2,1,1,0
-Lucas Gaúcho,132212,Copinha,2,1,11,9,2,0
-Lucas Gaúcho,132212,AFC Champions League Two,1,0,1,1,0,0
-Oscar,64777,Campeonato Paulista,2,0,13,6,3,4
-Oscar,64777,Campeonato Brasileiro,5,0,53,23,11,19
-Oscar,64777,Liga Inglesa,5,2,131,76,33,22
-Oscar,64777,China Super League,8,3,179,122,33,24
-Oscar,64777,Supercopa - Inglaterra,1,0,1,0,0,1
-Oscar,64777,Copa da Inglaterra,4,0,16,10,2,4
-Oscar,64777,Copa da Liga,4,1,12,8,2,2
-Oscar,64777,Copa Sul-Americana,1,0,1,0,1,0
-Oscar,64777,Recopa Sul-Americana,1,1,1,1,0,0
-Oscar,64777,Supercopa Europeia,2,0,2,0,1,1
-Oscar,64777,Copa Libertadores,4,0,15,7,3,5
-Oscar,64777,Liga dos Campeões,4,0,30,16,7,7
-Oscar,64777,Europa League,1,1,9,6,1,2
-Oscar,64777,Mundial de Clubes,2,0,3,1,0,2
-Oscar,64777,Eliminatórias Copa do Mundo (CONMEBOL),1,0,3,2,0,1
-Oscar,64777,Olimpíadas,1,0,6,5,0,1
-Oscar,64777,Copa do Mundo,1,0,7,3,2,2
-Oscar,64777,Mundial Sub-20,1,1,7,5,2,0
-Oscar,64777,Copa das Confederações,1,1,5,5,0,0
-Oscar,64777,Campeonato Gaúcho,2,2,20,12,6,2
-Oscar,64777,Chinese FA Super Cup,2,1,2,1,0,1
-Oscar,64777,Copa da China,8,1,21,14,3,4
-Oscar,64777,AFC Champions League Elite,6,0,43,20,12,11
-Oscar,64777,Jogos Amistosos Clubes,2,0,4,0,2,2
-Oscar,64777,Sul-Americano Sub-20,1,1,9,7,1,1
-Oscar,64777,Amistosos Seleções,5,0,34,25,5,4
-Oscar,64777,Copinha,1,0,6,4,1,1
-Oscar,64777,Copa do Brasil,1,0,1,1,0,0
 Roni,64778,Campeonato Paulista,2,0,25,7,6,12
 Roni,64778,Campeonato Brasileiro,1,0,5,1,2,2
 Roni,64778,Liga Japonesa,1,0,4,1,2,1
@@ -2228,22 +1763,6 @@ Roni,64778,Taça da Turquia,1,0,3,2,1,0
 Roni,64778,Segunda Divisão Turca,1,1,6,2,0,4
 Roni,64778,Brasileiro Série C,1,0,11,4,5,2
 Roni,64778,Copinha,3,1,9,8,1,0
-Wellington,64774,Campeonato Paulista,7,0,45,27,9,9
-Wellington,64774,Copa Verde,1,0,3,1,1,1
-Wellington,64774,Brasileirão,15,1,249,118,62,69
-Wellington,64774,Copa do Brasil,9,1,24,11,5,8
-Wellington,64774,Brasileirão Série B,2,0,40,15,10,15
-Wellington,64774,Copa Sul-Americana,8,2,34,13,16,5
-Wellington,64774,Recopa Sul-Americana,2,0,4,1,0,3
-Wellington,64774,Copa Libertadores,6,0,35,14,7,14
-Wellington,64774,Campeonato Paranaense,1,1,8,5,3,0
-Wellington,64774,Campeonato Goiano,1,0,12,7,5,0
-Wellington,64774,Campeonato Carioca,3,1,25,18,5,2
-Wellington,64774,Copa Santa Catarina,1,0,2,0,1,1
-Wellington,64774,Supercopa do Brasil,1,0,1,0,0,1
-Wellington,64774,Taça Suruga Bank,2,1,2,1,0,1
-Wellington,64774,Jogos Amistosos Clubes,4,0,4,1,2,1
-Wellington,64774,Copinha,2,0,6,5,1,0
 Zé Vitor,134254,Campeonato Paulista,3,0,5,2,0,3
 Zé Vitor,134254,Campeonato Brasileiro,2,0,11,6,4,1
 Zé Vitor,134254,Copa do Brasil,1,0,1,0,0,1
@@ -2260,78 +1779,7 @@ Acácio,393072,Copa Rio,1,0,5,3,1,1
 Acácio,393072,Paulista Segunda Divisão,2,0,16,7,2,7
 Acácio,393072,Copa Paulista,2,0,18,8,8,2
 Acácio,393072,Campeonato Paulista Sub-20,1,0,9,2,4,3
-Alfredo,134257,Campeonato Paulista,1,0,7,1,2,4
-Alfredo,134257,Copa do Nordeste,2,0,7,4,1,2
-Alfredo,134257,Campeonato Mineiro,1,0,7,1,0,6
-Alfredo,134257,Copa Verde,3,0,9,3,4,2
-Alfredo,134257,Copa do Brasil,5,0,8,4,1,3
-Alfredo,134257,Taça da Liga,2,0,3,1,0,2
-Alfredo,134257,Brasileiro Série B,3,0,54,17,19,18
-Alfredo,134257,II Liga Portuguesa,2,0,7,2,3,2
-Alfredo,134257,Campeonato Potiguar,1,1,8,5,3,0
-Alfredo,134257,Campeonato Paraense,1,1,9,7,2,0
-Alfredo,134257,Campeonato Paulista Sub-20,2,1,36,18,11,7
-Alfredo,134257,Campeonato Alagoano,1,0,8,2,3,3
-Alfredo,134257,Campeonato Sul-Mato-Grossense,1,0,4,1,0,3
-Alfredo,134257,Campeonato Sergipano,1,0,7,4,2,1
-Alfredo,134257,Campeonato Catarinense Divisão Especial,1,0,7,4,1,2
-Alfredo,134257,Paulista A2,2,0,13,4,3,6
-Alfredo,134257,Campeonato Gaúcho Divisão de Acesso,2,0,24,11,4,9
-Alfredo,134257,Campeonato Mineiro Módulo II,1,0,3,0,0,3
-Alfredo,134257,Copa Alagoas,1,0,4,2,1,1
-Alfredo,134257,Copa Paulista,2,0,16,3,4,9
-Alfredo,134257,Liga Búlgara,1,0,16,7,3,6
-Alfredo,134257,Taça de Portugal,2,0,3,2,0,1
-Alfredo,134257,Copa São Paulo de Futebol Júnior,3,1,10,9,0,1
-Alfredo,134257,Jogos Amistosos Clubes,1,0,1,0,0,1
-Casemiro,95621,Campeonato Paulista,3,0,31,22,5,4
-Casemiro,95621,Liga Portuguesa,1,0,28,20,6,2
-Casemiro,95621,Campeonato Brasileiro,3,0,61,30,12,19
-Casemiro,95621,Liga Espanhola,10,3,222,154,38,30
-Casemiro,95621,Liga Inglesa,4,0,90,44,20,26
-Casemiro,95621,Supercopa da Espanha,4,3,7,5,1,1
-Casemiro,95621,Copa da Inglaterra,3,1,10,6,3,1
-Casemiro,95621,Copa do Brasil,2,0,14,10,1,3
-Casemiro,95621,Supercopa - Inglaterra,1,0,1,0,1,0
-Casemiro,95621,Copa del Rey,8,1,24,14,5,5
-Casemiro,95621,Taça de Portugal,1,0,1,0,0,1
-Casemiro,95621,Copa da Liga,3,1,10,9,0,1
-Casemiro,95621,Taça da Liga,1,0,2,1,0,1
-Casemiro,95621,Segunda Divisão Espanhola,1,0,15,6,4,5
-Casemiro,95621,Supercopa Europeia,4,3,4,3,0,1
-Casemiro,95621,Copa Sul-Americana,2,1,3,3,0,0
-Casemiro,95621,Liga dos Campeões,10,5,83,53,12,18
-Casemiro,95621,Copa Libertadores,1,0,2,1,0,1
-Casemiro,95621,Europa League,2,0,25,16,6,3
-Casemiro,95621,Liga dos Campeões [Qualificação],1,0,2,2,0,0
-Casemiro,95621,Mundial de Clubes,2,3,6,6,0,0
-Casemiro,95621,Jogos Amistosos Clubes,2,0,3,2,0,1
-Casemiro,95621,Copa América,4,1,13,9,3,1
-Casemiro,95621,Eliminatórias Copa do Mundo (CONMEBOL),3,0,23,18,4,1
-Casemiro,95621,Mundial Sub-17,1,0,2,1,0,1
-Casemiro,95621,Mundial Sub-20,1,1,7,5,2,0
-Casemiro,95621,Copa do Mundo,2,0,8,6,2,0
-Casemiro,95621,Sul-Americano Sub-20,1,1,8,6,1,1
-Casemiro,95621,Copinha,2,1,8,7,1,0
-Casemiro,95621,Amistosos Seleções,10,0,37,25,7,5
 Danilo,137354,Campeonato Paulista Sub-20,2,1,4,1,2,1
-Dener,137355,Copa do Nordeste,1,0,2,2,0,0
-Dener,137355,Campeonato Paulista,2,0,22,6,3,13
-Dener,137355,Copa Verde,1,0,1,0,1,0
-Dener,137355,Campeonato Brasileiro,1,0,1,1,0,0
-Dener,137355,Liga Portuguesa,5,0,138,43,34,61
-Dener,137355,Nacional Sub-23,1,0,2,0,1,1
-Dener,137355,Copa do Brasil,3,0,4,1,0,3
-Dener,137355,Taça da Liga,4,0,7,3,1,3
-Dener,137355,II Liga Portuguesa,3,1,35,11,11,13
-Dener,137355,Brasileiro Série B,3,0,13,1,6,6
-Dener,137355,Campeonato Paulista Sub-20,2,1,20,10,7,3
-Dener,137355,Campeonato Paraense,1,1,5,4,0,1
-Dener,137355,Liga Arábia Saudita,2,0,51,17,7,27
-Dener,137355,Taça de Portugal,5,0,9,3,2,4
-Dener,137355,Copa São Paulo de Futebol Júnior,2,1,13,11,1,1
-Dener,137355,King´s Cup of Champions,2,0,2,0,1,1
-Dener,137355,Liguilha I/II Divisão,1,0,1,0,0,1
 Felipe Emanuel,137356,Campeonato Mineiro,1,0,2,0,2,0
 Felipe Emanuel,137356,Campeonato Gaúcho,1,0,4,0,1,3
 Felipe Emanuel,137356,Mato-Grossense 2ª Divisão,1,0,1,0,1,0
@@ -2355,48 +1803,6 @@ Jeferson Paulista,134253,Paulista A3,2,0,27,10,10,7
 Jeferson Paulista,134253,Campeonato Mineiro 2ª Divisão,1,0,2,0,1,1
 Jeferson Paulista,134253,Campeonato Paulista Sub-20,1,0,12,4,6,2
 Jeferson Paulista,134253,Copinha,2,1,11,9,2,0
-Lucas Mendes,137646,Copa do Nordeste,2,0,9,2,1,6
-Lucas Mendes,137646,Campeonato Paulista,4,0,20,4,3,13
-Lucas Mendes,137646,Copa do Brasil,3,0,6,2,2,2
-Lucas Mendes,137646,Brasileiro Série B,2,0,42,16,10,16
-Lucas Mendes,137646,Brasileiro Série C,5,0,60,29,13,18
-Lucas Mendes,137646,Brasileiro Série D,2,0,12,8,3,1
-Lucas Mendes,137646,Campeonato Paulista Sub-20,2,1,24,14,6,4
-Lucas Mendes,137646,Campeonato Potiguar,1,1,7,4,1,2
-Lucas Mendes,137646,Campeonato Paraibano,1,0,8,2,5,1
-Lucas Mendes,137646,Copa do Nordeste Classificatória,1,0,2,0,1,1
-Lucas Mendes,137646,Campeonato Alagoano,1,1,6,4,1,1
-Lucas Mendes,137646,Paulista A2,4,0,42,21,13,8
-Lucas Mendes,137646,Paulista A3,1,0,20,8,7,5
-Lucas Mendes,137646,Paulista Segunda Divisão,1,0,13,3,5,5
-Lucas Mendes,137646,Copa Paulista,1,0,2,0,1,1
-Lucas Mendes,137646,Copa São Paulo de Futebol Júnior,2,1,7,6,0,1
-Lucas Moura,132213,Campeonato Paulista,4,0,47,29,12,6
-Lucas Moura,132213,Liga Inglesa,6,0,150,78,22,50
-Lucas Moura,132213,Campeonato Brasileiro,6,0,127,55,31,41
-Lucas Moura,132213,Premier League 2,1,0,4,3,0,1
-Lucas Moura,132213,Campeonato Francês,6,5,153,108,32,13
-Lucas Moura,132213,Copa da Inglaterra,6,0,17,9,4,4
-Lucas Moura,132213,Copa do Brasil,4,1,21,12,4,5
-Lucas Moura,132213,Coupe de France,5,4,18,17,0,1
-Lucas Moura,132213,Trophée des Champions,4,4,4,4,0,0
-Lucas Moura,132213,Copa da Liga,4,0,12,5,3,4
-Lucas Moura,132213,Taça da Liga Francesa,5,5,16,16,0,0
-Lucas Moura,132213,Copa Sul-Americana,3,1,14,7,5,2
-Lucas Moura,132213,Liga dos Campeões,9,0,60,29,14,17
-Lucas Moura,132213,Copa Libertadores,2,0,11,3,6,2
-Lucas Moura,132213,Europa League,1,0,10,7,1,2
-Lucas Moura,132213,Europa Conference League [Qualificação],1,0,1,1,0,0
-Lucas Moura,132213,Europa Conference League,1,0,4,2,1,1
-Lucas Moura,132213,Europa League [Qualificação],1,0,3,3,0,0
-Lucas Moura,132213,Jogos Amistosos Clubes,5,0,7,4,2,1
-Lucas Moura,132213,Copa América,2,0,5,1,4,0
-Lucas Moura,132213,Eliminatórias Copa do Mundo (CONMEBOL),2,0,2,1,0,1
-Lucas Moura,132213,Olimpíadas,1,0,4,3,0,1
-Lucas Moura,132213,Copinha,2,1,10,9,1,0
-Lucas Moura,132213,Amistosos Seleções,5,0,29,22,3,4
-Lucas Moura,132213,Copa das Confederações,1,1,2,2,0,0
-Lucas Moura,132213,Sul-Americano Sub-20,1,1,9,7,1,1
 Luiz Paulo,137647,Campeonato Paulista,1,0,2,1,1,0
 Luiz Paulo,137647,Brasileiro Série C,1,0,11,2,7,2
 Luiz Paulo,137647,Campeonato Paulista Sub-20,2,1,25,14,8,3
@@ -2406,14 +1812,6 @@ Luiz Paulo,137647,Paulista A3,2,0,27,11,7,9
 Luiz Paulo,137647,Paulista Segunda Divisão,1,0,6,4,1,1
 Luiz Paulo,137647,Copa Paulista,1,0,1,0,0,1
 Luiz Paulo,137647,Copinha,1,1,2,2,0,0
-Léo Navacchio,134255,Liga Portuguesa,2,0,10,5,1,4
-Léo Navacchio,134255,Taça da Liga,4,0,9,6,1,2
-Léo Navacchio,134255,II Liga Portuguesa,7,1,79,25,26,28
-Léo Navacchio,134255,Liguilha 2ªLiga/Liga 3,1,0,2,1,1,0
-Léo Navacchio,134255,Campeonato Paulista Sub-20,2,1,23,12,8,3
-Léo Navacchio,134255,Liga Indonésia,2,0,37,11,12,14
-Léo Navacchio,134255,Copa São Paulo de Futebol Júnior,1,1,5,4,0,1
-Léo Navacchio,134255,Taça de Portugal,5,0,8,3,3,2
 Marcel,137648,Campeonato Mineiro,1,0,6,2,1,3
 Marcel,137648,Campeonato Paranaense,1,1,4,0,4,0
 Marcel,137648,Liga Portuguesa,2,0,12,6,1,5
@@ -2427,74 +1825,10 @@ Marcel,137648,Campeonato Paulista Sub-20,2,1,31,18,9,4
 Marcel,137648,Copa Paulista,1,0,9,6,2,1
 Marcel,137648,Copa São Paulo de Futebol Júnior,1,0,3,2,0,1
 Marcel,137648,Taça de Portugal,2,0,5,3,1,1
-Mauricio Antonio,137649,Campeonato Brasileiro,1,0,3,0,1,2
-Mauricio Antonio,137649,Liga Portuguesa,3,0,73,24,18,31
-Mauricio Antonio,137649,Copa do Brasil,1,0,1,0,0,1
-Mauricio Antonio,137649,Liga Japonesa,4,0,63,21,18,24
-Mauricio Antonio,137649,Emperor´s Cup All-Japan Tournament,2,1,6,5,0,1
-Mauricio Antonio,137649,Taça da Liga,3,0,8,3,2,3
-Mauricio Antonio,137649,II Liga Portuguesa,2,1,58,24,17,17
-Mauricio Antonio,137649,Brasileiro Série B,2,0,40,12,12,16
-Mauricio Antonio,137649,Europa League [Qualificação],1,0,1,0,1,0
-Mauricio Antonio,137649,Mundial de Clubes,1,0,1,1,0,0
-Mauricio Antonio,137649,Campeonato Paulista Sub-20,2,1,6,3,1,2
-Mauricio Antonio,137649,Campeonato Paranaense,1,0,13,8,3,2
-Mauricio Antonio,137649,Paulista A3,1,0,13,5,5,3
-Mauricio Antonio,137649,Copa Paulista,1,0,18,9,3,6
-Mauricio Antonio,137649,Liga Arábia Saudita,2,0,54,11,12,31
-Mauricio Antonio,137649,Copa São Paulo de Futebol Júnior,1,0,6,4,1,1
-Mauricio Antonio,137649,J.League Yamazaki Nabisco Cup,4,0,6,1,2,3
-Mauricio Antonio,137649,Taça de Portugal,2,0,2,0,0,2
-Mauricio Antonio,137649,Supercopa Japão,1,0,1,0,0,1
-Mauricio Antonio,137649,King´s Cup of Champions,2,0,3,2,0,1
-Mauricio Antonio,137649,AFC Champions League Elite,2,1,12,6,3,3
-Mauricio Antonio,137649,U21 Premier League International Cup,1,0,1,0,0,1
-Mauricio Antonio,137649,Taça Suruga Bank,1,1,1,1,0,0
 Paulinho,137650,Campeonato Paulista Sub-20,2,1,23,10,8,5
 Paulinho,137650,Copa Paulista,1,0,4,3,1,0
 Paulinho,137650,Liga Romena,1,0,7,3,1,3
 Paulinho,137650,Copa São Paulo de Futebol Júnior,2,1,8,6,1,1
-Régis,137651,Campeonato Paranaense,2,1,16,11,4,1
-Régis,137651,Campeonato Pernambucano,1,0,12,7,3,2
-Régis,137651,Campeonato Mineiro,1,0,2,2,0,0
-Régis,137651,Campeonato Paulista,4,1,25,4,7,14
-Régis,137651,Campeonato Baiano,2,1,15,10,3,2
-Régis,137651,Copa Verde,1,0,1,0,1,0
-Régis,137651,Copa do Nordeste,4,1,31,17,7,7
-Régis,137651,Campeonato Brasileiro,6,0,111,36,38,37
-Régis,137651,Copa do Brasil,9,0,20,7,4,9
-Régis,137651,Brasileiro Série B,7,0,152,66,42,44
-Régis,137651,Copa Sul-Americana,3,0,8,3,2,3
-Régis,137651,Campeonato Paulista Sub-20,2,1,34,20,8,6
-Régis,137651,Campeonato Goiano,1,0,9,4,2,3
-Régis,137651,Campeonato Catarinense,1,0,9,8,0,1
-Régis,137651,Copa São Paulo de Futebol Júnior,1,0,2,2,0,0
-Régis,137651,Jogos Amistosos Clubes,2,0,4,1,1,2
-Willian Arão,137652,Primeira Liga,2,0,5,3,1,1
-Willian Arão,137652,Campeonato Paulista,2,1,7,4,2,1
-Willian Arão,137652,Campeonato Carioca,8,4,95,66,16,13
-Willian Arão,137652,Liga Grega,2,0,55,33,10,12
-Willian Arão,137652,Campeonato Turco,1,0,31,21,4,6
-Willian Arão,137652,Campeonato Brasileiro,11,2,238,122,60,56
-Willian Arão,137652,Copa do Brasil,9,1,32,14,8,10
-Willian Arão,137652,Brasileiro Série B,2,1,48,27,11,10
-Willian Arão,137652,Copa Sul-Americana,3,0,14,7,4,3
-Willian Arão,137652,Recopa Sul-Americana,1,2,2,1,1,0
-Willian Arão,137652,Copa Libertadores,6,3,43,25,10,8
-Willian Arão,137652,Europa League,2,0,10,3,2,5
-Willian Arão,137652,Europa Conference League [Qualificação],1,0,2,1,0,1
-Willian Arão,137652,Europa Conference League,1,0,8,5,1,2
-Willian Arão,137652,Europa League [Qualificação],2,0,6,5,0,1
-Willian Arão,137652,Liga dos Campeões [Qualificação],2,0,3,0,1,2
-Willian Arão,137652,Mundial de Clubes,1,1,2,1,0,1
-Willian Arão,137652,Amistosos Seleções,1,0,1,1,0,0
-Willian Arão,137652,Campeonato Catarinense,1,0,13,6,4,3
-Willian Arão,137652,Copa da Grécia,2,1,7,3,2,2
-Willian Arão,137652,Supercopa do Brasil,3,2,3,1,2,0
-Willian Arão,137652,Taça da Turquia,1,1,6,5,1,0
-Willian Arão,137652,Copinha,1,1,7,6,1,0
-Willian Arão,137652,Jogos Amistosos Clubes,3,0,4,1,2,1
-Willian Arão,137652,Campeonato Paulista Sub-20,1,0,13,6,4,3
 Robertinho,544323,Brasileiro Série B,1,0,12,5,3,4
 Robertinho,544323,Brasileiro Série C,1,1,3,2,1,0
 Robertinho,544323,Brasileiro Série D,3,0,23,13,7,3
@@ -5787,3 +5121,703 @@ Thyago Correa,132198,Mundial Sub-17,1,1,2,2,0,0
 Thyago Correa,132198,Copa Paulista,1,0,3,3,0,0
 Wellington,1007975,Paulista A2,1,0,13,2,4,7
 Wellington,1007975,Copa Paulista,2,0,14,2,4,8
+André Moraes,2739171,Copa Paulista,1,0,3,0,0,3
+André Moraes,2739171,Paulista Sub-23 Segunda Divisão,1,0,7,4,1,2
+Camargo,84860,Major League Soccer,3,0,47,21,14,12
+Camargo,84860,Copa do Brasil,3,0,8,2,4,2
+Camargo,84860,Liga dos Campeões CONCACAF,1,0,4,2,2,0
+Camargo,84860,Campeonato Paranaense,6,0,72,29,14,29
+Camargo,84860,Campeonato Paulista,1,0,17,5,3,9
+Camargo,84860,Campeonato Sul-Mato-Grossense,1,0,4,2,0,2
+Camargo,84860,Paulista A2,2,0,27,11,6,10
+Camargo,84860,Paranaense 2ª Divisão,3,0,28,9,8,11
+Camargo,84860,Paranaense 3ª Divisão,1,0,7,4,3,0
+Camargo,84860,Copa Paulista,4,0,43,21,11,11
+Camargo,84860,Brasileirão Série B,3,0,47,22,11,14
+Camargo,84860,USL Championship,1,0,2,0,0,2
+Camargo,84860,Jogos Amistosos Clubes,1,0,2,2,0,0
+Camargo,84860,Paulista Sub-23 Segunda Divisão,1,0,19,7,7,5
+Cazão,39152,Copa do Brasil,1,0,2,0,1,1
+Cazão,39152,Campeonato Goiano,1,0,9,1,2,6
+Cazão,39152,Campeonato Mineiro Módulo II,1,0,14,6,3,5
+Cazão,39152,Paulista A2,4,0,43,18,8,17
+Cazão,39152,Paulista A3,2,0,18,7,5,6
+Cazão,39152,Paulista Sub-23 Segunda Divisão,1,0,3,0,1,2
+Cazão,39152,Copa Paulista,3,0,15,4,5,6
+Cazão,39152,Brasileirão Série D,1,0,5,0,3,2
+Fabrício,33265,Copa do Nordeste,1,0,4,0,3,1
+Fabrício,33265,Primeira Liga,2,0,5,2,2,1
+Fabrício,33265,Brasileirão,9,1,171,75,46,50
+Fabrício,33265,Copa do Brasil,7,1,22,9,6,7
+Fabrício,33265,Brasileirão Série B,3,0,49,25,8,16
+Fabrício,33265,Recopa Sul-Americana,1,1,1,0,0,1
+Fabrício,33265,Copa Sul-Americana,2,0,2,0,1,1
+Fabrício,33265,Copa Libertadores,4,0,11,3,5,3
+Fabrício,33265,Campeonato Baiano,1,0,1,0,0,1
+Fabrício,33265,Campeonato Rondoniense,1,0,9,4,4,1
+Fabrício,33265,Campeonato Paulista,5,0,38,16,11,11
+Fabrício,33265,Campeonato Mineiro,3,0,16,9,6,1
+Fabrício,33265,Campeonato Carioca,1,0,8,5,0,3
+Fabrício,33265,Campeonato Gaúcho,4,4,48,34,12,2
+Fabrício,33265,Paulista A2,3,1,32,19,9,4
+Fabrício,33265,Copa Paulista,3,0,16,5,4,7
+Fabrício,33265,Jogos Amistosos Clubes,1,0,1,1,0,0
+Filipe Oliveira,97854,Brasileirão Série B,1,0,3,2,0,1
+Filipe Oliveira,97854,Paulista A3,1,0,7,1,3,3
+Filipe Oliveira,97854,Copa Paulista,1,0,3,2,0,1
+Filipe Oliveira,97854,Paulista Sub-23 Segunda Divisão,1,0,2,1,1,0
+Filipe Oliveira,97854,Campeonato Goiano,1,0,9,3,2,4
+Rodrigo Barros,126187,Copa Verde,1,0,4,1,3,0
+Rodrigo Barros,126187,Copa do Brasil,1,0,1,0,0,1
+Rodrigo Barros,126187,Campeonato Candango,4,1,41,16,16,9
+Rodrigo Barros,126187,Campeonato Paulista,2,0,8,2,1,5
+Rodrigo Barros,126187,Paulista A2,1,0,2,0,0,2
+Rodrigo Barros,126187,Copa Paulista,5,0,47,28,11,8
+Rodrigo Barros,126187,Brasileirão Série C,1,0,5,1,2,2
+Rodrigo Barros,126187,Brasileirão Série D,3,0,14,3,8,3
+Weverson,455821,Copinha,0,0,0,0,0,0
+Alex Cazumba,46209,Copa do Nordeste,2,0,10,2,4,4
+Alex Cazumba,46209,Campeonato Paulista,4,0,22,7,5,10
+Alex Cazumba,46209,Liga Grega,1,0,7,2,2,3
+Alex Cazumba,46209,Major League Soccer,1,0,19,10,2,7
+Alex Cazumba,46209,Brasileirão,2,2,18,6,5,7
+Alex Cazumba,46209,Copa do Brasil,6,0,8,1,2,5
+Alex Cazumba,46209,Copa Sul-Americana,1,0,2,0,2,0
+Alex Cazumba,46209,Liga dos Campeões CONCACAF,1,0,2,1,0,1
+Alex Cazumba,46209,Campeonato Paraibano,1,1,8,4,3,1
+Alex Cazumba,46209,Campeonato Potiguar,1,0,14,6,3,5
+Alex Cazumba,46209,Campeonato Baiano,10,0,89,32,30,27
+Alex Cazumba,46209,Campeonato Paranaense,1,0,16,4,7,5
+Alex Cazumba,46209,Campeonato Amazonense,1,0,10,7,1,2
+Alex Cazumba,46209,Campeonato Maranhense,1,0,1,0,1,0
+Alex Cazumba,46209,Campeonato Gaúcho,1,0,1,1,0,0
+Alex Cazumba,46209,Paulista A2,1,0,10,5,1,4
+Alex Cazumba,46209,Baiano 2ª Divisão,2,1,23,13,6,4
+Alex Cazumba,46209,Campeonato Paraense 2ª Divisão,1,0,7,2,2,3
+Alex Cazumba,46209,Paulista A3,1,0,2,0,1,1
+Alex Cazumba,46209,Copa Paulista,3,0,15,3,5,7
+Alex Cazumba,46209,Brasileirão Série C,3,0,38,11,13,14
+Alex Cazumba,46209,Brasileirão Série D,8,0,84,32,25,27
+Alex Cazumba,46209,Jogos Amistosos Clubes,1,0,1,0,1,0
+Bruno Cesar,87580,Campeonato Paulista,4,0,59,29,12,18
+Bruno Cesar,87580,Campeonato Carioca,2,0,16,9,3,4
+Bruno Cesar,87580,Campeonato Gaúcho,1,0,6,2,3,1
+Bruno Cesar,87580,Paulista A2,2,0,15,3,5,7
+Bruno Cesar,87580,Liga Saudita,3,0,26,13,10,3
+Bruno Cesar,87580,Brasileirão,5,0,60,23,16,21
+Bruno Cesar,87580,Campeonato Português,6,0,111,77,21,13
+Bruno Cesar,87580,Taça de Portugal,7,1,17,14,0,3
+Bruno Cesar,87580,Copa do Brasil,4,0,12,7,2,3
+Bruno Cesar,87580,Taça da Liga,5,2,11,8,2,1
+Bruno Cesar,87580,II Liga Portuguesa,3,0,40,14,10,16
+Bruno Cesar,87580,Copa Libertadores,1,0,1,0,1,0
+Bruno Cesar,87580,Liga dos Campeões,4,0,26,8,6,12
+Bruno Cesar,87580,AFC Champions League Elite,2,0,16,9,5,2
+Bruno Cesar,87580,Liga Europa,2,0,2,1,0,1
+Bruno Cesar,87580,Liga dos Campeões (Qualificação),2,0,3,2,1,0
+Bruno Cesar,87580,Jogos Amistosos Clubes,2,0,4,3,1,0
+Bruno Cesar,87580,Amistosos Seleções,1,0,2,2,0,0
+Bruno Cesar,87580,Copa Paulista,1,0,10,2,2,6
+Bruno Silva,64776,Copa do Nordeste,1,0,9,7,1,1
+Bruno Silva,64776,Campeonato Paulista,7,0,80,25,26,29
+Bruno Silva,64776,Brasileirão,3,1,15,3,6,6
+Bruno Silva,64776,Copa do Brasil,2,0,3,1,1,1
+Bruno Silva,64776,Brasileirão Série B,6,0,123,39,44,40
+Bruno Silva,64776,Copa Sul-Americana,1,0,2,0,2,0
+Bruno Silva,64776,Copa Libertadores,1,0,4,1,1,2
+Bruno Silva,64776,Campeonato Pernambucano,1,0,11,4,4,3
+Bruno Silva,64776,Campeonato Gaúcho,1,0,4,2,1,1
+Bruno Silva,64776,Campeonato Carioca,1,0,6,4,1,1
+Bruno Silva,64776,Campeonato Catarinense,2,0,16,6,5,5
+Bruno Silva,64776,Paulista A2,3,1,42,19,13,10
+Bruno Silva,64776,Copa Paulista,3,0,6,1,2,3
+Bruno Silva,64776,Brasileirão Série C,1,0,14,4,4,6
+Bruno Silva,64776,Brasileirão Série D,2,0,18,6,5,7
+Bruno Silva,64776,Jogos Amistosos Clubes,1,0,1,1,0,0
+Bruno Silva,64776,Copinha,1,0,1,1,0,0
+Bruno Silva,64776,Premyer Liqasi,3,0,27,13,2,12
+Daniel Venancio,1008213,Paulista A2,1,0,8,2,4,2
+Daniel Venancio,1008213,Paulista A3,1,0,3,1,0,2
+Daniel Venancio,1008213,Copa Paulista,2,0,4,1,0,3
+Daniel Venancio,1008213,Paulista Sub-23 Segunda Divisão,1,0,6,0,1,5
+Jorge Miguel,31401,Brasileirão Série B,1,0,11,6,1,4
+Jorge Miguel,31401,Campeonato Candango,1,0,3,1,1,1
+Jorge Miguel,31401,Campeonato Alagoano,1,1,7,3,3,1
+Jorge Miguel,31401,Paulista A2,2,0,17,7,5,5
+Jorge Miguel,31401,Brasileirão Série C,1,0,2,2,0,0
+Luan Scapolan,136658,Primeira Liga,1,0,2,0,1,1
+Luan Scapolan,136658,Campeonato Paulista,2,0,12,6,2,4
+Luan Scapolan,136658,Campeonato Turco,1,0,8,2,3,3
+Luan Scapolan,136658,Campeonato Português,2,0,31,7,8,16
+Luan Scapolan,136658,Brasileirão,1,0,13,4,4,5
+Luan Scapolan,136658,Copa do Brasil,3,0,6,3,2,1
+Luan Scapolan,136658,Taça da Liga,2,0,8,2,3,3
+Luan Scapolan,136658,Brasileirão Série B,4,0,50,20,13,17
+Luan Scapolan,136658,Campeonato Paranaense,1,0,8,1,1,6
+Luan Scapolan,136658,Campeonato Catarinense,2,0,24,11,5,8
+Luan Scapolan,136658,Campeonato Alagoano,1,0,1,1,0,0
+Luan Scapolan,136658,Paulista A2,2,0,32,22,4,6
+Luan Scapolan,136658,Copa Paulista,3,0,34,16,10,8
+Luan Scapolan,136658,Paulista Sub-23 Segunda Divisão,1,0,26,11,10,5
+Luan Scapolan,136658,Taça de Portugal,2,0,4,2,1,1
+Luan Scapolan,136658,Brasileirão Série C,2,0,5,3,1,1
+Luan Scapolan,136658,Brasileirão Série D,1,0,7,2,2,3
+Luan Scapolan,136658,Jogos Amistosos Clubes,1,0,1,0,0,1
+Serginho Paulista,127146,Copa do Nordeste,1,0,7,1,2,4
+Serginho Paulista,127146,Brasileirão,1,1,1,0,0,1
+Serginho Paulista,127146,Copa do Brasil,2,0,8,3,2,3
+Serginho Paulista,127146,Brasileirão Série B,2,0,22,8,6,8
+Serginho Paulista,127146,Campeonato Candango,1,0,9,3,2,4
+Serginho Paulista,127146,Campeonato Paranaense,7,0,87,43,19,25
+Serginho Paulista,127146,Campeonato Goiano,1,0,11,3,1,7
+Serginho Paulista,127146,Campeonato Paulista,1,0,6,3,0,3
+Serginho Paulista,127146,Campeonato Paraibano,1,1,4,3,1,0
+Serginho Paulista,127146,Campeonato Pernambucano,1,0,10,4,3,3
+Serginho Paulista,127146,Campeonato Sergipano,1,0,11,8,1,2
+Serginho Paulista,127146,Campeonato Catarinense,1,0,6,0,2,4
+Serginho Paulista,127146,Campeonato Sul-Mato-Grossense,1,0,3,1,1,1
+Serginho Paulista,127146,Goiano 2ª Divisão,1,0,10,3,2,5
+Serginho Paulista,127146,Campeonato Catarinense Série B,1,0,12,7,1,4
+Serginho Paulista,127146,Paranaense 2ª Divisão,5,1,41,20,9,12
+Serginho Paulista,127146,Brasileirão Série C,3,1,17,5,7,5
+Serginho Paulista,127146,Brasileirão Série D,7,1,49,22,10,17
+Serginho Paulista,127146,Jogos Amistosos Clubes,1,0,1,0,0,1
+Serginho Paulista,127146,Copa Paulista,1,0,1,0,0,1
+Tiago Azulão,5597,Liga Cipriota,1,0,12,2,6,4
+Tiago Azulão,5597,Copa do Brasil,2,0,3,0,2,1
+Tiago Azulão,5597,Brasileirão Série B,1,0,5,1,1,3
+Tiago Azulão,5597,African Football League,1,0,2,0,1,1
+Tiago Azulão,5597,Campeonato Mineiro,6,0,52,20,13,19
+Tiago Azulão,5597,Campeonato Mineiro Módulo II,1,0,15,9,3,3
+Tiago Azulão,5597,Taça Minas Gerais,1,1,1,0,1,0
+Tiago Azulão,5597,Copa Rio,1,0,1,0,1,0
+Tiago Azulão,5597,Copa Paulista,1,0,20,9,7,4
+Tiago Azulão,5597,Liga Angolana,11,5,219,146,51,22
+Tiago Azulão,5597,Taça de Angola,8,5,26,20,3,3
+Tiago Azulão,5597,Supertaça Angolana,4,2,4,2,2,0
+Tiago Azulão,5597,Taça do Chipre,1,0,1,0,1,0
+Tiago Azulão,5597,Brasileirão Série C,3,0,30,9,13,8
+Tiago Azulão,5597,Brasileirão Série D,2,0,13,3,4,6
+Tiago Azulão,5597,CAF Champions League,5,0,45,18,15,12
+Tiago Azulão,5597,Taça da Confederação CAF,2,0,16,8,4,4
+Tiago Azulão,5597,Liga dos Campeões Africana (Qualificação),1,0,4,2,1,1
+Tiago Azulão,5597,Campeonato Alagoano,1,0,1,0,0,1
+Cris,448678,Campeonato Gaúcho Divisão de Acesso,3,0,23,11,8,4
+Cris,448678,Paulista A2,1,0,4,1,1,2
+Cris,448678,Paulista A3,5,0,56,19,15,22
+Cris,448678,Copa Paulista,2,0,11,2,3,6
+Cris,448678,Paulista Sub-23 Segunda Divisão,2,0,17,6,5,6
+Felipe Pazian,941169,Paulista A3,1,0,5,1,1,3
+Felipe Pazian,941169,Copinha,1,0,1,1,0,0
+Felipe Pazian,941169,Campeonato Goiano,1,0,1,0,0,1
+Flavio Paulino,189202,Campeonato Paulista,1,0,17,5,5,7
+Flavio Paulino,189202,Campeonato Mineiro,1,0,5,1,1,3
+Flavio Paulino,189202,Campeonato Baiano,1,0,3,1,0,2
+Flavio Paulino,189202,Copa do Brasil,1,0,1,0,0,1
+Flavio Paulino,189202,Taça da Liga,2,0,2,1,0,1
+Flavio Paulino,189202,Brasileiro Série B,1,0,1,1,0,0
+Flavio Paulino,189202,II Liga Portuguesa,2,0,22,12,7,3
+Flavio Paulino,189202,Brasileiro Série C,1,0,5,1,2,2
+Flavio Paulino,189202,Campeonato Catarinense,2,0,13,2,3,8
+Flavio Paulino,189202,Campeonato Gaúcho Divisão de Acesso,1,1,14,5,5,4
+Flavio Paulino,189202,Campeonato Catarinense Série B,3,1,30,16,11,3
+Flavio Paulino,189202,Paulista A2,1,0,12,3,4,5
+Flavio Paulino,189202,Liga Búlgara,1,0,5,3,0,2
+Flavio Paulino,189202,Brasileirão Série D,1,0,6,1,1,4
+Flavio Paulino,189202,Taça da Bulgária,1,0,1,0,1,0
+Juninho Souza,239310,Brasileirão,1,0,4,0,0,4
+Juninho Souza,239310,Copa do Brasil,1,0,1,0,0,1
+Juninho Souza,239310,Brasileirão Série B,1,0,1,0,1,0
+Juninho Souza,239310,Eliminatórias Copa do Mundo (AFC),1,0,7,2,2,3
+Juninho Souza,239310,Campeonato Amazonense,1,0,4,1,1,2
+Juninho Souza,239310,Copa Federação Gaúcha de Futebol,1,1,1,1,0,0
+Juninho Souza,239310,Liga Malásia,1,0,9,2,4,3
+Juninho Souza,239310,Taça Asiática (Q),1,0,2,0,0,2
+Juninho Souza,239310,Amistosos Seleções,1,0,1,0,0,1
+Juninho Souza,239310,Copa Paulista,1,0,1,0,0,1
+Juninho Souza,239310,Campeonato Goiano,1,0,2,0,0,2
+Mazola,113453,Copa do Nordeste,1,0,1,0,1,0
+Mazola,113453,Campeonato Paulista,3,0,21,6,5,10
+Mazola,113453,Liga Japonesa,1,0,21,4,7,10
+Mazola,113453,Brasileirão,3,0,43,10,12,21
+Mazola,113453,Copa do Brasil,3,0,6,3,1,2
+Mazola,113453,Segunda Liga Portuguesa,1,0,7,2,3,2
+Mazola,113453,Brasileirão Série B,2,0,35,13,11,11
+Mazola,113453,Copa Sul-Americana,1,0,2,0,2,0
+Mazola,113453,Campeonato Gaúcho,3,0,16,6,4,6
+Mazola,113453,Campeonato Catarinense,1,1,17,9,6,2
+Mazola,113453,Paulista A2,1,0,7,4,2,1
+Mazola,113453,Paulista A3,1,0,13,6,2,5
+Mazola,113453,Copa Federação Gaúcha de Futebol,1,0,9,6,0,3
+Mazola,113453,Copa Paulista,2,0,10,2,2,6
+Mazola,113453,Campeonato Chinês,2,0,42,13,13,16
+Mazola,113453,J.League Yamazaki Nabisco Cup,1,0,3,3,0,0
+Mazola,113453,Brasileirão Série C,2,0,19,8,4,7
+Mazola,113453,Brasileirão Série D,1,0,2,1,0,1
+Mazola,113453,Copinha,1,0,1,1,0,0
+Mazola,113453,Campeonato Paulista A4,1,0,9,0,2,7
+Raphael Luz,86304,Copa do Nordeste,2,0,11,6,2,3
+Raphael Luz,86304,Copa Verde,3,2,17,11,4,2
+Raphael Luz,86304,Copa do Brasil,8,0,19,4,6,9
+Raphael Luz,86304,Brasileirão Série B,5,0,57,13,23,21
+Raphael Luz,86304,Campeonato Paraibano,1,1,7,6,0,1
+Raphael Luz,86304,Campeonato Mineiro,1,0,3,2,1,0
+Raphael Luz,86304,Campeonato Paraense,1,1,7,5,2,0
+Raphael Luz,86304,Campeonato Goiano,6,0,60,23,16,21
+Raphael Luz,86304,Campeonato Potiguar,1,0,7,7,0,0
+Raphael Luz,86304,Campeonato Baiano,1,0,7,5,2,0
+Raphael Luz,86304,Campeonato Rondoniense,1,1,14,10,2,2
+Raphael Luz,86304,Campeonato Gaúcho,1,0,3,1,1,1
+Raphael Luz,86304,Paulista A2,5,0,77,31,26,20
+Raphael Luz,86304,Paranaense 2ª Divisão,1,0,4,1,2,1
+Raphael Luz,86304,Copa Governador Mato Grosso,1,0,6,2,2,2
+Raphael Luz,86304,Campeonato Goiano 3ª Divisão,2,0,7,1,0,6
+Raphael Luz,86304,Copa Paulista,4,1,21,12,5,4
+Raphael Luz,86304,Brasileirão Série C,6,0,55,11,19,25
+Raphael Luz,86304,Brasileirão Série D,7,0,60,19,22,19
+Raphael Luz,86304,Jogos Amistosos Clubes,1,0,1,0,0,1
+Raphael Luz,86304,Campeonato Tocantinense,2,0,5,3,0,2
+Thomas,910620,Paulista Sub-23 Segunda Divisão,1,0,13,5,4,4
+Thomas,910620,Copinha,1,0,1,1,0,0
+Thomas,910620,Campeonato Goiano,1,0,4,1,0,3
+Éwerton Pascoa,186834,Copa do Nordeste,5,1,31,14,7,10
+Éwerton Pascoa,186834,Campeonato Paulista,3,0,23,6,6,11
+Éwerton Pascoa,186834,Brasileirão,4,0,53,21,15,17
+Éwerton Pascoa,186834,Copa do Brasil,8,0,21,8,6,7
+Éwerton Pascoa,186834,Brasileirão Série B,7,0,116,47,31,38
+Éwerton Pascoa,186834,Copa Sul-Americana,2,0,2,0,0,2
+Éwerton Pascoa,186834,Recopa Sul-Americana,1,1,1,1,0,0
+Éwerton Pascoa,186834,Campeonato Mineiro,2,0,7,1,1,5
+Éwerton Pascoa,186834,Campeonato Baiano,1,0,4,1,2,1
+Éwerton Pascoa,186834,Campeonato Pernambucano,3,1,31,19,7,5
+Éwerton Pascoa,186834,Copa do Nordeste Classificatória,2,0,5,3,1,1
+Éwerton Pascoa,186834,Campeonato Catarinense,2,1,20,8,7,5
+Éwerton Pascoa,186834,Campeonato Alagoano,2,1,13,6,4,3
+Éwerton Pascoa,186834,Paulista A2,2,0,14,4,5,5
+Éwerton Pascoa,186834,Paulista Sub-23 Segunda Divisão,2,1,29,21,1,7
+Éwerton Pascoa,186834,Copa Paulista,3,0,27,10,11,6
+Éwerton Pascoa,186834,Brasileirão Série C,1,0,7,3,1,3
+Jackson Souza,137661,Copa do Nordeste,3,1,12,7,4,1
+Jackson Souza,137661,Primeira Liga,1,0,2,1,1,0
+Jackson Souza,137661,Campeonato Paulista,2,0,23,8,5,10
+Jackson Souza,137661,Campeonato Baiano,2,1,4,2,2,0
+Jackson Souza,137661,Brasileirão,8,0,114,36,30,48
+Jackson Souza,137661,Copa do Brasil,9,1,26,12,9,5
+Jackson Souza,137661,Brasileirão Série B,3,0,48,21,10,17
+Jackson Souza,137661,Brasileirão Série C,2,1,34,21,6,7
+Jackson Souza,137661,Copa Sul-Americana,4,0,9,3,1,5
+Jackson Souza,137661,Campeonato Goiano,1,0,7,3,3,1
+Jackson Souza,137661,Campeonato Cearense,1,1,5,4,0,1
+Jackson Souza,137661,Campeonato Gaúcho,2,2,8,4,2,2
+Jackson Souza,137661,Paulista A2,2,0,17,5,8,4
+Jackson Souza,137661,Copa Paulista,1,0,10,2,2,6
+Jackson Souza,137661,Liga Malásia,1,0,16,8,3,5
+Jackson Souza,137661,Campeonato Brasileiro de Aspirantes,1,0,3,1,0,2
+Jackson Souza,137661,Jogos Amistosos Clubes,1,0,2,0,1,1
+Jackson Souza,137661,Copinha,1,0,5,3,1,1
+Jackson Souza,137661,Brasileirão Série D,1,0,6,1,3,2
+Jackson Souza,137661,Campeonato Mato-Grossense,1,1,13,4,7,2
+Léo Vieira,53979,Primeira Liga,1,0,2,1,1,0
+Léo Vieira,53979,Campeonato Paulista,2,0,14,3,3,8
+Léo Vieira,53979,Brasileirão,3,0,24,5,11,8
+Léo Vieira,53979,Copa do Brasil,2,0,10,3,4,3
+Léo Vieira,53979,Taça da Liga,1,0,2,0,1,1
+Léo Vieira,53979,Brasileirão Série B,5,0,50,19,14,17
+Léo Vieira,53979,Campeonato Paranaense,4,3,28,17,6,5
+Léo Vieira,53979,Campeonato Catarinense,3,0,19,7,6,6
+Léo Vieira,53979,Copa Federação Gaúcha de Futebol,1,0,1,1,0,0
+Léo Vieira,53979,Taça de Portugal,2,0,6,4,1,1
+Léo Vieira,53979,Jogos Amistosos Clubes,1,0,1,1,0,0
+Léo Vieira,53979,Copinha,2,0,7,5,1,1
+Maycon,450118,Campeonato Baiano,2,0,6,1,0,5
+Maycon,450118,Copinha,1,0,3,2,1,0
+Paulo Vinicius,155495,Liga Grega,1,0,22,3,9,10
+Paulo Vinicius,155495,Liga Cipriota,2,0,36,18,9,9
+Paulo Vinicius,155495,Copa Sul-Americana,1,0,1,1,0,0
+Paulo Vinicius,155495,Copa Libertadores,1,0,3,2,0,1
+Paulo Vinicius,155495,Liga Europa,2,0,12,4,1,7
+Paulo Vinicius,155495,Liga Europa (Qualificação),5,0,19,6,8,5
+Paulo Vinicius,155495,Liga dos Campeões (Qualificação),2,0,12,3,7,2
+Paulo Vinicius,155495,Liga das Nações,1,0,1,1,0,0
+Paulo Vinicius,155495,Eliminatórias Copa do Mundo (UEFA),1,0,2,0,0,2
+Paulo Vinicius,155495,Liga Uruguaia,3,1,39,19,8,12
+Paulo Vinicius,155495,Liga Húngara,9,2,199,125,40,34
+Paulo Vinicius,155495,Taça Hungria,6,1,14,8,3,3
+Paulo Vinicius,155495,Taça do Chipre,2,0,7,3,1,3
+Paulo Vinicius,155495,Supertaça Hungria,1,0,1,0,0,1
+Paulo Vinicius,155495,Taça da Liga Húngara,3,1,12,8,2,2
+Paulo Vinicius,155495,Segunda Divisão Húngara,4,0,89,31,25,33
+Paulo Vinicius,155495,Jogos Amistosos Clubes,2,0,2,1,0,1
+Paulo Vinicius,155495,Amistosos Seleções,2,0,4,1,1,2
+Paulo Vinicius,155495,Copinha,1,0,1,1,0,0
+Rafael Tavares,126188,Campeonato Paulista,2,0,10,5,3,2
+Rafael Tavares,126188,Copa Verde,3,0,9,3,2,4
+Rafael Tavares,126188,Copa do Brasil,10,0,26,10,6,10
+Rafael Tavares,126188,Brasileirão Série B,4,0,77,24,24,29
+Rafael Tavares,126188,Brasileirão Série C,11,1,148,55,40,53
+Rafael Tavares,126188,Campeonato Paranaense,1,0,12,2,2,8
+Rafael Tavares,126188,Campeonato Goiano,1,0,9,2,4,3
+Rafael Tavares,126188,Campeonato Amazonense,4,2,41,20,13,8
+Rafael Tavares,126188,Campeonato Gaúcho,3,0,31,12,6,13
+Rafael Tavares,126188,Paulista A2,2,0,19,7,6,6
+Rafael Tavares,126188,Copa Federação Gaúcha de Futebol,2,0,13,7,4,2
+Rafael Tavares,126188,Copa Paulista,3,0,31,10,15,6
+Rafael Tavares,126188,Brasileirão Série D,3,1,41,23,11,7
+Rafael Tavares,126188,Jogos Amistosos Clubes,1,0,2,2,0,0
+Rafael Tavares,126188,Copinha,1,0,5,4,1,0
+Rafael Tavares,126188,Copa Norte,1,0,1,0,0,1
+Éverson,141464,Copa do Nordeste,3,0,23,9,7,7
+Éverson,141464,Primeira Liga,1,0,3,0,3,0
+Éverson,141464,Campeonato Mineiro,6,5,60,38,14,8
+Éverson,141464,Campeonato Paulista,3,0,13,4,5,4
+Éverson,141464,Brasileirão,9,1,293,128,83,82
+Éverson,141464,Copa do Brasil,11,1,60,31,13,16
+Éverson,141464,Brasileirão Série B,6,0,92,39,23,30
+Éverson,141464,Brasileirão Série C,1,0,9,3,3,3
+Éverson,141464,Copa Sul-Americana,2,0,23,11,8,4
+Éverson,141464,Copa Libertadores,5,0,48,25,16,7
+Éverson,141464,Campeonato Sergipano,1,1,1,1,0,0
+Éverson,141464,Campeonato Cearense,3,2,41,31,6,4
+Éverson,141464,Paulista A2,2,0,2,0,1,1
+Éverson,141464,Supercopa do Brasil,1,1,1,0,1,0
+Éverson,141464,Brasileirão Série D,1,0,13,7,5,1
+Éverson,141464,Jogos Amistosos Clubes,2,0,3,0,3,0
+Bruno Uvini,132377,Campeonato Brasileiro,5,0,45,21,5,19
+Bruno Uvini,132377,Campeonato Holandês,1,0,33,12,7,14
+Bruno Uvini,132377,Liga Japonesa,1,0,2,0,0,2
+Bruno Uvini,132377,Campeonato Italiano,1,0,1,1,0,0
+Bruno Uvini,132377,Emperor´s Cup All-Japan Tournament,1,0,1,0,0,1
+Bruno Uvini,132377,Copa do Brasil,4,0,12,4,5,3
+Bruno Uvini,132377,Europa League,1,0,1,0,0,1
+Bruno Uvini,132377,Olimpíadas,1,0,1,1,0,0
+Bruno Uvini,132377,Mundial Sub-20,1,1,7,5,2,0
+Bruno Uvini,132377,Campeonato Gaúcho,2,2,9,6,3,0
+Bruno Uvini,132377,Recopa Gaúcha,1,1,1,0,0,1
+Bruno Uvini,132377,Liga Arábia Saudita,5,1,86,46,20,20
+Bruno Uvini,132377,Liga Catar,1,0,12,4,3,5
+Bruno Uvini,132377,J.League Yamazaki Nabisco Cup,1,0,5,1,2,2
+Bruno Uvini,132377,KNVB Beker,1,0,1,0,0,1
+Bruno Uvini,132377,King´s Cup of Champions,2,0,4,3,0,1
+Bruno Uvini,132377,Taça da União das Associações de Futebol Árabe,2,0,2,1,0,1
+Bruno Uvini,132377,Sul-Americano Sub-20,1,1,6,4,1,1
+Bruno Uvini,132377,Copinha,2,1,13,10,2,1
+Bruno Uvini,132377,Amistosos Seleções,1,0,3,1,0,2
+Henrique Almeida,89450,Primeira Liga,1,0,1,0,1,0
+Henrique Almeida,89450,Campeonato Paulista,4,0,23,11,7,5
+Henrique Almeida,89450,Campeonato Mineiro,2,0,13,6,3,4
+Henrique Almeida,89450,Copa Verde,1,0,6,2,1,3
+Henrique Almeida,89450,Campeonato Espanhol,1,0,6,1,0,5
+Henrique Almeida,89450,Campeonato Português,1,0,15,5,5,5
+Henrique Almeida,89450,Brasileirão,13,0,208,55,55,98
+Henrique Almeida,89450,Copa do Brasil,9,1,20,9,8,3
+Henrique Almeida,89450,Taça da Liga,1,0,3,0,0,3
+Henrique Almeida,89450,Brasileirão Série B,4,1,77,25,20,32
+Henrique Almeida,89450,Copa Sul-Americana,2,0,4,2,1,1
+Henrique Almeida,89450,Copa Libertadores,3,0,14,5,3,6
+Henrique Almeida,89450,Mundial Sub-20,1,1,7,5,2,0
+Henrique Almeida,89450,Campeonato Goiano,2,0,14,7,4,3
+Henrique Almeida,89450,Campeonato Paranaense,1,1,13,7,3,3
+Henrique Almeida,89450,Campeonato Amazonense,1,1,4,1,0,3
+Henrique Almeida,89450,Campeonato Gaúcho,1,0,10,6,1,3
+Henrique Almeida,89450,Campeonato Carioca,3,1,20,10,5,5
+Henrique Almeida,89450,Taça de Portugal,1,0,1,0,0,1
+Henrique Almeida,89450,Copa da Turquia,1,0,2,0,0,2
+Henrique Almeida,89450,Segunda Divisão Turca,1,0,12,4,1,7
+Henrique Almeida,89450,Jogos Amistosos Clubes,1,0,1,0,0,1
+Henrique Almeida,89450,Sul-Americano Sub-20,1,1,6,5,1,0
+Henrique Almeida,89450,Jogos Pan-Americanos,1,0,3,0,2,1
+Henrique Almeida,89450,Copinha,1,0,7,5,1,1
+Henrique Almeida,89450,Brasileirão Série D,1,0,16,11,3,2
+Henrique Almeida,89450,Campeonato Candango,1,1,7,5,2,0
+Henrique Almeida,89450,Copa Centro-Oeste,1,0,4,3,0,1
+Lucas Gaúcho,132212,Campeonato Paulista,1,0,5,2,0,3
+Lucas Gaúcho,132212,Campeonato Brasileiro,1,0,5,2,2,1
+Lucas Gaúcho,132212,Emperor´s Cup All-Japan Tournament,1,0,1,1,0,0
+Lucas Gaúcho,132212,Copa da Liga Boliviana,1,0,3,0,1,2
+Lucas Gaúcho,132212,Brasileiro Série B,2,1,13,8,5,0
+Lucas Gaúcho,132212,Copa Sul-Americana,1,0,2,0,2,0
+Lucas Gaúcho,132212,Copa Libertadores,2,0,8,2,3,3
+Lucas Gaúcho,132212,Europa Conference League [Qualificação],1,0,1,0,1,0
+Lucas Gaúcho,132212,Liga dos Campeões [Qualificação],1,0,2,0,1,1
+Lucas Gaúcho,132212,Campeonato Gaúcho,2,0,23,5,8,10
+Lucas Gaúcho,132212,Liga Gibraltar,2,0,31,27,2,2
+Lucas Gaúcho,132212,Liga Israelita,1,0,10,3,1,6
+Lucas Gaúcho,132212,Liga Lituana,2,2,11,10,0,1
+Lucas Gaúcho,132212,Liga Boliviana,3,1,57,30,9,18
+Lucas Gaúcho,132212,Taça Gibraltar,2,0,4,3,0,1
+Lucas Gaúcho,132212,Copa del Rey,1,0,2,1,0,1
+Lucas Gaúcho,132212,2ª Divisão Japão,1,0,1,0,0,1
+Lucas Gaúcho,132212,Primera División RFEF,1,0,20,7,3,10
+Lucas Gaúcho,132212,Segunda División RFEF,1,0,2,1,1,0
+Lucas Gaúcho,132212,Copinha,2,1,11,9,2,0
+Lucas Gaúcho,132212,AFC Champions League Two,1,0,1,1,0,0
+Lucas Gaúcho,132212,Brasileirão Série D,1,0,7,1,3,3
+Lucas Gaúcho,132212,Campeonato Paranaense,1,0,6,2,2,2
+Oscar,64777,Campeonato Paulista,2,0,13,6,3,4
+Oscar,64777,Campeonato Brasileiro,5,0,53,23,11,19
+Oscar,64777,Liga Inglesa,5,2,131,76,33,22
+Oscar,64777,China Super League,8,3,179,122,33,24
+Oscar,64777,Supercopa - Inglaterra,1,0,1,0,0,1
+Oscar,64777,Copa da Inglaterra,4,0,16,10,2,4
+Oscar,64777,Copa da Liga,4,1,12,8,2,2
+Oscar,64777,Copa Sul-Americana,1,0,1,0,1,0
+Oscar,64777,Recopa Sul-Americana,1,1,1,1,0,0
+Oscar,64777,Supercopa Europeia,2,0,2,0,1,1
+Oscar,64777,Copa Libertadores,4,0,15,7,3,5
+Oscar,64777,Liga dos Campeões,4,0,30,16,7,7
+Oscar,64777,Europa League,1,1,9,6,1,2
+Oscar,64777,Mundial de Clubes,2,0,3,1,0,2
+Oscar,64777,Eliminatórias Copa do Mundo (CONMEBOL),1,0,3,2,0,1
+Oscar,64777,Olimpíadas,1,0,6,5,0,1
+Oscar,64777,Copa do Mundo,1,0,7,3,2,2
+Oscar,64777,Mundial Sub-20,1,1,7,5,2,0
+Oscar,64777,Copa das Confederações,1,1,5,5,0,0
+Oscar,64777,Campeonato Gaúcho,2,2,20,12,6,2
+Oscar,64777,Chinese FA Super Cup,2,1,2,1,0,1
+Oscar,64777,Copa da China,8,1,21,14,3,4
+Oscar,64777,AFC Champions League Elite,6,0,43,20,12,11
+Oscar,64777,Jogos Amistosos Clubes,2,0,4,0,2,2
+Oscar,64777,Sul-Americano Sub-20,1,1,9,7,1,1
+Oscar,64777,Amistosos Seleções,5,0,34,25,5,4
+Oscar,64777,Copinha,1,0,6,4,1,1
+Oscar,64777,Copa do Brasil,1,0,1,1,0,0
+Richard,123999,Primeira Liga,1,0,2,0,1,1
+Richard,123999,Copa do Nordeste,6,2,38,22,9,7
+Richard,123999,Campeonato Paulista,3,0,35,9,8,18
+Richard,123999,Campeonato Brasileiro,5,0,63,15,20,28
+Richard,123999,Copa do Brasil,5,0,13,4,4,5
+Richard,123999,Brasileiro Série B,4,0,102,41,25,36
+Richard,123999,Copa Sul-Americana,2,0,7,4,2,1
+Richard,123999,Campeonato Paranaense,1,0,6,4,2,0
+Richard,123999,Campeonato Paulista Sub-20,1,1,8,4,3,1
+Richard,123999,Campeonato Cearense,5,1,25,10,12,3
+Richard,123999,Paulista A2,3,0,26,13,6,7
+Richard,123999,Copinha,1,1,8,7,1,0
+Richard,123999,Copa Paulista,3,0,41,12,15,14
+Richard,123999,Campeonato Brasileiro de Aspirantes,1,1,1,1,0,0
+Richard,123999,Brasileiro Série D,1,0,5,2,1,2
+Wellington,64774,Campeonato Paulista,7,0,45,27,9,9
+Wellington,64774,Copa Verde,1,0,3,1,1,1
+Wellington,64774,Brasileirão,15,1,249,118,62,69
+Wellington,64774,Copa do Brasil,9,1,24,11,5,8
+Wellington,64774,Brasileirão Série B,2,0,40,15,10,15
+Wellington,64774,Copa Sul-Americana,8,2,34,13,16,5
+Wellington,64774,Recopa Sul-Americana,2,0,4,1,0,3
+Wellington,64774,Copa Libertadores,6,0,35,14,7,14
+Wellington,64774,Campeonato Paranaense,1,1,8,5,3,0
+Wellington,64774,Campeonato Goiano,1,0,12,7,5,0
+Wellington,64774,Campeonato Carioca,4,1,31,19,5,7
+Wellington,64774,Copa Santa Catarina,1,0,2,0,1,1
+Wellington,64774,Supercopa do Brasil,1,0,1,0,0,1
+Wellington,64774,Taça Suruga Bank,2,1,2,1,0,1
+Wellington,64774,Jogos Amistosos Clubes,4,0,5,2,2,1
+Wellington,64774,Copinha,2,0,6,5,1,0
+Alfredo,134257,Campeonato Paulista,1,0,7,1,2,4
+Alfredo,134257,Copa do Nordeste,2,0,7,4,1,2
+Alfredo,134257,Campeonato Mineiro,1,0,7,1,0,6
+Alfredo,134257,Copa Verde,3,0,9,3,4,2
+Alfredo,134257,Copa do Brasil,5,0,8,4,1,3
+Alfredo,134257,Taça da Liga,2,0,3,1,0,2
+Alfredo,134257,Brasileiro Série B,3,0,54,17,19,18
+Alfredo,134257,II Liga Portuguesa,2,0,7,2,3,2
+Alfredo,134257,Campeonato Potiguar,1,1,8,5,3,0
+Alfredo,134257,Campeonato Paraense,1,1,9,7,2,0
+Alfredo,134257,Campeonato Paulista Sub-20,2,1,36,18,11,7
+Alfredo,134257,Campeonato Alagoano,1,0,8,2,3,3
+Alfredo,134257,Campeonato Sul-Mato-Grossense,1,0,4,1,0,3
+Alfredo,134257,Campeonato Sergipano,1,0,7,4,2,1
+Alfredo,134257,Campeonato Catarinense Divisão Especial,1,0,7,4,1,2
+Alfredo,134257,Paulista A2,2,0,13,4,3,6
+Alfredo,134257,Campeonato Gaúcho Divisão de Acesso,2,0,24,11,4,9
+Alfredo,134257,Campeonato Mineiro Módulo II,1,0,3,0,0,3
+Alfredo,134257,Copa Alagoas,1,0,4,2,1,1
+Alfredo,134257,Copa Paulista,2,0,16,3,4,9
+Alfredo,134257,Liga Búlgara,1,0,16,7,3,6
+Alfredo,134257,Taça de Portugal,2,0,3,2,0,1
+Alfredo,134257,Copa São Paulo de Futebol Júnior,3,1,10,9,0,1
+Alfredo,134257,Jogos Amistosos Clubes,1,0,1,0,0,1
+Alfredo,134257,Serie D Italiana,1,0,10,2,3,5
+Alfredo,134257,Coppa Italia Serie D,1,0,2,1,0,1
+Casemiro,95621,Campeonato Paulista,3,0,31,22,5,4
+Casemiro,95621,Liga Portuguesa,1,0,28,20,6,2
+Casemiro,95621,Campeonato Brasileiro,3,0,61,30,12,19
+Casemiro,95621,Liga Espanhola,10,3,222,154,38,30
+Casemiro,95621,Liga Inglesa,4,0,111,57,26,28
+Casemiro,95621,Supercopa da Espanha,4,3,7,5,1,1
+Casemiro,95621,Copa da Inglaterra,4,1,11,6,3,2
+Casemiro,95621,Copa do Brasil,2,0,14,10,1,3
+Casemiro,95621,Supercopa - Inglaterra,1,0,1,0,1,0
+Casemiro,95621,Copa del Rey,8,1,24,14,5,5
+Casemiro,95621,Taça de Portugal,1,0,1,0,0,1
+Casemiro,95621,Copa da Liga,3,1,10,9,0,1
+Casemiro,95621,Taça da Liga,1,0,2,1,0,1
+Casemiro,95621,Segunda Divisão Espanhola,1,0,15,6,4,5
+Casemiro,95621,Supercopa Europeia,4,3,4,3,0,1
+Casemiro,95621,Copa Sul-Americana,2,1,3,3,0,0
+Casemiro,95621,Liga dos Campeões,10,5,83,53,12,18
+Casemiro,95621,Copa Libertadores,1,0,2,1,0,1
+Casemiro,95621,Europa League,2,0,25,16,6,3
+Casemiro,95621,Liga dos Campeões [Qualificação],1,0,2,2,0,0
+Casemiro,95621,Mundial de Clubes,3,3,6,6,0,0
+Casemiro,95621,Jogos Amistosos Clubes,2,0,3,2,0,1
+Casemiro,95621,Copa América,4,1,13,9,3,1
+Casemiro,95621,Eliminatórias Copa do Mundo (CONMEBOL),3,0,23,18,4,1
+Casemiro,95621,Mundial Sub-17,1,0,2,1,0,1
+Casemiro,95621,Mundial Sub-20,1,1,7,5,2,0
+Casemiro,95621,Copa do Mundo,3,0,13,9,3,1
+Casemiro,95621,Sul-Americano Sub-20,1,1,8,6,1,1
+Casemiro,95621,Copinha,2,1,8,7,1,0
+Casemiro,95621,Amistosos Seleções,11,0,41,28,7,6
+Casemiro,95621,Major League Soccer,1,0,18,6,8,4
+Casemiro,95621,Leagues Cup,1,0,3,1,0,2
+Casemiro,95621,Campeones Cup CONCACAF,1,1,1,1,0,0
+Dener,137355,Copa do Nordeste,1,0,2,2,0,0
+Dener,137355,Campeonato Paulista,2,0,22,6,3,13
+Dener,137355,Copa Verde,1,0,1,0,1,0
+Dener,137355,Campeonato Brasileiro,1,0,1,1,0,0
+Dener,137355,Liga Portuguesa,5,0,138,43,34,61
+Dener,137355,Nacional Sub-23,1,0,2,0,1,1
+Dener,137355,Copa do Brasil,4,0,7,2,2,3
+Dener,137355,Taça da Liga,4,0,7,3,1,3
+Dener,137355,II Liga Portuguesa,3,1,35,11,11,13
+Dener,137355,Brasileiro Série B,3,0,13,1,6,6
+Dener,137355,Campeonato Paulista Sub-20,2,1,20,10,7,3
+Dener,137355,Campeonato Paraense,1,1,5,4,0,1
+Dener,137355,Liga Arábia Saudita,2,0,51,17,7,27
+Dener,137355,Taça de Portugal,5,0,9,3,2,4
+Dener,137355,Copa São Paulo de Futebol Júnior,2,1,13,11,1,1
+Dener,137355,King´s Cup of Champions,2,0,2,0,1,1
+Dener,137355,Liguilha I/II Divisão,1,0,1,0,0,1
+Dener,137355,Campeonato Carioca,1,0,7,2,3,2
+Dener,137355,Copa Rio,1,0,1,0,0,1
+Dener,137355,Brasileirão Série C,1,0,12,3,3,6
+Dener,137355,Copa Sul-Sudeste,1,0,5,2,1,2
+Lucas Mendes,137646,Copa do Nordeste,3,0,12,3,2,7
+Lucas Mendes,137646,Campeonato Paulista,4,0,20,4,3,13
+Lucas Mendes,137646,Copa do Brasil,4,0,8,3,3,2
+Lucas Mendes,137646,Brasileiro Série B,2,0,42,16,10,16
+Lucas Mendes,137646,Brasileiro Série C,5,0,60,29,13,18
+Lucas Mendes,137646,Brasileiro Série D,3,0,20,13,5,2
+Lucas Mendes,137646,Campeonato Paulista Sub-20,2,1,24,14,6,4
+Lucas Mendes,137646,Campeonato Potiguar,2,2,17,9,6,2
+Lucas Mendes,137646,Campeonato Paraibano,1,0,8,2,5,1
+Lucas Mendes,137646,Copa do Nordeste Classificatória,1,0,2,0,1,1
+Lucas Mendes,137646,Campeonato Alagoano,1,1,6,4,1,1
+Lucas Mendes,137646,Paulista A2,4,0,42,21,13,8
+Lucas Mendes,137646,Paulista A3,1,0,20,8,7,5
+Lucas Mendes,137646,Paulista Segunda Divisão,1,0,13,3,5,5
+Lucas Mendes,137646,Copa Paulista,1,0,2,0,1,1
+Lucas Mendes,137646,Copa São Paulo de Futebol Júnior,2,1,7,6,0,1
+Lucas Moura,132213,Campeonato Paulista,5,0,56,34,13,9
+Lucas Moura,132213,Liga Inglesa,6,0,150,78,22,50
+Lucas Moura,132213,Campeonato Brasileiro,7,0,141,62,35,44
+Lucas Moura,132213,Premier League 2,1,0,4,3,0,1
+Lucas Moura,132213,Campeonato Francês,6,5,153,108,32,13
+Lucas Moura,132213,Copa da Inglaterra,6,0,17,9,4,4
+Lucas Moura,132213,Copa do Brasil,4,1,21,12,4,5
+Lucas Moura,132213,Coupe de France,5,4,18,17,0,1
+Lucas Moura,132213,Trophée des Champions,4,4,4,4,0,0
+Lucas Moura,132213,Copa da Liga,4,0,12,5,3,4
+Lucas Moura,132213,Taça da Liga Francesa,5,5,16,16,0,0
+Lucas Moura,132213,Copa Sul-Americana,3,1,14,7,5,2
+Lucas Moura,132213,Liga dos Campeões,9,0,60,29,14,17
+Lucas Moura,132213,Copa Libertadores,2,0,11,3,6,2
+Lucas Moura,132213,Europa League,1,0,10,7,1,2
+Lucas Moura,132213,Europa Conference League [Qualificação],1,0,1,1,0,0
+Lucas Moura,132213,Europa Conference League,1,0,4,2,1,1
+Lucas Moura,132213,Europa League [Qualificação],1,0,3,3,0,0
+Lucas Moura,132213,Jogos Amistosos Clubes,5,0,7,4,2,1
+Lucas Moura,132213,Copa América,2,0,5,1,4,0
+Lucas Moura,132213,Eliminatórias Copa do Mundo (CONMEBOL),2,0,2,1,0,1
+Lucas Moura,132213,Olimpíadas,1,0,4,3,0,1
+Lucas Moura,132213,Copinha,2,1,10,9,1,0
+Lucas Moura,132213,Amistosos Seleções,5,0,29,22,3,4
+Lucas Moura,132213,Copa das Confederações,1,1,2,2,0,0
+Lucas Moura,132213,Sul-Americano Sub-20,1,1,9,7,1,1
+Léo Navacchio,134255,Liga Portuguesa,2,0,10,5,1,4
+Léo Navacchio,134255,Taça da Liga,4,0,9,6,1,2
+Léo Navacchio,134255,II Liga Portuguesa,7,1,79,25,26,28
+Léo Navacchio,134255,Liguilha 2ªLiga/Liga 3,1,0,2,1,1,0
+Léo Navacchio,134255,Campeonato Paulista Sub-20,2,1,23,12,8,3
+Léo Navacchio,134255,Liga Indonésia,2,0,56,18,15,23
+Léo Navacchio,134255,Copa São Paulo de Futebol Júnior,1,1,5,4,0,1
+Léo Navacchio,134255,Taça de Portugal,5,0,8,3,3,2
+Mauricio Antonio,137649,Campeonato Brasileiro,1,0,3,0,1,2
+Mauricio Antonio,137649,Liga Portuguesa,3,0,73,24,18,31
+Mauricio Antonio,137649,Copa do Brasil,2,0,2,0,1,1
+Mauricio Antonio,137649,Liga Japonesa,4,0,63,21,18,24
+Mauricio Antonio,137649,Emperor´s Cup All-Japan Tournament,2,1,6,5,0,1
+Mauricio Antonio,137649,Taça da Liga,3,0,8,3,2,3
+Mauricio Antonio,137649,II Liga Portuguesa,2,1,58,24,17,17
+Mauricio Antonio,137649,Brasileiro Série B,2,0,40,12,12,16
+Mauricio Antonio,137649,Europa League [Qualificação],1,0,1,0,1,0
+Mauricio Antonio,137649,Mundial de Clubes,1,0,1,1,0,0
+Mauricio Antonio,137649,Campeonato Paulista Sub-20,2,1,6,3,1,2
+Mauricio Antonio,137649,Campeonato Paranaense,1,0,13,8,3,2
+Mauricio Antonio,137649,Paulista A3,1,0,13,5,5,3
+Mauricio Antonio,137649,Copa Paulista,1,0,18,9,3,6
+Mauricio Antonio,137649,Liga Arábia Saudita,2,0,54,11,12,31
+Mauricio Antonio,137649,Copa São Paulo de Futebol Júnior,1,0,6,4,1,1
+Mauricio Antonio,137649,J.League Yamazaki Nabisco Cup,4,0,6,1,2,3
+Mauricio Antonio,137649,Taça de Portugal,2,0,2,0,0,2
+Mauricio Antonio,137649,Supercopa Japão,1,0,1,0,0,1
+Mauricio Antonio,137649,King´s Cup of Champions,2,0,3,2,0,1
+Mauricio Antonio,137649,AFC Champions League Elite,2,1,12,6,3,3
+Mauricio Antonio,137649,U21 Premier League International Cup,1,0,1,0,0,1
+Mauricio Antonio,137649,Taça Suruga Bank,1,1,1,1,0,0
+Mauricio Antonio,137649,Brasileirão Série C,1,0,16,7,5,4
+Mauricio Antonio,137649,Campeonato Paulista ,1,0,6,3,2,1
+Pablo,215758,Campeonato Mineiro,1,0,2,0,2,0
+Pablo,215758,Campeonato Paulista,1,0,5,2,2,1
+Pablo,215758,Brasileiro Série D,3,0,15,5,6,4
+Pablo,215758,Campeonato Paulista Sub-20,1,1,1,1,0,0
+Pablo,215758,Paranaense 2ª Divisão,1,0,16,7,1,8
+Pablo,215758,Paulista A2,4,0,23,8,7,8
+Pablo,215758,Campeonato Mineiro Módulo II,1,0,15,3,6,6
+Pablo,215758,Paulista A3,3,1,59,32,16,11
+Pablo,215758,Paranaense 3ª Divisão,2,0,18,8,7,3
+Pablo,215758,Paulista Segunda Divisão,3,0,46,15,18,13
+Pablo,215758,Copa Paulista,4,0,25,8,5,12
+Pablo,215758,Copa Espírito Santo,1,1,4,2,1,1
+Régis,137651,Campeonato Paranaense,2,1,16,11,4,1
+Régis,137651,Campeonato Pernambucano,1,0,12,7,3,2
+Régis,137651,Campeonato Mineiro,1,0,2,2,0,0
+Régis,137651,Campeonato Paulista,4,1,25,4,7,14
+Régis,137651,Campeonato Baiano,2,1,15,10,3,2
+Régis,137651,Copa Verde,1,0,1,0,1,0
+Régis,137651,Copa do Nordeste,4,1,31,17,7,7
+Régis,137651,Campeonato Brasileiro,6,0,111,36,38,37
+Régis,137651,Copa do Brasil,9,0,20,7,4,9
+Régis,137651,Brasileiro Série B,7,0,152,66,42,44
+Régis,137651,Copa Sul-Americana,3,0,8,3,2,3
+Régis,137651,Campeonato Paulista Sub-20,2,1,34,20,8,6
+Régis,137651,Campeonato Goiano,1,0,9,4,2,3
+Régis,137651,Campeonato Catarinense,1,0,9,8,0,1
+Régis,137651,Copa São Paulo de Futebol Júnior,1,0,2,2,0,0
+Régis,137651,Jogos Amistosos Clubes,2,0,4,1,1,2
+Régis,137651,Brasileirão Série C,1,0,4,1,1,2
+Willian Arão,137652,Primeira Liga,2,0,5,3,1,1
+Willian Arão,137652,Campeonato Paulista,3,1,14,6,5,3
+Willian Arão,137652,Campeonato Carioca,8,4,95,66,16,13
+Willian Arão,137652,Liga Grega,2,0,55,33,10,12
+Willian Arão,137652,Campeonato Turco,1,0,31,21,4,6
+Willian Arão,137652,Campeonato Brasileiro,12,2,264,134,66,64
+Willian Arão,137652,Copa do Brasil,10,1,37,16,10,11
+Willian Arão,137652,Brasileiro Série B,2,1,48,27,11,10
+Willian Arão,137652,Copa Sul-Americana,4,0,24,11,8,5
+Willian Arão,137652,Recopa Sul-Americana,1,2,2,1,1,0
+Willian Arão,137652,Copa Libertadores,6,3,43,25,10,8
+Willian Arão,137652,Europa League,2,0,10,3,2,5
+Willian Arão,137652,Europa Conference League [Qualificação],1,0,2,1,0,1
+Willian Arão,137652,Europa Conference League,1,0,8,5,1,2
+Willian Arão,137652,Europa League [Qualificação],2,0,6,5,0,1
+Willian Arão,137652,Liga dos Campeões [Qualificação],2,0,3,0,1,2
+Willian Arão,137652,Mundial de Clubes,1,1,2,1,0,1
+Willian Arão,137652,Amistosos Seleções,1,0,1,1,0,0
+Willian Arão,137652,Campeonato Catarinense,1,0,13,6,4,3
+Willian Arão,137652,Copa da Grécia,2,1,7,3,2,2
+Willian Arão,137652,Supercopa do Brasil,3,2,3,1,2,0
+Willian Arão,137652,Taça da Turquia,1,1,6,5,1,0
+Willian Arão,137652,Copinha,1,1,7,6,1,0
+Willian Arão,137652,Jogos Amistosos Clubes,4,0,5,2,2,1
+Willian Arão,137652,Campeonato Paulista Sub-20,1,0,13,6,4,3

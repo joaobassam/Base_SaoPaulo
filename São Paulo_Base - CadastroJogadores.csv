@@ -1,4 +1,4 @@
-Jogador,ID,Posição,Link,Ano,Status
+﻿Jogador,ID,Posição,Link,Ano,Status
 Richard,123999,Goleiro,https://www.ogol.com.br/jogador/richard-/123999/competicoes,1991,Ativo
 Cleiton,215759,Lateral Esquerdo,https://www.ogol.com.br/jogador/cleiton/215759/competicoes,1992,Retirado
 Régis,137651,Meia,https://www.ogol.com.br/jogador/regis/137651/competicoes,1992,Ativo
@@ -37,7 +37,7 @@ Henrique Miranda,137353,Lateral Esquerdo,https://www.ogol.com.br/jogador/henriqu
 Luiz Eduardo,137351,Zagueiro,https://www.ogol.com.br/jogador/luiz-eduardo/137351/competicoes,1993,Ativo
 Rodrigo Caio,134256,Zagueiro,https://www.ogol.com.br/jogador/rodrigo-caio/134256/competicoes,1993,Retirado
 Caio Barbosa,280652,Meia,https://www.ogol.com.br/jogador/caio-barbosa/280652/competicoes,1992,Retirado
-Bruno Uvini,132377,Zagueiro,https://www.ogol.com.br/jogador/bruno-uvini/132377/competicoes,1991,Ativo
+Bruno Uvini,132377,Zagueiro,https://www.ogol.com.br/jogador/bruno-uvini/132377/competicoes,1991,Retirado
 Casemiro,95621,Volante,https://www.ogol.com.br/jogador/casemiro/95621/competicoes,1992,Ativo
 Felipe Emanuel,137356,Lateral Esquerdo,https://www.ogol.com.br/jogador/felipe-emanuel/137356/competicoes,1992,Retirado
 Zé Vitor,134254,Volante,https://www.ogol.com.br/jogador/ze-vitor/134254/competicoes,1991,Retirado
@@ -348,7 +348,7 @@ Kauê Alves,1181322,Zagueiro,https://www.ogol.com.br/jogador/kaue-alves/1181322/
 Ryan Francisco,986884,Atacante,https://www.ogol.com.br/jogador/ryan-francisco-/986884/competicoes,2006,Ativo
 Pedro Afonso,868854,Atacante,https://www.ogol.com.br/jogador/pedro-afonso/868854/competicoes,2004,Ativo
 Enzo Perroni,744392,Atacante,https://www.ogol.com.br/jogador/enzo-perroni/744392/competicoes,2005,Ativo
-Oscar,64777,Meia,https://www.ogol.com.br/jogador/oscar/64777/competicoes,1991,Ativo
+Oscar,64777,Meia,https://www.ogol.com.br/jogador/oscar/64777/competicoes,1991,Retirado
 João Nazari,890216,Goleiro,https://www.ogol.com.br/jogador/joao-nazari-/890216/competicoes,2007,Ativo
 Eric,1003254,Goleiro,https://www.ogol.com.br/jogador/eric/1003254/competicoes,2006,Ativo
 Luciano,905964,Goleiro,https://www.ogol.com.br/jogador/luciano/905964/competicoes,2006,Ativo
@@ -386,7 +386,7 @@ Bruno Cesar,87580,Meia,https://www.ogol.com.br/jogador/bruno-cesar/87580/competi
 Julio Cesar,64779,Atacante,https://www.ogol.com.br/jogador/julio-cesar/64779/competicoes,1990,Retirado
 Serginho Paulista,127146,Volante,https://www.ogol.com.br/jogador/serginho-paulista/127146/competicoes,1988,Ativo
 Mazola,113453,Atacante,https://www.ogol.com.br/jogador/mazola/113453/competicoes,1989,Ativo
-Wellington,64774,Volante,https://www.ogol.com.br/jogador/wellington/64774/competicoes,1991,Ativo
+Wellington,64774,Volante,https://www.ogol.com.br/jogador/wellington/64774/competicoes,1991,Retirado
 Henrique Almeida,89450,Atacante,https://www.ogol.com.br/jogador/henrique-almeida/89450/competicoes,1991,Ativo
 Bruno Formigoni,64775,Volante,https://www.ogol.com.br/jogador/bruno-formigoni/64775/competicoes,1990,Retirado
 Jackson Souza,137661,Zagueiro,https://www.ogol.com.br/jogador/jackson/137661/competicoes,1990,Ativo
@@ -406,7 +406,7 @@ Bruno Silva,64776,Volante,https://www.ogol.com.br/jogador/bruno-silva/64776/comp
 Luan Scapolan,136658,Volante,https://www.ogol.com.br/jogador/luan/136658/competicoes,1988,Retirado
 Jorge Miguel,31401,Goleiro,https://www.ogol.com.br/jogador/jorge-miguel/31401/competicoes,1988,Retirado
 Léo Vieira,53979,Goleiro,https://www.ogol.com.br/jogador/leo-vieira/53979/competicoes,1990,Ativo
-Éwerton Pascoa,186834,Zagueiro,https://www.ogol.com.br/jogador/ewerton-pascoa/186834/competicoes,1989,Ativo
+Éwerton Pascoa,186834,Zagueiro,https://www.ogol.com.br/jogador/ewerton-pascoa/186834/competicoes,1989,Retirado
 Thomas,910620,Zagueiro,https://www.ogol.com.br/jogador/thomas/910620/competicoes,1989,Retirado
 Rainer,166915,Goleiro,https://www.ogol.com.br/jogador/rainer/166915/competicoes,1989,Retirado
 Paulo Vinicius,155495,Zagueiro,https://www.ogol.com.br/jogador/paulo-vinicius/155495/competicoes,1990,Ativo
